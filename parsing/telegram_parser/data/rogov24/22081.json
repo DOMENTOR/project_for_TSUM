@@ -1,0 +1,81 @@
+{
+    "text": "СВЕЖИЙ ЭПИЗОД «КТО КРУЧЕ ВСЕХ?» отличное начало дня!!!",
+    "date": "2024-09-08T07:12:19+00:00",
+    "views": 32620,
+    "forwards": 34,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 257,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 145,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 88,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 70,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 25,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🎉"
+                },
+                "count": 5,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\photo_2024-09-09_03-27-16 (2).jpg"
+    ]
+}

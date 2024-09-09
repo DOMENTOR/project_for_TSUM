@@ -1,0 +1,81 @@
+{
+    "text": "Классный кардиган с меховым воротничком был найден в MAX MARA в Crocus City Mall!!! 😝",
+    "date": "2024-09-08T11:36:52+00:00",
+    "views": 26648,
+    "forwards": 35,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 339,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 93,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 47,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 20,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🎉"
+                },
+                "count": 6,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\photo_2024-09-09_03-27-13 (2).jpg"
+    ]
+}

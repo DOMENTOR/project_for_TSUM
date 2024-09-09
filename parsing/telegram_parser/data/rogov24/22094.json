@@ -1,0 +1,81 @@
+{
+    "text": "Мой обувной арсенал на сегодня ⚡️⚡️⚡️\nLoewe\nMartine Rose\nBalenciaga\nMarni",
+    "date": "2024-09-08T12:23:42+00:00",
+    "views": 25701,
+    "forwards": 5,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 507,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 184,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 93,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 37,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 22,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 4,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 3,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\photo_2024-09-09_03-27-13.jpg"
+    ]
+}

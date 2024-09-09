@@ -1,0 +1,90 @@
+{
+    "text": "Модная Заметка. Кардиган с меховым воротничком - классная ироничная покупка на осень. 🩷",
+    "date": "2024-09-08T11:35:23+00:00",
+    "views": 25361,
+    "forwards": 138,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 354,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 80,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 65,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 38,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 20,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 15,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🎉"
+                },
+                "count": 5,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\photo_2024-09-09_03-27-16 (1).jpg"
+    ]
+}

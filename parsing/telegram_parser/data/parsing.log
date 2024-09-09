@@ -1,0 +1,61 @@
+2024-09-09 03:02:56,197 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-09-09 03:02:57,477 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-09-09 03:22:33,633 - telegram_bot_parser - ERROR - Неопознанная ошибка: name 'main' is not defined
+2024-09-09 03:23:33,634 - telegram_bot_parser - ERROR - Неопознанная ошибка: name 'main' is not defined
+2024-09-09 03:26:28,756 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-09-09 03:26:28,806 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-09-09 03:26:40,471 - telegram_bot_parser - INFO - Успешная авторизация для аккаунта +79624012858
+2024-09-09 03:26:40,791 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:26:46,901 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:09,882 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:10,169 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:10,544 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:10,871 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:11,219 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:11,558 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:11,749 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:12,444 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:12,624 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:12,853 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:13,111 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:13,445 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:13,618 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:13,896 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:14,137 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:14,394 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:14,594 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:14,936 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:15,492 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:15,666 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:15,947 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:16,078 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:16,409 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:16,629 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:16,687 - telethon.client.downloads - INFO - File lives in another DC
+2024-09-09 03:27:16,745 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-09-09 03:27:18,120 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-09-09 03:27:18,120 - telethon.client.telegrambaseclient - INFO - Exporting auth for new borrowed sender in DcOption(id=4, ip_address='149.154.167.91', port=443, ipv6=False, media_only=False, tcpo_only=False, cdn=False, static=False, this_port_only=False, secret=None)
+2024-09-09 03:27:18,872 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 03:27:40,146 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: AuthKeyUnregisteredError
+2024-09-09 03:27:40,199 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-09-09 03:27:40,199 - telethon.network.mtprotosender - INFO - Connection closed while sending data
+2024-09-09 03:27:40,199 - telethon.client.updates - INFO - Cannot get difference since the account is not logged in: AuthKeyUnregisteredError
+2024-09-09 03:27:40,200 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-09-09 03:27:40,200 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-09-09 03:27:40,200 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-09-09 03:27:40,208 - telegram_bot_parser - INFO - Завершено выполнение парсинга для аккаунта +79624012858
+2024-09-09 03:27:40,208 - telegram_bot_parser - ERROR - Неопознанная ошибка: The key is not registered in the system (caused by GetFileRequest)
+2024-09-09 13:32:41,929 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-09-09 13:32:41,978 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-09-09 13:33:06,328 - telegram_bot_parser - INFO - Успешная авторизация для аккаунта +79257816810
+2024-09-09 13:33:07,099 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 13:33:22,948 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-09-09 13:33:26,859 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-09-09 13:33:26,860 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-09-09 13:33:26,866 - telegram_bot_parser - INFO - Завершено выполнение парсинга для аккаунта +79257816810
+2024-09-09 14:04:12,989 - telegram_bot_parser - INFO - Файл сессии session_name.session существует и будет использован.
+2024-09-09 14:04:12,989 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-09-09 14:04:14,157 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-09-09 14:04:14,368 - telegram_bot_parser - INFO - Клиент подключен.
+2024-09-09 14:04:14,420 - telegram_bot_parser - INFO - Клиент не авторизован. Начинается процесс авторизации.
+2024-09-09 14:06:11,196 - telegram_bot_parser - ERROR - Неопознанная ошибка: The confirmation code has expired (caused by SignInRequest)

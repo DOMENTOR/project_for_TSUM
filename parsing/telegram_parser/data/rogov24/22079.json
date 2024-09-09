@@ -1,0 +1,97 @@
+{
+    "text": "ЛЮБИМАЯ МОСКВА, с днем рождения!!! ❤️❤️❤️ СПАСИБО ТЕБЕ ЗА ВСЁ!!!",
+    "date": "2024-09-07T18:33:16+00:00",
+    "views": 34455,
+    "forwards": 17,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 1003,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🎉"
+                },
+                "count": 319,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 79,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 60,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 14,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 5,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 3,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 2,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🙏"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": []
+    },
+    "media": []
+}
