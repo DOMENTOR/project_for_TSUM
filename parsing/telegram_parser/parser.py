@@ -29,11 +29,6 @@ def initialize_client(api_id, api_hash, phone_number, proxy=None):
     session_file = 'session_name'
     client = TelegramClient(session_file, api_id, api_hash, proxy=proxy)
     
-    if os.path.exists(session_file + '.session'):
-        logger.info(f'Файл сессии {session_file}.session существует и будет использован.')
-    else:
-        logger.info(f'Файл сессии {session_file}.session не найден. Создаем новый.')
-
     client.connect()
     logger.info('Клиент подключен.')
 
@@ -41,24 +36,27 @@ def initialize_client(api_id, api_hash, phone_number, proxy=None):
         logger.info('Клиент не авторизован. Начинается процесс авторизации.')
         client.send_code_request(phone_number)
         try:
-            client.sign_in(phone_number, input('Введите код (придет сообщением в Telegram, убедитесь, что подключение безопасно): '))
+            client.sign_in(phone_number, input('Введите код (придет сообщением в Telegram): '))
         except SessionPasswordNeededError:
             from getpass import getpass
             client.sign_in(password=getpass('Введите пароль: '))
         logger.info('Аутентификация прошла успешно и сессия была сохранена.')
     else:
-        logger.info('Клиент успешно авторизован с использованием сохраненной сессии.')
+        logger.info('Клиент уже авторизован.')
 
     return client
+
 
 def fetch_channel_messages(client, channel):
     try:
         channel_entity = client.get_entity(channel)
-        messages = client.get_messages(channel_entity, limit=100)
+        messages = client.get_messages(channel_entity, limit=500)  # Увеличиваем лимит до 500 сообщений
+        time.sleep(2)  # Добавляем паузу между запросами
         return messages
     except Exception as e:
         logger.error(f'Ошибка при получении сообщений из канала {channel}: {e}')
         return []
+    
 
 def save_message(client, channel, message):
     channel_folder = os.path.join(config.DATA_FOLDER, channel.strip('@'))
@@ -87,35 +85,30 @@ def save_message(client, channel, message):
         os.makedirs(media_folder, exist_ok=True)
         file_path = client.download_media(message.photo, file=media_folder)
         if file_path:
+            logger.info(f'Фото сохранено: {file_path}')
             message_data['media'].append(file_path)
-
-    if message.media and isinstance(message.media, list):
-        for media in message.media:
-            if isinstance(media, types.MessageMediaPhoto):
-                media_folder = os.path.join(channel_folder, 'media')
-                os.makedirs(media_folder, exist_ok=True)
-                file_path = client.download_media(media, file=media_folder)
-                if file_path:
-                    message_data['media'].append(file_path)
 
     message_file = os.path.join(channel_folder, f'{message.id}.json')
     with open(message_file, 'w', encoding='utf-8') as f:
         json.dump(message_data, f, ensure_ascii=False, indent=4)
 
-def __main__(api_id, api_hash, phone_number, proxy=None):
-    logger.debug('Начинаем запрос учетных данных')
-    
-    client = initialize_client(api_id, api_hash, phone_number, proxy)
-    logger.info(f'Успешная авторизация для аккаунта {phone_number}')
 
-    try:
-        for channel in config.TELEGRAM_CHANNELS:
-            messages = fetch_channel_messages(client, channel)
-            for message in messages:
-                save_message(client, channel, message)
-    finally:
-        client.disconnect()
-        logger.info(f'Завершено выполнение парсинга для аккаунта {phone_number}')
+def __main__():
+    while True:
+        try:
+            for channel in config.TELEGRAM_CHANNELS:
+                messages = fetch_channel_messages(client, channel)
+                for message in messages:
+                    save_message(client, channel, message)
+            logger.info(f'Ожидание {config.UPDATE_INTERVAL} секунд до следующего запуска')
+            time.sleep(config.UPDATE_INTERVAL)
+        except FloodWaitError as e:
+            logger.warning(f'Частые запросы. Ожидание {e.seconds} секунд.')
+            time.sleep(e.seconds)
+        except Exception as e:
+            logger.error(f'Ошибка: {e}')
+            time.sleep(60)
+
 
 if __name__ == '__main__':
     api_id, api_hash, phone_number = prompt_credentials()
@@ -131,14 +124,18 @@ if __name__ == '__main__':
         }
 
     try:
+        # Инициализируем клиента один раз перед циклом
+        client = initialize_client(api_id, api_hash, phone_number, proxy)
+        
         while True:
-            client = initialize_client(api_id, api_hash, phone_number, proxy)
             __main__(api_id, api_hash, phone_number, proxy)
             logger.info(f'Ожидание {config.UPDATE_INTERVAL} секунд до следующего запуска')
             time.sleep(config.UPDATE_INTERVAL)
+    
     except FloodWaitError as e:
         logger.warning(f'Частые запросы. Ожидание {e.seconds} секунд.')
         time.sleep(e.seconds)
+    
     except Exception as e:
         logger.error(f'Неопознанная ошибка: {e}')
         time.sleep(60)
