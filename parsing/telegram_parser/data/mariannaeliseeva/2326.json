@@ -1,0 +1,62 @@
+{
+    "text": "Новинки-хотелки недели:\n🍉 красное мини Yuzefi\n🍉 Кольцо-каркас Ushatava\n🍉 Платье MSGM\n🍉 гигантский шоппер Reframe\n🍉 тату-чокер Gosha Kartsev x Poison Drop\n🍉 куртка-рубашка Befree\n🍉 рубашка с галстуком IDOL\n🍉 пальто в полоску с широким шарфом\n🍉 юбка с мини-баской Lime\n🍉 жакет Lime",
+    "date": "2024-09-09T13:04:55+00:00",
+    "views": 54655,
+    "forwards": 59,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 504,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 308,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 79,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 32,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤬"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

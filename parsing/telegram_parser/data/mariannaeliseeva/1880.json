@@ -1,0 +1,80 @@
+{
+    "text": "По запросам оставляю ссылки на сет серег:\nКрупные ассиметричные\nhttps:sl.aliexpress.rup?key=eGH7squ\nДутые кольца\nhttps:sl.aliexpress.rup?key=GUTLs2f\nКафф\nhttps:sl.aliexpress.rup?key=AVH7sh6\nМини кешью\nhttps:sl.aliexpress.rup?key=IuLLsje",
+    "date": "2024-06-10T14:42:51+00:00",
+    "views": 57456,
+    "forwards": 399,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 843,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 231,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 154,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 61,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 17,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 12,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

@@ -1,0 +1,71 @@
+{
+    "text": "Найдите меня на всех фотках, или всех с Днем знаний! Благо, не надо идти в школу. 🦦\n\nХотя многие знакомые говорят, что лучше бы пошли учиться, чем вот это все. А у вас как со взрослой жизнью?",
+    "date": "2024-09-02T09:59:35+00:00",
+    "views": 4475,
+    "forwards": 0,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 146,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 17,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 9,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👻"
+                },
+                "count": 2,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 1,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💘"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

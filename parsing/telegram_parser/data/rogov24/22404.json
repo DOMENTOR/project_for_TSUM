@@ -1,0 +1,92 @@
+{
+    "text": "Модная Заметка. Коричневый или насыщенный шоколадный оттенок, пожалуй, самый популярный осенний цвет последних двух сезонов.\nПредлагаю вам самые горячие сочетания этой осени:\nКоричневый+сливочное масло\nКоричневый+лео  \nКоричневый+деним\nКоричневый+красный\nКоричневый+коричневый \n\nИ, как говорится, все будет в шоколаде! 🍫 🤎",
+    "date": "2024-09-24T09:23:11+00:00",
+    "views": 44678,
+    "forwards": 420,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 745,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 221,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 152,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 9,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 2,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 2,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 1,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22393.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22392.jpg"
+    ]
+}

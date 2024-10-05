@@ -1,0 +1,74 @@
+{
+    "text": "Забегала в Метрополис на примерку осенней коллекции 2MOOD.\n\nНа что обратила внимание: классные клечатые рубашки, как будто немного выгоревшие и с дранинкой. Идеальный (а я много примеряла) джинсовый комбез из нулевых и вообще деним, серые джинсы с разрывами, рабочая куртка. Офисный строгий ретро костюм-двойка с юбкой «коленочка в тени» из коллаборации с EKONIKA.\n\nОстальные образы можете найти на сайте 2MOOD.",
+    "date": "2024-09-27T14:29:38+00:00",
+    "views": 47738,
+    "forwards": 192,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 1053,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 364,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 223,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 86,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 9,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 3,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2442.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2443.jpg"
+    ]
+}

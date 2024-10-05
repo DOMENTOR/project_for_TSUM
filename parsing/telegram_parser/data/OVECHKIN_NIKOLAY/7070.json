@@ -1,0 +1,71 @@
+{
+    "text": "А ведь по лицу Джен всегда все было видно.\n\nПрочитал новости про p. diddy и ох**л в очередной раз по нескольким причинам. Во-первых, как столько лет тайна, которую вообще все знали, не становилась явной? Почему все раскрылось именно сейчас? Как так все жертвы молчали? А их мамы? А мужья? И вообще — откуда такой уровень распущенности и вседозволенности?",
+    "date": "2024-09-24T11:55:10+00:00",
+    "views": 3819,
+    "forwards": 20,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 56,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💯"
+                },
+                "count": 31,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💔"
+                },
+                "count": 19,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥴"
+                },
+                "count": 7,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 4,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

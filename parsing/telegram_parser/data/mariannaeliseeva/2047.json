@@ -1,0 +1,74 @@
+{
+    "text": "Мы начинаем заполнять канал с распродажей. Там на связи Яна @yanasinitsina, моя помощница. \n\nСначала летний гардероб, а в августе уже костюмная группа, сапоги, пальто. \n\nНадеюсь, у вас случится приятный шопинг!♥️",
+    "date": "2024-07-12T12:47:45+00:00",
+    "views": 60889,
+    "forwards": 108,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 1029,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 265,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 182,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 48,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 14,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2042.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2041.jpg"
+    ]
+}

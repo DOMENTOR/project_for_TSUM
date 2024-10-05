@@ -1,0 +1,95 @@
+{
+    "text": "Ловите атмосферные кадры со съёмочной площадки 6й серии «КТО КРУЧЕ ВСЕХ?»!!! У нас очень классно и легко! ❤️\nсмотрите нас каждое воскресенье в 9:00 на СТС! После эфира ищите серии в Ютуб и на VK видео! ⚡️",
+    "date": "2024-09-25T10:57:40+00:00",
+    "views": 42113,
+    "forwards": 3,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 381,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 114,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 69,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 37,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 10,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 10,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 4,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 3,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22417.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22414.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22422.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22420.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22421.jpg"
+    ]
+}

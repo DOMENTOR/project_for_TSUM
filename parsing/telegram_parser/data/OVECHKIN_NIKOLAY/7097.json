@@ -1,0 +1,53 @@
+{
+    "text": "Девочки, закупаемся жаккардом — следующим летом это писк. Это Saint Laurent весна-лето 2025. В этот раз Ваккарелло активно вдохновлялся архивами самого Ива, и получилось очень красиво.\n\nP.S. Нашу Таню и тут и там показывают — дальше больше. Ждите. А про Таню читайте тут.",
+    "date": "2024-09-24T19:19:23+00:00",
+    "views": 4258,
+    "forwards": 36,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 125,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 20,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤩"
+                },
+                "count": 15,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 7,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

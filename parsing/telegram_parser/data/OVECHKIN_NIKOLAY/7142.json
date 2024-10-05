@@ -1,0 +1,53 @@
+{
+    "text": "Кстати, одно из главных открытий для международной модной индустрии и моделинга в частности — 18-летняя Вика Вирс из Москвы, которая сделала в этом сезоне Versace, Saint Laurent и Dries Van Noten, и это еще не все. \n\nВика в профессии уже два года (да, в агентство Avant она пришла, когда ей было всего 16!), часто работает с Lime и Izeta. На заметку брендам — обратите внимание!",
+    "date": "2024-09-26T15:14:29+00:00",
+    "views": 3833,
+    "forwards": 5,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 120,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 47,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 18,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥱"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

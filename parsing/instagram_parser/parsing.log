@@ -1,0 +1,384 @@
+2024-10-04 19:51:10,656 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-04 20:06:26,542 - instagram_parser - ERROR - Ошибка при попытке входа: Login: Checkpoint required. Point your browser to https://www.instagram.com/challenge/AXGAgZTDUoG-Lh-HI1C1Dnp69vJGaxwXeQf3RbnVmneOldJeBYLcCBqxvzltHd90CU5S2MU/AfwcT31P9ayKqBCyuYVy9LpYPtWXVucI5D5CMySgdcXGHet0TER-xr1QzVIzNPMMjGtygN1abPUajA/?challenge_context=Af70bf55e4-2FBneh7Q2OZfnFE1RYPcMfumGuTgRWZeEL7UJhWr1pKIfjrQm2tW_7ijzZBE3Hg6qFH4RuD5fpENhdHPwlqKi9X5b5bQlgJywha1B708OI8ytR2W4degojktEydeq_7I_IOuMEeNXNy7ZKE-sFK-2Zv40x4QnG3kthVEwxv1bPxbgxcTmDXNqLR-KnoTq3A2CFrJWXnHt2LUYMp2rviT2RE-2AVt0k7EASPLM_YiaFL4F_uhi1omtFeahhkg9OScvhFWggZzF6TndD8FiyBfeIT2qWqWOhO9GbRzWDW0f723UDyXddpFMftZgttpVoV7ANnMQXAKWh6m1KlXSCRXRI8UHXI2HEJXiEXoht-N0e0Van1h3mDPiLMhAeKX-nzv2En51UWestJlwnXMq5-H8vLk6EHpDFLBu6dOr7b9t6joJlEUs4r7dNyoqaeqeeUH48CXrC16KK3gHE5S4UzglXe0PwcbR0ARjQqyrIGWnC-GEcBXRVCv2L6iulbOALDzXw9sbPd1cNDvxN9h8FsUVOWZTzhYd6RjgtY6S368yabXCeL3-HIW5w0EBzcOTspapu2tByK9KEHBdL4Gxe21rk9SiMb2YhpbEt751sHfRxIv9_0sKQsZ_R8AhduHZBGIPZQjyyno65_-V4idyWup9kDdgFCoQFKxz5USuvY8d6HvQdN44b7BhHHZTEAIv7KrrwXXXU0wCQq73l24JOW6d8cBjPRp9rCrOymnxPBQ7jmZMOAmZcJKXZLbD7xNCiiDGVNK5znBHde-6NwGclidmBjW8XlkSVwgipzIrMJDnuhjsXZpzPkom-6LOZps4q0Ft-8vrJ8HlkGAJrlsBzYSWLoI5fYUQvgtBw4ZaXFtbgmJsMy7DWBhd5pToLnyd-aQNG3mtNEAFreOqN829aHCVn2gJs3qKffWDMnxl0aaHZd311tj9so7heySAWW3OwOa3TVJC2MlJVE4ZBPTL_ahveveLyGQgLpgLCXesmyUVHMdPnW-EtRpe5Kx8ql1oC0ejJF2XrHAg02FulCNtgipsZYIVKCle_Iow3EtGUG9CEJ9O2EqlkJ8Gm2OED2pPB2P7scqt_HZySLArWplFqG-G3lAEBkei3mIie6ViJG0SxLoFekXuvK1lZ8JJeMA_Gs4V9EwCQR-xnx4iKcVvplg-x9Q1nJgX_TLFV2HYOkKEGgXegdofFdSleROueDgfEGoSAv31t6zzkGiV-8PFXP7uEaEd7qnJMjYNyQb5Tc9mLmXmj4r9lCxhFeBmlHXlTcyNmd_3pEixDEP1qwsFl_2-25CJ9xhD156R0GR4UIFmp2bqdrtd - follow the instructions, then retry.
+2024-10-04 20:06:26,551 - instagram_parser - ERROR - Instaloader не инициализирован.
+2024-10-04 20:47:00,284 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-04 20:47:12,077 - instagram_parser - ERROR - Ошибка при попытке входа: Login: Checkpoint required. Point your browser to /challenge/action/AXHPPbkMWTO9WFuvwJCIR9ey09FM0k6HkoMu9N2Fm5YHkSFIbWYNMYHcv_pKYKREpJXFLIo/AfzbL6UUzRZRKbkN0MkBcTRQES9eSX2krpcP4QUOEU6flmZ7U4jElVa95ghMC8Xh6rgZzhlR8BJVfg/ffc_qsjJA5hNzJTBvo55lHepyGK0W3sQ3sNILPsOaIh0zJ7noYY92Lu9GaygtX1VNmYw/ - follow the instructions, then retry.
+2024-10-04 20:47:12,077 - instagram_parser - ERROR - Instaloader не инициализирован.
+2024-10-04 20:51:08,905 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-04 20:51:18,509 - instagram_parser - ERROR - Неверные учетные данные для входа.
+2024-10-04 20:51:18,509 - instagram_parser - ERROR - Instaloader не инициализирован.
+2024-10-04 20:56:23,511 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-04 20:56:37,501 - instagram_parser - INFO - Сессия успешно создана и сохранена.
+2024-10-04 20:56:37,502 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 20:56:45,046 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 20:56:45,046 - instagram_parser - INFO - Количество подписчиков: 2889480
+2024-10-04 20:56:45,046 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 21:06:36,191 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-04 21:06:55,346 - instagram_parser - INFO - Сессия успешно создана и сохранена.
+2024-10-04 21:06:55,346 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 21:06:58,245 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 21:06:58,245 - instagram_parser - INFO - Количество подписчиков: 2889476
+2024-10-04 21:06:58,245 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 21:11:23,154 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-04 21:11:45,124 - instagram_parser - INFO - Сессия успешно создана и сохранена.
+2024-10-04 21:11:45,125 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 21:11:49,389 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 21:11:49,389 - instagram_parser - INFO - Количество подписчиков: 2889478
+2024-10-04 21:11:49,389 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 21:22:28,986 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-04 21:22:44,692 - instagram_parser - INFO - Сессия успешно создана и сохранена.
+2024-10-04 21:22:44,692 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 21:22:47,030 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 21:22:47,031 - instagram_parser - INFO - Количество подписчиков: 2889478
+2024-10-04 21:22:47,031 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 21:23:05,331 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 21:23:05,343 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 21:23:05,344 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 21:23:07,962 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 21:23:07,962 - instagram_parser - INFO - Количество подписчиков: 2889478
+2024-10-04 21:23:07,962 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 21:27:26,447 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 21:27:26,458 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 21:27:26,458 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 21:27:27,402 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 21:27:27,403 - instagram_parser - INFO - Количество подписчиков: 2889476
+2024-10-04 21:27:27,403 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 21:27:36,697 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqzSI2M6F_: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqzSI2M6F_%22%7D
+2024-10-04 21:27:36,699 - instagram_parser - INFO - Сохранены данные поста DAqzSI2M6F_
+2024-10-04 21:27:39,470 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqg1uNuI0D: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqg1uNuI0D%22%7D
+2024-10-04 21:27:39,471 - instagram_parser - INFO - Сохранены данные поста DAqg1uNuI0D
+2024-10-04 21:27:42,947 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAmIgIAtkSY: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAmIgIAtkSY%22%7D
+2024-10-04 21:27:42,949 - instagram_parser - INFO - Сохранены данные поста DAmIgIAtkSY
+2024-10-04 21:27:45,472 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAmE-AxsUyZ: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAmE-AxsUyZ%22%7D
+2024-10-04 21:27:45,474 - instagram_parser - INFO - Сохранены данные поста DAmE-AxsUyZ
+2024-10-04 21:27:48,417 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAjUzjsySoe: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAjUzjsySoe%22%7D
+2024-10-04 21:27:48,419 - instagram_parser - INFO - Сохранены данные поста DAjUzjsySoe
+2024-10-04 21:27:50,946 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAjSNw9yxrp: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAjSNw9yxrp%22%7D
+2024-10-04 21:27:50,948 - instagram_parser - INFO - Сохранены данные поста DAjSNw9yxrp
+2024-10-04 21:27:54,964 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAdmm8KsJct: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAdmm8KsJct%22%7D
+2024-10-04 21:27:54,965 - instagram_parser - INFO - Сохранены данные поста DAdmm8KsJct
+2024-10-04 21:28:07,142 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAcAhakOrYH: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAcAhakOrYH%22%7D
+2024-10-04 21:28:07,144 - instagram_parser - INFO - Сохранены данные поста DAcAhakOrYH
+2024-10-04 21:28:10,045 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAbKqdLujvj: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAbKqdLujvj%22%7D
+2024-10-04 21:28:10,047 - instagram_parser - INFO - Сохранены данные поста DAbKqdLujvj
+2024-10-04 21:28:14,614 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAYgh_GNxKJ: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAYgh_GNxKJ%22%7D
+2024-10-04 21:28:14,615 - instagram_parser - INFO - Сохранены данные поста DAYgh_GNxKJ
+2024-10-04 21:28:17,829 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAYWLp4N849: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAYWLp4N849%22%7D
+2024-10-04 21:28:17,831 - instagram_parser - INFO - Сохранены данные поста DAYWLp4N849
+2024-10-04 21:28:20,459 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAXDgAItucM: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAXDgAItucM%22%7D
+2024-10-04 21:28:20,461 - instagram_parser - INFO - Сохранены данные поста DAXDgAItucM
+2024-10-04 21:28:25,099 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAWbZn_NMuu: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAWbZn_NMuu%22%7D
+2024-10-04 21:28:25,100 - instagram_parser - INFO - Сохранены данные поста DAWbZn_NMuu
+2024-10-04 21:28:33,022 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAUNXiNNgKc: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAUNXiNNgKc%22%7D
+2024-10-04 21:28:33,023 - instagram_parser - INFO - Сохранены данные поста DAUNXiNNgKc
+2024-10-04 21:28:35,539 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DARzZPNBwsN: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DARzZPNBwsN%22%7D
+2024-10-04 21:28:35,541 - instagram_parser - INFO - Сохранены данные поста DARzZPNBwsN
+2024-10-04 22:02:49,192 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:02:49,192 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:02:49,192 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:07:52,975 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:07:52,978 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:07:52,978 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:07:54,711 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 22:07:54,711 - instagram_parser - INFO - Количество подписчиков: 2889476
+2024-10-04 22:07:54,711 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 22:08:02,615 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqzSI2M6F_: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqzSI2M6F_%22%7D
+2024-10-04 22:08:02,617 - instagram_parser - INFO - Сохранены данные поста DAqzSI2M6F_
+2024-10-04 22:08:06,540 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqg1uNuI0D: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqg1uNuI0D%22%7D
+2024-10-04 22:08:06,541 - instagram_parser - INFO - Сохранены данные поста DAqg1uNuI0D
+2024-10-04 22:08:14,573 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAmIgIAtkSY: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAmIgIAtkSY%22%7D
+2024-10-04 22:08:14,583 - instagram_parser - INFO - Сохранены данные поста DAmIgIAtkSY
+2024-10-04 22:08:21,018 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAmE-AxsUyZ: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAmE-AxsUyZ%22%7D
+2024-10-04 22:08:21,019 - instagram_parser - INFO - Сохранены данные поста DAmE-AxsUyZ
+2024-10-04 22:08:25,067 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAjUzjsySoe: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAjUzjsySoe%22%7D
+2024-10-04 22:08:25,068 - instagram_parser - INFO - Сохранены данные поста DAjUzjsySoe
+2024-10-04 22:08:27,069 - instagram_parser - INFO - Профиль: vogue
+2024-10-04 22:08:27,069 - instagram_parser - INFO - Скачано постов: 5
+2024-10-04 22:08:27,069 - instagram_parser - INFO - Скачано медиафайлов: 18
+2024-10-04 22:08:27,069 - instagram_parser - INFO - Самый ранний пост: 2024-09-30 18:49:55
+2024-10-04 22:08:27,069 - instagram_parser - INFO - Самый поздний пост: 2024-10-03 17:00:36
+2024-10-04 22:08:27,069 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-04 22:08:35,165 - instagram_parser - INFO - Парсинг профиля: gucci
+2024-10-04 22:08:35,165 - instagram_parser - INFO - Количество подписчиков: 52336062
+2024-10-04 22:08:35,165 - instagram_parser - INFO - Количество публикаций: 514
+2024-10-04 22:08:45,391 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAsdhPwic_v: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAsdhPwic_v%22%7D
+2024-10-04 22:08:45,393 - instagram_parser - INFO - Сохранены данные поста DAsdhPwic_v
+2024-10-04 22:08:53,566 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqGq2Ki3Bc: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqGq2Ki3Bc%22%7D
+2024-10-04 22:08:53,567 - instagram_parser - INFO - Сохранены данные поста DAqGq2Ki3Bc
+2024-10-04 22:15:58,065 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:15:58,065 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:15:58,065 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:15:59,024 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 22:15:59,024 - instagram_parser - INFO - Количество подписчиков: 2889472
+2024-10-04 22:15:59,024 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 22:17:34,647 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:17:34,648 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:17:34,648 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:17:36,512 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 22:17:36,512 - instagram_parser - INFO - Количество подписчиков: 2889475
+2024-10-04 22:17:36,512 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 22:17:43,406 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqzSI2M6F_: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqzSI2M6F_%22%7D
+2024-10-04 22:17:43,408 - instagram_parser - INFO - Сохранены данные поста DAqzSI2M6F_
+2024-10-04 22:18:10,852 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqg1uNuI0D: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqg1uNuI0D%22%7D
+2024-10-04 22:18:10,855 - instagram_parser - INFO - Сохранены данные поста DAqg1uNuI0D
+2024-10-04 22:18:14,546 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAmIgIAtkSY: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAmIgIAtkSY%22%7D
+2024-10-04 22:18:14,559 - instagram_parser - INFO - Сохранены данные поста DAmIgIAtkSY
+2024-10-04 22:18:21,269 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAmE-AxsUyZ: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAmE-AxsUyZ%22%7D
+2024-10-04 22:18:21,273 - instagram_parser - INFO - Сохранены данные поста DAmE-AxsUyZ
+2024-10-04 22:18:25,523 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAjUzjsySoe: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAjUzjsySoe%22%7D
+2024-10-04 22:18:25,526 - instagram_parser - INFO - Сохранены данные поста DAjUzjsySoe
+2024-10-04 22:18:27,527 - instagram_parser - INFO - Профиль: vogue
+2024-10-04 22:18:27,527 - instagram_parser - INFO - Скачано постов: 5
+2024-10-04 22:18:27,527 - instagram_parser - INFO - Скачано медиафайлов: 18
+2024-10-04 22:18:27,527 - instagram_parser - INFO - Самый ранний пост: 2024-09-30 18:49:55
+2024-10-04 22:18:27,528 - instagram_parser - INFO - Самый поздний пост: 2024-10-03 17:00:36
+2024-10-04 22:18:27,530 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-04 22:18:28,697 - instagram_parser - INFO - Парсинг профиля: gucci
+2024-10-04 22:18:28,697 - instagram_parser - INFO - Количество подписчиков: 52336087
+2024-10-04 22:18:28,697 - instagram_parser - INFO - Количество публикаций: 514
+2024-10-04 22:18:46,126 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAsdhPwic_v: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAsdhPwic_v%22%7D
+2024-10-04 22:18:46,129 - instagram_parser - INFO - Сохранены данные поста DAsdhPwic_v
+2024-10-04 22:18:55,323 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqGq2Ki3Bc: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqGq2Ki3Bc%22%7D
+2024-10-04 22:18:55,326 - instagram_parser - INFO - Сохранены данные поста DAqGq2Ki3Bc
+2024-10-04 22:18:57,328 - instagram_parser - INFO - Пост DAp2dd-CDUL содержит только видео и будет пропущен.
+2024-10-04 22:18:57,328 - instagram_parser - INFO - Пост DAp2dd-CDUL пропущен, так как состоит только из видео.
+2024-10-04 22:19:02,081 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAd3ykGMUkb: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAd3ykGMUkb%22%7D
+2024-10-04 22:19:02,093 - instagram_parser - INFO - Сохранены данные поста DAd3ykGMUkb
+2024-10-04 22:19:05,766 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAd3zNNMPz9: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAd3zNNMPz9%22%7D
+2024-10-04 22:19:05,770 - instagram_parser - INFO - Сохранены данные поста DAd3zNNMPz9
+2024-10-04 22:19:07,770 - instagram_parser - INFO - Профиль: gucci
+2024-10-04 22:19:07,770 - instagram_parser - INFO - Скачано постов: 4
+2024-10-04 22:19:07,771 - instagram_parser - INFO - Скачано медиафайлов: 28
+2024-10-04 22:19:07,771 - instagram_parser - INFO - Самый ранний пост: 2024-09-28 12:00:00
+2024-10-04 22:19:07,771 - instagram_parser - INFO - Самый поздний пост: 2024-10-04 07:59:13
+2024-10-04 22:19:07,773 - instagram_parser - INFO - Начало парсинга профиля: louisvuitton
+2024-10-04 22:19:10,306 - instagram_parser - INFO - Парсинг профиля: louisvuitton
+2024-10-04 22:19:10,306 - instagram_parser - INFO - Количество подписчиков: 55691573
+2024-10-04 22:19:10,306 - instagram_parser - INFO - Количество публикаций: 8227
+2024-10-04 22:19:25,533 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAtb3ygNRZL: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAtb3ygNRZL%22%7D
+2024-10-04 22:19:25,536 - instagram_parser - INFO - Сохранены данные поста DAtb3ygNRZL
+2024-10-04 22:19:27,537 - instagram_parser - INFO - Пост DAtNYbGNliK содержит только видео и будет пропущен.
+2024-10-04 22:19:27,538 - instagram_parser - INFO - Пост DAtNYbGNliK пропущен, так как состоит только из видео.
+2024-10-04 22:19:29,539 - instagram_parser - INFO - Пост DAs_o5LNLy6 содержит только видео и будет пропущен.
+2024-10-04 22:19:29,539 - instagram_parser - INFO - Пост DAs_o5LNLy6 пропущен, так как состоит только из видео.
+2024-10-04 22:19:31,540 - instagram_parser - INFO - Пост DAswy0GtE8O содержит только видео и будет пропущен.
+2024-10-04 22:19:31,540 - instagram_parser - INFO - Пост DAswy0GtE8O пропущен, так как состоит только из видео.
+2024-10-04 22:19:40,634 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAsavZUsyR2: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAsavZUsyR2%22%7D
+2024-10-04 22:19:40,646 - instagram_parser - INFO - Сохранены данные поста DAsavZUsyR2
+2024-10-04 22:19:42,647 - instagram_parser - INFO - Профиль: louisvuitton
+2024-10-04 22:19:42,647 - instagram_parser - INFO - Скачано постов: 2
+2024-10-04 22:19:42,647 - instagram_parser - INFO - Скачано медиафайлов: 16
+2024-10-04 22:19:42,647 - instagram_parser - INFO - Самый ранний пост: 2024-10-04 07:34:56
+2024-10-04 22:19:42,647 - instagram_parser - INFO - Самый поздний пост: 2024-10-04 17:04:04
+2024-10-04 22:24:15,290 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:24:15,303 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:24:15,303 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:24:16,289 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 22:24:16,290 - instagram_parser - INFO - Количество подписчиков: 2889475
+2024-10-04 22:24:16,290 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 22:24:20,857 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqzSI2M6F_: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqzSI2M6F_%22%7D
+2024-10-04 22:24:20,860 - instagram_parser - INFO - Сохранены данные поста DAqzSI2M6F_
+2024-10-04 22:24:30,228 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqg1uNuI0D: JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqg1uNuI0D%22%7D
+2024-10-04 22:24:30,229 - instagram_parser - INFO - Сохранены данные поста DAqg1uNuI0D
+2024-10-04 22:38:06,621 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:38:06,621 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:38:06,621 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:38:11,442 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 22:38:11,443 - instagram_parser - INFO - Количество подписчиков: 2889475
+2024-10-04 22:38:11,443 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 22:38:19,375 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query?variables=%7B%22data%22%3A%7B%22count%22%3A12%2C%22include_relationship_info%22%3Atrue%2C%22latest_besties_reel_media%22%3Atrue%2C%22latest_reel_media%22%3Atrue%7D%2C%22username%22%3A%22vogue%22%2C%22__relay_internal__pv__PolarisFeedShareMenurelayprovider%22%3Afalse%7D&doc_id=7898261790222653&server_timestamps=true
+2024-10-04 22:38:19,376 - instagram_parser - INFO - Профиль: vogue
+2024-10-04 22:38:19,376 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 22:38:19,376 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 22:38:19,376 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 22:38:19,376 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 22:38:19,378 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-04 22:39:12,679 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:39:12,679 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:39:12,679 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:39:17,176 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-04 22:39:17,176 - instagram_parser - INFO - Количество подписчиков: 2889474
+2024-10-04 22:39:17,176 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-04 22:39:20,315 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query?variables=%7B%22data%22%3A%7B%22count%22%3A12%2C%22include_relationship_info%22%3Atrue%2C%22latest_besties_reel_media%22%3Atrue%2C%22latest_reel_media%22%3Atrue%7D%2C%22username%22%3A%22vogue%22%2C%22__relay_internal__pv__PolarisFeedShareMenurelayprovider%22%3Afalse%7D&doc_id=7898261790222653&server_timestamps=true
+2024-10-04 22:39:20,317 - instagram_parser - INFO - Профиль: vogue
+2024-10-04 22:39:20,317 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 22:39:20,317 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 22:39:20,317 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 22:39:20,317 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 22:39:20,320 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-04 22:39:25,271 - instagram_parser - INFO - Парсинг профиля: gucci
+2024-10-04 22:39:25,271 - instagram_parser - INFO - Количество подписчиков: 52336120
+2024-10-04 22:39:25,271 - instagram_parser - INFO - Количество публикаций: 514
+2024-10-04 22:40:21,576 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:40:21,576 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:40:21,576 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:40:22,186 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-04 22:40:22,187 - instagram_parser - INFO - Профиль: vogue
+2024-10-04 22:40:22,187 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 22:40:22,187 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 22:40:22,187 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 22:40:22,187 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 22:40:22,188 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-04 22:40:23,098 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-04 22:40:23,099 - instagram_parser - INFO - Профиль: gucci
+2024-10-04 22:40:23,100 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 22:40:23,100 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 22:40:23,100 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 22:40:23,100 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 22:40:23,101 - instagram_parser - INFO - Начало парсинга профиля: louisvuitton
+2024-10-04 22:40:24,415 - instagram_parser - ERROR - Ошибка при получении постов профиля louisvuitton: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-04 22:40:24,416 - instagram_parser - INFO - Профиль: louisvuitton
+2024-10-04 22:40:24,416 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 22:40:24,416 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 22:40:24,416 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 22:40:24,416 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 22:42:09,308 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 22:42:09,309 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 22:42:09,309 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 22:42:14,552 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-04 22:42:14,556 - instagram_parser - INFO - Профиль: vogue
+2024-10-04 22:42:14,556 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 22:42:14,556 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 22:42:14,556 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 22:42:14,556 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 22:42:14,556 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-04 22:42:15,579 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-04 22:42:15,580 - instagram_parser - INFO - Профиль: gucci
+2024-10-04 22:42:15,580 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 22:42:15,580 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 22:42:15,580 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 22:42:15,580 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 22:42:15,582 - instagram_parser - INFO - Начало парсинга профиля: louisvuitton
+2024-10-04 22:42:16,707 - instagram_parser - ERROR - Ошибка при получении постов профиля louisvuitton: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-04 22:42:16,708 - instagram_parser - INFO - Профиль: louisvuitton
+2024-10-04 22:42:16,708 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 22:42:16,708 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 22:42:16,708 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 22:42:16,708 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 23:55:58,726 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-04 23:55:58,728 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-04 23:55:58,728 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-04 23:56:00,962 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-04 23:56:00,963 - instagram_parser - INFO - Профиль: vogue
+2024-10-04 23:56:00,963 - instagram_parser - INFO - Скачано постов: 0
+2024-10-04 23:56:00,963 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-04 23:56:00,963 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-04 23:56:00,963 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-04 23:56:00,963 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-04 23:56:20,672 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-04 23:57:24,157 - instagram_parser - ERROR - Ошибка при попытке входа: Login: Checkpoint required. Point your browser to /challenge/action/AXEaIO2PScjWuhGVhb1Zf3OIU0zAdbBpmLAGnfcWtsGfOaI-AUd1UveK1tzLsjkqoofXXPo/AfxNYOipss5mZW39Y_cjJK-vuLsRejDmjBz_MeMNBT6VfnByb1ZQPQ2YzQdoo-z1tv25GBhOTGLoLw/ffc_7ZdeJ4SrKwrcmArwkMSzaJ8APVyVshxhOYDldaSCjYOes0nIJruGb459JcxjdkiP/ - follow the instructions, then retry.
+2024-10-04 23:57:24,157 - instagram_parser - ERROR - Instaloader не инициализирован.
+2024-10-05 00:14:06,142 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-05 00:14:41,573 - instagram_parser - ERROR - Ошибка при попытке входа: Login: Checkpoint required. Point your browser to /challenge/action/AXEgE8O7-rcQxzTn_8f3MQvpf1B9dD21b_oAlGT6w_lyN3EPEJ4J1a34Rsx1lols7wrkdPA/AfwoDmZ5k0P0ZmBZfMMKzbO2gd-5duOX64oIyIuTU9RvVj11GN18ljfNnB2FgatY6rJZ5d0kgKbd5Q/ffc_7ZdeJ4SrKwrcmArwkMSzaJ8APVyVshxhOYDldaSCjYOes0nIJruGb459JcxjdkiP/ - follow the instructions, then retry.
+2024-10-05 00:14:41,573 - instagram_parser - ERROR - Instaloader не инициализирован.
+2024-10-05 00:16:51,604 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-05 00:17:06,796 - instagram_parser - ERROR - Ошибка при попытке входа: Login: Checkpoint required. Point your browser to /challenge/action/AXHE_bLCqpAicyYs3HH_SuT8MH-i2Qg-bRWwRhAvy3GBjfDCuUqAsvIo_WMhovV4GoQQeuk/AfzGAgEnhfy0qEbAmsQvtb591edgu6378buiuWO1boZvMrwU0bh_dvyU0pW80IkwoWk-o-xUZTohYg/ffc_7ZdeJ4SrKwrcmArwkMSzaJ8APVyVshxhOYDldaSCjYOes0nIJruGb459JcxjdkiP/ - follow the instructions, then retry.
+2024-10-05 00:17:06,796 - instagram_parser - ERROR - Instaloader не инициализирован.
+2024-10-05 00:21:08,962 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-05 00:21:39,596 - instagram_parser - ERROR - Ошибка при попытке входа: HTTPSConnectionPool(host='www.instagram.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F469747E00>: Failed to resolve 'www.instagram.com' ([Errno 11001] getaddrinfo failed)"))
+2024-10-05 00:21:39,596 - instagram_parser - ERROR - Instaloader не инициализирован.
+2024-10-05 00:25:51,823 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-05 00:26:17,548 - instagram_parser - INFO - Сессия успешно создана и сохранена.
+2024-10-05 00:26:17,548 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-05 00:26:31,542 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-05 00:26:31,543 - instagram_parser - INFO - Профиль: vogue
+2024-10-05 00:26:31,543 - instagram_parser - INFO - Скачано постов: 0
+2024-10-05 00:26:31,543 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-05 00:26:31,543 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-05 00:26:31,543 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-05 00:26:31,545 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-05 00:26:32,110 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-05 00:26:32,110 - instagram_parser - INFO - Профиль: gucci
+2024-10-05 00:26:32,110 - instagram_parser - INFO - Скачано постов: 0
+2024-10-05 00:26:32,110 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-05 00:26:32,110 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-05 00:26:32,110 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-05 00:26:32,112 - instagram_parser - INFO - Начало парсинга профиля: louisvuitton
+2024-10-05 00:26:33,311 - instagram_parser - ERROR - Ошибка при получении постов профиля louisvuitton: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-05 00:26:33,311 - instagram_parser - INFO - Профиль: louisvuitton
+2024-10-05 00:26:33,311 - instagram_parser - INFO - Скачано постов: 0
+2024-10-05 00:26:33,311 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-05 00:26:33,311 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-05 00:26:33,312 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-05 00:33:18,970 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-05 00:33:18,986 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-05 00:33:18,986 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-05 00:33:32,290 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-05 00:33:32,291 - instagram_parser - INFO - Профиль: vogue
+2024-10-05 00:33:32,291 - instagram_parser - INFO - Скачано постов: 0
+2024-10-05 00:33:32,291 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-05 00:33:32,291 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-05 00:33:32,291 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-05 00:33:32,293 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-05 00:33:33,458 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-05 00:33:33,459 - instagram_parser - INFO - Профиль: gucci
+2024-10-05 00:33:33,459 - instagram_parser - INFO - Скачано постов: 0
+2024-10-05 00:33:33,459 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-05 00:33:33,460 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-05 00:33:33,460 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-05 00:33:33,461 - instagram_parser - INFO - Начало парсинга профиля: louisvuitton
+2024-10-05 00:33:35,199 - instagram_parser - ERROR - Ошибка при получении постов профиля louisvuitton: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-05 00:33:35,200 - instagram_parser - INFO - Профиль: louisvuitton
+2024-10-05 00:33:35,200 - instagram_parser - INFO - Скачано постов: 0
+2024-10-05 00:33:35,200 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-05 00:33:35,200 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-05 00:33:35,200 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-05 00:36:02,284 - instagram_parser - INFO - Файл сессии не найден. Запрашиваем учетные данные для создания новой сессии.
+2024-10-05 00:36:34,761 - instagram_parser - INFO - Сессия успешно создана и сохранена.
+2024-10-05 00:36:34,761 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-05 00:36:36,082 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-05 00:36:36,083 - instagram_parser - INFO - Количество подписчиков: 2889451
+2024-10-05 00:36:36,083 - instagram_parser - INFO - Количество публикаций: 2508
+2024-10-05 00:36:55,501 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqzSI2M6F_: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqzSI2M6F_%22%7D
+2024-10-05 00:36:55,505 - instagram_parser - INFO - Сохранены данные поста DAqzSI2M6F_
+2024-10-05 00:37:01,584 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqg1uNuI0D: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqg1uNuI0D%22%7D
+2024-10-05 00:37:01,587 - instagram_parser - INFO - Сохранены данные поста DAqg1uNuI0D
+2024-10-05 00:37:07,281 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAmIgIAtkSY: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAmIgIAtkSY%22%7D
+2024-10-05 00:37:07,293 - instagram_parser - INFO - Сохранены данные поста DAmIgIAtkSY
+2024-10-05 00:37:18,023 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAmE-AxsUyZ: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAmE-AxsUyZ%22%7D
+2024-10-05 00:37:18,025 - instagram_parser - INFO - Сохранены данные поста DAmE-AxsUyZ
+2024-10-05 00:37:31,047 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAjUzjsySoe: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAjUzjsySoe%22%7D
+2024-10-05 00:37:31,050 - instagram_parser - INFO - Сохранены данные поста DAjUzjsySoe
+2024-10-05 00:37:33,550 - instagram_parser - INFO - Профиль: vogue
+2024-10-05 00:37:33,550 - instagram_parser - INFO - Скачано постов: 5
+2024-10-05 00:37:33,550 - instagram_parser - INFO - Скачано медиафайлов: 18
+2024-10-05 00:37:33,550 - instagram_parser - INFO - Самый ранний пост: 2024-09-30 18:49:55
+2024-10-05 00:37:33,550 - instagram_parser - INFO - Самый поздний пост: 2024-10-03 17:00:36
+2024-10-05 00:37:33,550 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-05 00:37:34,763 - instagram_parser - INFO - Парсинг профиля: gucci
+2024-10-05 00:37:34,763 - instagram_parser - INFO - Количество подписчиков: 52336027
+2024-10-05 00:37:34,763 - instagram_parser - INFO - Количество публикаций: 514
+2024-10-05 00:38:06,030 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAsdhPwic_v: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAsdhPwic_v%22%7D
+2024-10-05 00:38:06,033 - instagram_parser - INFO - Сохранены данные поста DAsdhPwic_v
+2024-10-05 00:38:25,647 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqGq2Ki3Bc: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqGq2Ki3Bc%22%7D
+2024-10-05 00:38:25,649 - instagram_parser - INFO - Сохранены данные поста DAqGq2Ki3Bc
+2024-10-05 00:38:28,152 - instagram_parser - INFO - Пост DAp2dd-CDUL содержит только видео и будет пропущен.
+2024-10-05 00:38:28,152 - instagram_parser - INFO - Пост DAp2dd-CDUL пропущен, так как состоит только из видео.
+2024-10-05 00:38:37,224 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAd3ykGMUkb: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAd3ykGMUkb%22%7D
+2024-10-05 00:38:37,235 - instagram_parser - INFO - Сохранены данные поста DAd3ykGMUkb
+2024-10-05 00:38:50,598 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAd3zNNMPz9: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAd3zNNMPz9%22%7D
+2024-10-05 00:38:50,601 - instagram_parser - INFO - Сохранены данные поста DAd3zNNMPz9
+2024-10-05 00:38:53,102 - instagram_parser - INFO - Профиль: gucci
+2024-10-05 00:38:53,102 - instagram_parser - INFO - Скачано постов: 4
+2024-10-05 00:38:53,102 - instagram_parser - INFO - Скачано медиафайлов: 28
+2024-10-05 00:38:53,102 - instagram_parser - INFO - Самый ранний пост: 2024-09-28 12:00:00
+2024-10-05 00:38:53,102 - instagram_parser - INFO - Самый поздний пост: 2024-10-04 07:59:13
+2024-10-05 00:38:53,105 - instagram_parser - INFO - Начало парсинга профиля: louisvuitton
+2024-10-05 00:39:05,690 - instagram_parser - INFO - Парсинг профиля: louisvuitton
+2024-10-05 00:39:05,690 - instagram_parser - INFO - Количество подписчиков: 55692861
+2024-10-05 00:39:05,690 - instagram_parser - INFO - Количество публикаций: 8228
+2024-10-05 00:39:07,977 - instagram_parser - INFO - Пост DAtstYpAMOP содержит только видео и будет пропущен.
+2024-10-05 00:39:07,978 - instagram_parser - INFO - Пост DAtstYpAMOP пропущен, так как состоит только из видео.
+2024-10-05 00:39:32,393 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAtb3ygNRZL: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAtb3ygNRZL%22%7D
+2024-10-05 00:39:32,396 - instagram_parser - INFO - Сохранены данные поста DAtb3ygNRZL
+2024-10-05 00:39:34,897 - instagram_parser - INFO - Пост DAtNYbGNliK содержит только видео и будет пропущен.
+2024-10-05 00:39:34,897 - instagram_parser - INFO - Пост DAtNYbGNliK пропущен, так как состоит только из видео.
+2024-10-05 00:39:37,399 - instagram_parser - INFO - Пост DAs_o5LNLy6 содержит только видео и будет пропущен.
+2024-10-05 00:39:37,399 - instagram_parser - INFO - Пост DAs_o5LNLy6 пропущен, так как состоит только из видео.
+2024-10-05 00:39:39,901 - instagram_parser - INFO - Пост DAswy0GtE8O содержит только видео и будет пропущен.
+2024-10-05 00:39:39,901 - instagram_parser - INFO - Пост DAswy0GtE8O пропущен, так как состоит только из видео.
+2024-10-05 00:39:42,403 - instagram_parser - INFO - Профиль: louisvuitton
+2024-10-05 00:39:42,403 - instagram_parser - INFO - Скачано постов: 1
+2024-10-05 00:39:42,403 - instagram_parser - INFO - Скачано медиафайлов: 7
+2024-10-05 00:39:42,403 - instagram_parser - INFO - Самый ранний пост: 2024-10-04 17:04:04
+2024-10-05 00:39:42,403 - instagram_parser - INFO - Самый поздний пост: 2024-10-04 17:04:04

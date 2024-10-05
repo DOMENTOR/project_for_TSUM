@@ -1,0 +1,38 @@
+{
+    "text": "Слушайте, а когда Vogue Arabia стали делать самые крутые съемки? Ну вот, например, свежая из сентябрьского номера с абсолютной героиней нашего времени и будущего Мишель Лами.",
+    "date": "2024-09-20T13:22:21+00:00",
+    "views": 4229,
+    "forwards": 22,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 159,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 75,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6974.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6975.jpg"
+    ]
+}

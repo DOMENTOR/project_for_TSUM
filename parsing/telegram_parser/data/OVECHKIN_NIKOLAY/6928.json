@@ -1,0 +1,44 @@
+{
+    "text": "И немного стрита с прошедшей Недели моды в Лондоне. Роузи Хантингтон-Уайтли, Тина Кунаки и Камиль Роу классно выглядят в платьях и с простыми укладками, остальные тоже нра.",
+    "date": "2024-09-18T15:42:10+00:00",
+    "views": 3854,
+    "forwards": 3,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 94,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 12,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 9,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

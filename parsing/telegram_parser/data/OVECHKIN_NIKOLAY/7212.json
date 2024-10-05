@@ -1,0 +1,53 @@
+{
+    "text": "В продолжение разговора о минимализме вспомнил про очень симпатичный гардероб поклонницы The Row Гвинет Пэлтроу. \n\nВизитная карточка Гвинет — говнодавы ботинки на тракторной толстой подошве, которые она сочетает с классическими костюмами и макси миди. На заметку нам в преддверии противной грязной осени.",
+    "date": "2024-09-30T13:49:42+00:00",
+    "views": 3169,
+    "forwards": 9,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 113,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 28,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💘"
+                },
+                "count": 3,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

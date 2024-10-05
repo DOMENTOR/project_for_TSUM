@@ -1,0 +1,104 @@
+{
+    "text": "Модная Заметка. Кажется, у нас вырисовывается новый стилистический тренд - паркарабочая курткахуди поверх вечернегококтейльного платья.\nПо-моему, очень реалистичный и жизненный тренд. \nЯ думаю, что многие из вас хоть раз в жизни надевали поверх шикарного платья неподходящую, но зато теплую или удобную верхнюю одежду)\nНакинули и побежали - немного Керри Брэдшоу вайб. ⚡️⚡️⚡️\n\nthe Attico\nPrada\nBurberry\nBrandon Maxwell",
+    "date": "2024-09-23T08:48:01+00:00",
+    "views": 49218,
+    "forwards": 278,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 470,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 358,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 264,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 139,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 38,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 10,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🎉"
+                },
+                "count": 9,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🙏"
+                },
+                "count": 4,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22379.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22382.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22384.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22385.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22380.jpg"
+    ]
+}

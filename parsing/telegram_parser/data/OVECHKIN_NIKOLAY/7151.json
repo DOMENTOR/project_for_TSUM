@@ -1,0 +1,62 @@
+{
+    "text": "Schiaparelli в этом сезоне сделали очень красивый показ Ready-to-Wear. В хорошем смысле придурковато и при этом очень женственно. Абсолютно уместный костюм в зебру, неземная какая-то фактура у цветочного принта, роскошные большие плечи и абсолютно скульптурная талия у платьев и топов. При всей своей дуринке вещи очень носибельные и узнаваемые. Дэниел Розбери, ты молодец.",
+    "date": "2024-09-27T09:33:24+00:00",
+    "views": 3578,
+    "forwards": 28,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 157,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 27,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 26,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😍"
+                },
+                "count": 12,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💘"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

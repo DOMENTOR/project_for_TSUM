@@ -1,0 +1,95 @@
+{
+    "text": "Находка дня. \nИроничные ювелирные броши-булавки в виде оливки 🫒 и огурчика 🥒 от бренда Наталии Архангельской \nLetters and stones. \n\nСрочно захотелось мартини с оливкой))) Ну или стопочку водочки.",
+    "date": "2024-10-03T08:42:19+00:00",
+    "views": 36038,
+    "forwards": 294,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 723,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 262,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 151,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 97,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 19,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 13,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🎉"
+                },
+                "count": 7,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22608.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22610.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22609.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22598.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22596.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22591.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22603.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22611.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22594.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22604.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22613.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22593.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22607.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22612.jpg"
+    ]
+}

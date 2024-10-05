@@ -1,0 +1,65 @@
+{
+    "text": "А еще сегодня день рождения у великой Энни Лейбовиц. Мои любимые работы оставляю здесь.",
+    "date": "2024-10-02T16:08:32+00:00",
+    "views": 2389,
+    "forwards": 15,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 128,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 55,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 13,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7273.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7277.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7271.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7278.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7272.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7276.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7274.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7268.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7275.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7280.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7279.jpg"
+    ]
+}

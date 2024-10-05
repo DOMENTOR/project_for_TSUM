@@ -1,0 +1,62 @@
+{
+    "text": "Ну что, обещал — собрал. Нашел очень классные варианты на Oskelly, от 7.000₽ (а где вы еще найдете пальто отличного качества за такие деньги?!) до 40.000₽. Разбирайте: \n\n1️⃣ Ralph Lauren, 44 размер, 7.000₽;\n\n2️⃣ Emilio Pucci, 42 размер, 20.000₽ \n\n3️⃣ Gucci, 40 размер, 23.000₽\n\n4️⃣ Calvin Klein, 42 размер, 24.934₽ \n\n5️⃣ Escada (тут кашемир Loro Piana), 40 размер, 25.000₽ \n\n6️⃣ Max Mara, 38 размер, 32.000₽\n\n7️⃣ Kenzo, 42 размер, 37.323₽ \n\n8️⃣ Isabel Marant, размер 44, 39.467₽ \n\n9️⃣ Burberry, размер 40, 40.000₽",
+    "date": "2024-09-12T15:55:46+00:00",
+    "views": 4758,
+    "forwards": 13,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 98,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 25,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 20,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤩"
+                },
+                "count": 2,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💩"
+                },
+                "count": 2,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

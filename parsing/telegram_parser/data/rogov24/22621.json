@@ -1,0 +1,88 @@
+{
+    "text": "Детали коллекции ROGOV /see now buy now/ Показ состоится 5 октября в рамках Московской Недели Моды в ЦВЗ Манеж. ❤️",
+    "date": "2024-10-04T08:31:03+00:00",
+    "views": 23549,
+    "forwards": 31,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 597,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 171,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 71,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 38,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 5,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 5,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 2,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22617.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22619.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22616.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22618.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22620.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22615.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22621.jpg"
+    ]
+}

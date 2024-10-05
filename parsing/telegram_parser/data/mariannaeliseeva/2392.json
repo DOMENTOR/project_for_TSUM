@@ -1,0 +1,53 @@
+{
+    "text": "Выезжаю на разведку коллекций перед шопинг-влогом. В планах заглянуть в Цветной и Метрополис. Есть ли у вас пожелания по брендам?\n\nИ образ дня: \nЖакет, босоноги Zara\nПлоская кепка Dtmd (Lamoda)\nТоп, юбка Limé (которые буквально предугадали образ с показа 2025)",
+    "date": "2024-09-18T13:46:19+00:00",
+    "views": 46123,
+    "forwards": 85,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 926,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 370,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 167,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 50,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

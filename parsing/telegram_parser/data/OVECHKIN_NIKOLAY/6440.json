@@ -1,0 +1,53 @@
+{
+    "text": "А еще я очень надеюсь, что Том Форд все-таки не завершил свою режиссерскую карьеру. Потому что второй и пока что последний его фильм вышел аж в 2016 году. Я обожаю и его «Одинокого мужчину» и «Под покровом ночи». \n\nПросто идеальная во всех отношениях картинка, каждый кадр можно распечатать и поставить в рамку.",
+    "date": "2024-08-27T16:24:18+00:00",
+    "views": 4648,
+    "forwards": 47,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 174,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤩"
+                },
+                "count": 16,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💯"
+                },
+                "count": 14,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 8,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

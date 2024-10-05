@@ -1,0 +1,61 @@
+{
+    "text": "Любимая блогерша уже, можно сказать, минувших Недель моды — датчанка с прошлым редактора Vogue (сейчас она пишет для них как приглашенный автор) и креативного директора The Garment София Ро. Суперминималистка с безупречным вкусом и очень красивой лентой.",
+    "date": "2024-10-01T16:17:01+00:00",
+    "views": 3095,
+    "forwards": 6,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 49,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💘"
+                },
+                "count": 36,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 12,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥱"
+                },
+                "count": 5,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7253.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7251.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7254.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7250.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7257.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7255.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7258.jpg"
+    ]
+}

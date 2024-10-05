@@ -1,0 +1,53 @@
+{
+    "text": "И все-таки Prada для меня — главное шоу Миланской Недели моды. Про остальные и сказать особо нечего. \n\nКороче, все эти пупырчатые козырьки, е*нутые очки и т.д. \nИ поэтому — ЖДУ ВАШИ ФОТОВИДЕО САМЫХ СТРАННЫХ ВЕЩЕЙ ИЛИ ТАКИХ, С КОТОРЫМИ ВЫ НЕ ЗНАЕТЕ ЧТО ДЕЛАТЬ. \n\nКидайте в комменты, каким-то посвящает отдельный кружок.",
+    "date": "2024-09-23T11:32:34+00:00",
+    "views": 3756,
+    "forwards": 8,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 55,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 31,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 7,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 3,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

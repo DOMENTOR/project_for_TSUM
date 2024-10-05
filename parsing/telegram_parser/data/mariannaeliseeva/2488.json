@@ -1,0 +1,99 @@
+{
+    "text": "Судя по всему, нас ждет возвращение «peep toe» в следующем году🙃",
+    "date": "2024-10-01T15:05:12+00:00",
+    "views": 30129,
+    "forwards": 64,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 364,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 142,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 118,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 89,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 77,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😱"
+                },
+                "count": 53,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 32,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 26,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2480.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2487.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2484.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2481.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2488.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2482.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2486.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2483.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2485.jpg"
+    ]
+}

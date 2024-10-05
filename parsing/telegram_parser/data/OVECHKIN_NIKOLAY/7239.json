@@ -1,0 +1,91 @@
+{
+    "text": "Кайфую от показа Rokh весна-лето 2025. Кто не знает, Рок Хванг — британский дизайнер южнокорейского происхождения, ученик Фили Фило, работал с ней в Celine, а до этого учился в Central Saint Martins.\n\nОчень нравится, как в каждой коллекции он переосмысляет тренчи, делая из них платья, топы и юбки, как работает с кроем повседневных вещей, превращая их почти в кутюрные, но очень носибельные.  \n\nЕго эстетика — очень красивая мешанина готики, панка и Викторианского стиля. И вообще это идеальная кандидатура для кресла креативного директора в Alexander McQueen, на мой взгляд.",
+    "date": "2024-10-01T12:16:14+00:00",
+    "views": 2961,
+    "forwards": 9,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 95,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 25,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👌"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💅"
+                },
+                "count": 2,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💘"
+                },
+                "count": 2,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7230.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7233.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7237.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7235.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7231.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7238.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7239.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7232.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7236.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7234.jpg"
+    ]
+}

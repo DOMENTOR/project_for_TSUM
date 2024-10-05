@@ -1,0 +1,77 @@
+{
+    "text": "Укороченный объемный бомбер с широкими рукавами  доступен для заказа на ROGOVSHOP.RU 🖤\n\nДля заказа переходите на наш сайт или приезжайте в шоурум  Шлюзовая набережная 2а ",
+    "date": "2024-09-22T12:31:49+00:00",
+    "views": 45045,
+    "forwards": 8,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 201,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 114,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 88,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 28,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 1,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22369.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22370.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22368.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22372.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22371.jpg"
+    ]
+}

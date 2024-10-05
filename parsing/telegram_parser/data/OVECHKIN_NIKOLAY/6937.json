@@ -1,0 +1,53 @@
+{
+    "text": "Вчера в галерее «Высота» прошла презентация осенней коллекции Fashion Rebels. Вкусные десерты от Валерия Линдстрема, арт-составляющая в виде выставки Серафимы С и приятные гости в хорошем настроении. А что еще надо для хорошего ивента? Поздравляю коллег с отличной сентябрьской вечеринкой.",
+    "date": "2024-09-18T17:40:05+00:00",
+    "views": 4149,
+    "forwards": 2,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 69,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 21,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤩"
+                },
+                "count": 5,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🌚"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

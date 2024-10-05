@@ -1,0 +1,91 @@
+{
+    "text": "Модная Заметка. Ловите интересные стилистические/дизайнерские фишки из последних показов, которые можно взять на заметку:\n- Использование брошей в качестве зажимов (особенно хороши лягушки у Bottega Veneta и прищепки у Coperni);\n- Ремень вокруг бицепса (как это сделали MIU MIU и Coperni);\n- Ассиметричный низ - ходить теперь можно в одной штанине или в одном чулке (как на показах Bottega Veneta и Coperni).\n\n⚡️",
+    "date": "2024-10-04T11:25:06+00:00",
+    "views": 15662,
+    "forwards": 55,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 251,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 57,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 28,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 25,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 10,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 9,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 3,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22646.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22649.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22648.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22650.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22642.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22641.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22645.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22647.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22643.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22644.jpg"
+    ]
+}

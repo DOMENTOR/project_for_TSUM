@@ -1,0 +1,35 @@
+{
+    "text": "Николь Кидман и Анджелина Джоли — одни из главных героинь Венецианского кинофестиваля. Одной из них хочу посвятить выпуск #кино сегодня. А кому именно, решать вам. Ниже голосуем!",
+    "date": "2024-09-07T12:23:43+00:00",
+    "views": 4273,
+    "forwards": 9,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 75,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤩"
+                },
+                "count": 6,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

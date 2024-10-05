@@ -1,0 +1,84 @@
+{
+    "text": "Находка дня: сумка-овечка от отечественного бренда Mirstores 🐑\nКидкор, пожалуй, самый трогательный тренд последних сезонов, с которым любят заигрывать дизайнеры и инфоюэнсеры. «Разрисованные» детскими каракулями вещи, цветные наклейки, сумки-игрушки и наивная смешная обувь— яркий тренд, плавно перетекающий в 2025 год. \n\nИ вот такая милая ироничная сумка - отличный аксессуар для взрослых, которые по прежнему хотят оставаться детьми, ну и для тех, кто хочет выглядеть актуально и небанально!",
+    "date": "2024-09-29T13:25:06+00:00",
+    "views": 40993,
+    "forwards": 386,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 486,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 162,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 69,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 60,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 26,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 8,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22543.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22547.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22546.jpg"
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "text": "Ну и пусть это тоже останется здесь — потому что мне нра абсолютно каждый лук. \n\nВ чем секрет Кейт? Одна из причин — однозначно естественная красота. Минимум мейка, супер простая прическа, обезоруживающая улыбка, ну и какой-то свет как будто изнутри. Главная модель в истории моды и абсолютно незаменимая.",
+    "date": "2024-09-12T12:23:38+00:00",
+    "views": 4597,
+    "forwards": 19,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 138,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 30,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 16,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💘"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}

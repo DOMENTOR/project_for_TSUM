@@ -1,0 +1,54 @@
+{
+    "text": "Показ, который все так ждали, потому что от него зависит ассортимент всего масс-маркета в следующем сезоне — Miu Miu. Без Рафа Миучча хулиганит, играет со стразами, одевает Хилари Суонк в лакированное пальто с цепями и в ярко-розовые дурацкие шлепанцы и превращает кардиганы в топы-бандо. Жирный лайк. И мне нра больше, чем Prada.",
+    "date": "2024-10-01T13:29:27+00:00",
+    "views": 2873,
+    "forwards": 9,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 62,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 18,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🦄"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7245.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7242.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7243.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7248.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7246.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7241.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7240.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7247.jpg",
+        "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7244.jpg"
+    ]
+}

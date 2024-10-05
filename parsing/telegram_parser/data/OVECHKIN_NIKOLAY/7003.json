@@ -1,0 +1,35 @@
+{
+    "text": "Пятничное традиционное — выбираем лучший лук недели! \n\nГолосуем!!!! \n\n⬇️⬇️⬇️",
+    "date": "2024-09-20T16:06:52+00:00",
+    "views": 4552,
+    "forwards": 8,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 52,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 9,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": []
+}
