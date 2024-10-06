@@ -21,6 +21,10 @@ PROXY_PASSWORD = None
 # Интервал обновлений в секундах
 UPDATE_INTERVAL = 3600  # Получение обновлений каждые 3600 секунд (каждый час)
 
+# Настройки для входа в Instagram (если необходимо)
+INSTAGRAM_USERNAME = 'your_instagram_username'
+INSTAGRAM_PASSWORD = 'your_instagram_password'
+
 # Фильтры контента (например: парсить только посты, содержащие определенные ключевые слова)
 CONTENT_FILTERS = None  # List, ['fashion', 'style']
 

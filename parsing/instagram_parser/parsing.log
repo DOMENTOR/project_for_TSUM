@@ -382,3 +382,16 @@
 2024-10-05 00:39:42,403 - instagram_parser - INFO - Скачано медиафайлов: 7
 2024-10-05 00:39:42,403 - instagram_parser - INFO - Самый ранний пост: 2024-10-04 17:04:04
 2024-10-05 00:39:42,403 - instagram_parser - INFO - Самый поздний пост: 2024-10-04 17:04:04
+2024-10-06 02:14:34,845 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-06 02:14:34,845 - instagram_parser - ERROR - Ошибка при загрузке сессии: module 'config' has no attribute 'INSTAGRAM_USERNAME'
+2024-10-06 02:14:34,853 - instagram_parser - ERROR - Instaloader не инициализирован.
+2024-10-06 02:16:32,631 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-06 02:16:32,644 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-06 02:16:32,644 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-06 02:16:35,203 - instagram_parser - INFO - Парсинг профиля: vogue
+2024-10-06 02:16:35,204 - instagram_parser - INFO - Количество подписчиков: 2889122
+2024-10-06 02:16:35,204 - instagram_parser - INFO - Количество публикаций: 2509
+2024-10-06 02:16:49,793 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAvz_0nMirG: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAvz_0nMirG%22%7D
+2024-10-06 02:16:49,795 - instagram_parser - INFO - Сохранены данные поста DAvz_0nMirG
+2024-10-06 02:16:54,344 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqzSI2M6F_: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqzSI2M6F_%22%7D
+2024-10-06 02:16:54,346 - instagram_parser - INFO - Сохранены данные поста DAqzSI2M6F_
