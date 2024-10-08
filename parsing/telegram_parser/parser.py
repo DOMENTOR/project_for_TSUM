@@ -4,8 +4,12 @@ import logging
 import time
 from telethon.sync import TelegramClient
 from telethon.errors import SessionPasswordNeededError, FloodWaitError
-from datetime import datetime, timedelta
-import config
+from datetime import datetime
+try:
+    import parsing.telegram_parser.config as config
+except ImportError:
+    import config
+
 
 # Настройка логирования
 logging.basicConfig(

@@ -3,8 +3,11 @@ import os
 import json
 import logging
 import time
-from datetime import datetime
-import config
+try:
+    import parsing.instagram_parser.config as config
+except ImportError:
+    import config
+
 
 # Настройка логирования
 logging.basicConfig(

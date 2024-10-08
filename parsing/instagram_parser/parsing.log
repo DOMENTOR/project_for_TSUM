@@ -395,3 +395,82 @@
 2024-10-06 02:16:49,795 - instagram_parser - INFO - Сохранены данные поста DAvz_0nMirG
 2024-10-06 02:16:54,344 - instagram_parser - ERROR - Ошибка при получении комментариев для поста DAqzSI2M6F_: 400 Bad Request - "fail" status, message "feedback_required" when accessing https://www.instagram.com/graphql/query?query_hash=2b0673e0dc4580674a88d426fe00ea90&variables=%7B%22shortcode%22%3A%22DAqzSI2M6F_%22%7D
 2024-10-06 02:16:54,346 - instagram_parser - INFO - Сохранены данные поста DAqzSI2M6F_
+2024-10-07 18:24:11,191 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 18:24:11,193 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 18:34:45,933 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 18:34:45,934 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 18:41:41,223 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 18:41:41,224 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 18:43:50,734 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 18:43:50,734 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 18:51:21,925 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 18:51:21,925 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 18:59:36,215 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 18:59:36,215 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 19:01:44,646 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 19:01:44,646 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 19:05:09,100 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 19:05:09,104 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 19:27:32,752 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 19:27:32,752 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 19:27:52,283 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-07 19:27:52,283 - telegram_bot_parser - INFO - Начало обработки канала: rogov24
+2024-10-07 19:27:52,314 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-07 19:27:52,314 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-07 19:27:58,847 - instagram_parser - INFO - Парсинг профиля: gucci
+2024-10-07 19:27:58,850 - instagram_parser - INFO - Количество подписчиков: 52334970
+2024-10-07 19:27:58,850 - instagram_parser - INFO - Количество публикаций: 514
+2024-10-07 19:28:01,429 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query?variables=%7B%22data%22%3A%7B%22count%22%3A12%2C%22include_relationship_info%22%3Atrue%2C%22latest_besties_reel_media%22%3Atrue%2C%22latest_reel_media%22%3Atrue%7D%2C%22username%22%3A%22gucci%22%2C%22__relay_internal__pv__PolarisFeedShareMenurelayprovider%22%3Afalse%7D&doc_id=7898261790222653&server_timestamps=true
+2024-10-07 19:28:01,430 - instagram_parser - INFO - Профиль: gucci
+2024-10-07 19:28:01,430 - instagram_parser - INFO - Скачано постов: 0
+2024-10-07 19:28:01,430 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-07 19:28:01,430 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-07 19:28:01,430 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-07 20:17:43,252 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-07 20:17:43,253 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-07 20:26:51,286 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-07 20:26:51,286 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-07 20:26:51,286 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-07 20:26:51,734 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-07 20:26:51,734 - instagram_parser - INFO - Профиль: vogue
+2024-10-07 20:26:51,734 - instagram_parser - INFO - Скачано постов: 0
+2024-10-07 20:26:51,735 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-07 20:26:51,735 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-07 20:26:51,735 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-07 20:26:51,737 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-07 20:26:52,135 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-07 20:26:52,136 - instagram_parser - INFO - Профиль: gucci
+2024-10-07 20:26:52,137 - instagram_parser - INFO - Скачано постов: 0
+2024-10-07 20:26:52,137 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-07 20:26:52,137 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-07 20:26:52,137 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-07 20:26:52,138 - instagram_parser - INFO - Начало парсинга профиля: louisvuitton
+2024-10-07 20:26:53,479 - instagram_parser - ERROR - Ошибка при получении постов профиля louisvuitton: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-07 20:26:53,480 - instagram_parser - INFO - Профиль: louisvuitton
+2024-10-07 20:26:53,480 - instagram_parser - INFO - Скачано постов: 0
+2024-10-07 20:26:53,481 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-07 20:26:53,481 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-07 20:26:53,481 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-07 20:28:57,548 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-07 20:28:57,550 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-07 20:28:57,550 - instagram_parser - INFO - Начало парсинга профиля: vogue
+2024-10-07 20:29:01,336 - instagram_parser - ERROR - Ошибка при получении постов профиля vogue: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-07 20:29:01,337 - instagram_parser - INFO - Профиль: vogue
+2024-10-07 20:29:01,337 - instagram_parser - INFO - Скачано постов: 0
+2024-10-07 20:29:01,337 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-07 20:29:01,337 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-07 20:29:01,338 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-07 20:29:01,339 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-07 20:29:03,096 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-07 20:29:03,098 - instagram_parser - INFO - Профиль: gucci
+2024-10-07 20:29:03,098 - instagram_parser - INFO - Скачано постов: 0
+2024-10-07 20:29:03,098 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-07 20:29:03,098 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-07 20:29:03,098 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-07 20:29:03,101 - instagram_parser - INFO - Начало парсинга профиля: louisvuitton
+2024-10-07 20:29:03,938 - instagram_parser - ERROR - Ошибка при получении постов профиля louisvuitton: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-07 20:29:03,939 - instagram_parser - INFO - Профиль: louisvuitton
+2024-10-07 20:29:03,939 - instagram_parser - INFO - Скачано постов: 0
+2024-10-07 20:29:03,939 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-07 20:29:03,940 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-07 20:29:03,940 - instagram_parser - INFO - Самый поздний пост: None
