@@ -36,7 +36,7 @@ def prompt_credentials(phone_number_needed=True):
         phone_number = None
         return api_id, api_hash, phone_number
 
-def initialize_client(api_id=None, api_hash=None, phone_number=None, proxy=None):
+def initialize_client(api_id=None, api_hash=None, phone_number=None, proxy=config.PROXY):
     session_file = os.path.join('parsing', 'telegram_parser', 'session_name')
     
     # Проверим, существует ли файл сессии
