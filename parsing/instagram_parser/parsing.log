@@ -527,3 +527,16 @@
 2024-10-09 18:27:59,366 - instagram_parser - INFO - Скачано медиафайлов: 0
 2024-10-09 18:27:59,366 - instagram_parser - INFO - Самый ранний пост: None
 2024-10-09 18:27:59,366 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-09 18:53:11,572 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-09 18:53:11,572 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-09 18:53:19,568 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-09 18:53:19,568 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-09 18:53:19,568 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-09 18:53:32,625 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-09 18:53:32,625 - instagram_parser - INFO - Профиль: gucci
+2024-10-09 18:53:32,625 - instagram_parser - INFO - Скачано постов: 0
+2024-10-09 18:53:32,625 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-09 18:53:32,625 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-09 18:53:32,626 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-09 19:00:46,151 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-09 19:00:46,151 - telegram_bot_parser - ERROR - Неопознанная ошибка: invalid literal for int() with base 10: '& C:/ProgramData/anaconda3/python.exe c:/Users/d_tru/Downloads/git/project_for_TSUM/project_for_TSUM/main.py'
