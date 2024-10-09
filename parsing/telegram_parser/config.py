@@ -14,11 +14,7 @@ LOGGING_LEVEL = 'INFO'  # Может быть 'DEBUG', 'INFO', 'WARNING', 'ERROR
 LOG_FILE = 'parsing/telegram_parser/parsing.log'
 
 # Опциональные настройки прокси (если необходимо)
-PROXY_URL = "https://M6TbCp:vWVdTc@217.29.63.40:12504"  # Пример: 'http://proxy.example.com:1234'
-PROXY_USERNAME = 'M6TbCp'
-PROXY_PASSWORD = 'vWVdTc'
-
-PROXY = ('http', '217.29.63.40', 12504, 'M6TbCp', 'vWVdTc')
+PROXY_URL = None  # Пример: 'http://proxy.example.com:1234'
 
 # Интервал обновлений в секундах
 UPDATE_INTERVAL = 3600  # Получение обновлений в секундах (каждый час)

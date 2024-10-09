@@ -14,9 +14,7 @@ LOGGING_LEVEL = 'INFO'  # Может быть 'DEBUG', 'INFO', 'WARNING', 'ERROR
 LOG_FILE = 'parsing/instagram_parser/parsing.log'
 
 # Опциональные настройки прокси (если необходимо)
-PROXY_URL = "https://M6TbCp:vWVdTc@217.29.63.40:12504"  # Пример: 'http://proxy.example.com:1234'
-PROXY_USERNAME = 'M6TbCp'
-PROXY_PASSWORD = 'vWVdTc'
+PROXY_URL = None  # Пример: 'http://proxy.example.com:1234'
 
 # Интервал обновлений в секундах
 UPDATE_INTERVAL = 3600  # Получение обновлений каждые 3600 секунд (каждый час)

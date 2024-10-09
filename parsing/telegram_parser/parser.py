@@ -2,13 +2,17 @@ import os
 import json
 import logging
 import time
+from urllib.parse import urlparse
 from telethon.sync import TelegramClient
 from telethon.errors import SessionPasswordNeededError, FloodWaitError
 from datetime import datetime
 try:
-    import parsing.telegram_parser.config as config
+    from parsing.telegram_parser import config
 except ImportError:
-    import config
+    try:
+        from telegram_parser import config
+    except ImportError:
+        import config
 
 
 # Настройка логирования
@@ -25,6 +29,19 @@ os.makedirs(config.DATA_FOLDER, exist_ok=True)
 # Обновляем путь к файлу сессии
 session_file = os.path.join('parsing', 'telegram_parser', 'session_name')
 
+def parse_proxy_url(proxy_url):
+    result = urlparse(proxy_url)
+    
+    proxy = {
+        'proxy_type': result.scheme,
+        'username': result.username,
+        'password': result.password,
+        'addr': result.hostname,
+        'port': result.port
+    }
+    
+    return proxy
+
 def prompt_credentials(phone_number_needed=True):
     print('Все необходимые данные можно получить по ссылке https://my.telegram.org/ (нужно создать подключение)')
     api_id = input("Введите ваш API ID: ").strip()
@@ -36,7 +53,7 @@ def prompt_credentials(phone_number_needed=True):
         phone_number = None
         return api_id, api_hash, phone_number
 
-def initialize_client(api_id=None, api_hash=None, phone_number=None, proxy=config.PROXY):
+def initialize_client(api_id=None, api_hash=None, phone_number=None, proxy=None):
     session_file = os.path.join('parsing', 'telegram_parser', 'session_name')
     
     # Проверим, существует ли файл сессии
@@ -185,35 +202,6 @@ def save_message(client, channel, message, stats):
 
 
 def __main__():
-    for channel in config.TELEGRAM_CHANNELS:
-        logger.info(f'Начало обработки канала: {channel}')
-        stats = {
-            'post_count': 0,
-            'media_count': 0,
-            'earliest_post': None,
-            'latest_post': None
-        }
-
-        messages = fetch_channel_messages(client, channel)
-        for message in messages:
-            save_message(client, channel, message, stats)
-
-        # Логирование результатов
-        logger.info(f'Канал: {channel}')
-        logger.info(f'Скачано постов: {stats["post_count"]}')
-        logger.info(f'Скачано медиафайлов: {stats["media_count"]}')
-        logger.info(f'Самый ранний пост: {stats["earliest_post"]}')
-        logger.info(f'Самый поздний пост: {stats["latest_post"]}')
-
-        # Вывод в консоль
-        print(f'Канал: {channel}')
-        print(f'Скачано постов: {stats["post_count"]}')
-        print(f'Скачано медиафайлов: {stats["media_count"]}')
-        print(f'Самый ранний пост: {stats["earliest_post"]}')
-        print(f'Самый поздний пост: {stats["latest_post"]}')
-        print('-' * 40)
-
-if __name__ == '__main__':
     session_file = os.path.join('parsing', 'telegram_parser', 'session_name')
 
     if os.path.exists(session_file + '.session'):
@@ -223,17 +211,38 @@ if __name__ == '__main__':
 
     proxy = None
     if config.PROXY_URL:
-        proxy = {
-            'proxy_type': 'http',
-            'addr': config.PROXY_URL.split(':')[1].strip('//'),
-            'port': int(config.PROXY_URL.split(':')[2]),
-            'username': config.PROXY_USERNAME,
-            'password': config.PROXY_PASSWORD
-        }
+        proxy = parse_proxy_url(config.PROXY_URL)
 
     try:
         client = initialize_client(api_id, api_hash, phone_number, proxy)
-        __main__()
+        for channel in config.TELEGRAM_CHANNELS:
+            logger.info(f'Начало обработки канала: {channel}')
+            stats = {
+                'post_count': 0,
+                'media_count': 0,
+                'earliest_post': None,
+                'latest_post': None
+            }
+
+            messages = fetch_channel_messages(client, channel)
+            for message in messages:
+                save_message(client, channel, message, stats)
+
+            # Логирование результатов
+            logger.info(f'Канал: {channel}')
+            logger.info(f'Скачано постов: {stats["post_count"]}')
+            logger.info(f'Скачано медиафайлов: {stats["media_count"]}')
+            logger.info(f'Самый ранний пост: {stats["earliest_post"]}')
+            logger.info(f'Самый поздний пост: {stats["latest_post"]}')
+
+            # Вывод в консоль
+            print(f'Канал: {channel}')
+            print(f'Скачано постов: {stats["post_count"]}')
+            print(f'Скачано медиафайлов: {stats["media_count"]}')
+            print(f'Самый ранний пост: {stats["earliest_post"]}')
+            print(f'Самый поздний пост: {stats["latest_post"]}')
+            print('-' * 40)
+
         logger.info(f'Ожидание {config.UPDATE_INTERVAL} секунд до следующего запуска')
         time.sleep(config.UPDATE_INTERVAL)
 
@@ -244,3 +253,8 @@ if __name__ == '__main__':
     except Exception as e:
         logger.error(f'Неопознанная ошибка: {e}')
         time.sleep(60)
+
+
+
+if __name__ == '__main__':
+    __main__()

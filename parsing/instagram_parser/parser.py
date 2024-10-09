@@ -3,10 +3,14 @@ import os
 import json
 import logging
 import time
+from urllib.parse import urlparse
 try:
-    import parsing.instagram_parser.config as config
+    from parsing.instagram_parser import config
 except ImportError:
-    import config
+    try:
+        from instagram_parser import config
+    except ImportError:
+        import config
 
 
 # Настройка логирования
@@ -23,6 +27,19 @@ os.makedirs(config.DATA_FOLDER, exist_ok=True)
 # Путь к файлу сессии
 session_file = os.path.join('parsing', 'instagram_parser', 'session_name.session')
 
+def parse_proxy_url(proxy_url):
+    result = urlparse(proxy_url)
+    
+    proxy = {
+        'proxy_type': result.scheme,
+        'username': result.username,
+        'password': result.password,
+        'addr': result.hostname,
+        'port': result.port
+    }
+    
+    return proxy
+
 def prompt_credentials():
     """Запрашиваем учетные данные у пользователя."""
     print('Пожалуйста, введите ваши учетные данные для Instagram.')
@@ -33,6 +50,8 @@ def prompt_credentials():
 def initialize_instaloader():
     """Инициализация Instaloader с сохранением сессии."""
     loader = instaloader.Instaloader(dirname_pattern=config.DATA_FOLDER)
+    if config.PROXY_URL is not None:
+        loader.context.proxy = config.PROXY_URL
 
     # Проверим, существует ли файл сессии
     if os.path.exists(session_file):

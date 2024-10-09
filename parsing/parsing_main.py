@@ -7,10 +7,13 @@ import threading
 try:
     from parsing.instagram_parser.parser import __main__ as instagram_main
     from parsing.telegram_parser.parser import __main__ as telegram_main
+    from parsing.instagram_parser import config as insta_config
+    from parsing.telegram_parser import config as tg_config
 except ImportError:
     from instagram_parser.parser import __main__ as instagram_main
     from telegram_parser.parser import __main__ as telegram_main
-
+    from instagram_parser import config as insta_config
+    from telegram_parser import config as tg_config
 
 # Функция для скачивания готового шаблона Excel
 def download_excel_template():
@@ -40,8 +43,12 @@ def load_from_excel():
     if file_path:
         try:
             data = pd.read_excel(file_path)
-            insta_channels = data['insta_channels'].dropna().tolist()
-            tg_channels = data['tg_channels'].dropna().tolist()
+            insta_channels = data['insta_channels'].dropna().drop_duplicates().tolist()
+            if insta_channels is not None:
+                print(f'Список Instagram аккаунтов: {', '.join(insta_channels)}')
+            tg_channels = data['tg_channels'].dropna().drop_duplicates().tolist()
+            if tg_channels is not None:
+                print(f'Список Telegram аккаунтов: {', '.join(tg_channels)}')
             return insta_channels, tg_channels
         except Exception as e:
             messagebox.showerror("Ошибка", f"Не удалось загрузить файл: {e}")
@@ -50,7 +57,6 @@ def load_from_excel():
 # Функция для запуска парсинга Instagram
 def start_instagram(instagram_accounts, post_limit):
     def run():
-        from .instagram_parser import config as insta_config
         insta_config.INSTAGRAM_PROFILES = instagram_accounts
         insta_config.POST_LIMIT = post_limit
         instagram_main()
@@ -60,10 +66,8 @@ def start_instagram(instagram_accounts, post_limit):
 # Функция для запуска парсинга Telegram
 def start_telegram(telegram_channels, post_limit):
     def run():
-        from .telegram_parser import config as tg_config
         tg_config.TELEGRAM_CHANNELS = telegram_channels
-        telegram_main()
-
+        telegram_main()  # Здесь больше не нужно передавать client
     threading.Thread(target=run).start()
 
 # Функция для запуска всего процесса парсинга
