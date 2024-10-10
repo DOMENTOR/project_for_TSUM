@@ -15,6 +15,7 @@ LOG_FILE = 'parsing/instagram_parser/parsing.log'
 
 # Опциональные настройки прокси (если необходимо)
 PROXY_URL = None  # Пример: 'http://proxy.example.com:1234'
+USE_PROXY = False  # По умолчанию не используем прокси
 
 # Интервал обновлений в секундах
 UPDATE_INTERVAL = 3600  # Получение обновлений каждые 3600 секунд (каждый час)

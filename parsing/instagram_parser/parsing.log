@@ -540,3 +540,38 @@
 2024-10-09 18:53:32,626 - instagram_parser - INFO - Самый поздний пост: None
 2024-10-09 19:00:46,151 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
 2024-10-09 19:00:46,151 - telegram_bot_parser - ERROR - Неопознанная ошибка: invalid literal for int() with base 10: '& C:/ProgramData/anaconda3/python.exe c:/Users/d_tru/Downloads/git/project_for_TSUM/project_for_TSUM/main.py'
+2024-10-09 19:03:13,312 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-09 19:03:13,312 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-09 19:03:34,328 - instagram_parser - INFO - Файл сессии найден: parsing\instagram_parser\session_name.session
+2024-10-09 19:03:34,328 - instagram_parser - INFO - Сессия загружена успешно.
+2024-10-09 19:03:34,328 - instagram_parser - INFO - Начало парсинга профиля: gucci
+2024-10-09 19:03:37,570 - instagram_parser - ERROR - Ошибка при получении постов профиля gucci: Redirected to login page. You've been logged out, please wait some time, recreate the session and try again
+2024-10-09 19:03:37,570 - instagram_parser - INFO - Профиль: gucci
+2024-10-09 19:03:37,570 - instagram_parser - INFO - Скачано постов: 0
+2024-10-09 19:03:37,571 - instagram_parser - INFO - Скачано медиафайлов: 0
+2024-10-09 19:03:37,571 - instagram_parser - INFO - Самый ранний пост: None
+2024-10-09 19:03:37,571 - instagram_parser - INFO - Самый поздний пост: None
+2024-10-10 10:58:37,551 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 10:58:37,551 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 11:04:18,238 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 11:04:18,259 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 11:51:20,618 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 11:51:20,618 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 11:57:59,098 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 11:57:59,100 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 12:00:32,647 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 12:00:32,647 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 12:00:53,273 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 12:00:53,273 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 12:05:32,359 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 12:05:32,359 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 12:09:08,484 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 12:09:08,484 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 12:10:49,118 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 12:10:49,118 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 12:10:49,118 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 13:12:34,726 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 13:12:34,726 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 13:12:49,055 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 13:12:49,055 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 13:12:49,055 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.

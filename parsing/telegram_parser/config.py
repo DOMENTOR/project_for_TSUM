@@ -15,6 +15,7 @@ LOG_FILE = 'parsing/telegram_parser/parsing.log'
 
 # Опциональные настройки прокси (если необходимо)
 PROXY_URL = None  # Пример: 'http://proxy.example.com:1234'
+USE_PROXY = False  # По умолчанию не используем прокси
 
 # Интервал обновлений в секундах
 UPDATE_INTERVAL = 3600  # Получение обновлений в секундах (каждый час)

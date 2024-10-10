@@ -1,0 +1,82 @@
+{
+    "text": "Модная Заметка. В следующем сезона акцент на талии и бедрах будет одним из важнейших трендов! Совершенно разные ремни, цепочки, поясные сумки войдут в модный обиход и чем их будет больше одновременно - тем лучше! ⚡️⚡️⚡️\nГотовьтесь или практикуйте уже сейчас!",
+    "date": "2024-10-10T10:03:56+00:00",
+    "views": 2698,
+    "forwards": 15,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 57,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 19,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 5,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 3,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22919.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22923.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22926.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22922.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22917.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22924.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22921.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22920.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22918.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22925.jpg"
+    ]
+}

@@ -50,8 +50,16 @@ def prompt_credentials():
 def initialize_instaloader():
     """Инициализация Instaloader с сохранением сессии."""
     loader = instaloader.Instaloader(dirname_pattern=config.DATA_FOLDER)
-    if config.PROXY_URL is not None:
-        loader.context.proxy = config.PROXY_URL
+    
+    # Проверка флага USE_PROXY перед настройкой прокси
+    if config.USE_PROXY and config.PROXY_URL is not None:
+        proxy_info = parse_proxy_url(config.PROXY_URL)
+        loader.context.proxy = f'{proxy_info["proxy_type"]}://{proxy_info["username"]}:{proxy_info["password"]}@{proxy_info["addr"]}:{proxy_info["port"]}'
+        logger.info(f'Используется прокси (Instagram): {config.PROXY_URL}')
+        print(f'Используется прокси (Instagram): {config.PROXY_URL}')
+    else:
+        logger.info('Прокси не используется (Instagram).')
+        print('Прокси не используется (Instagram).')
 
     # Проверим, существует ли файл сессии
     if os.path.exists(session_file):
@@ -79,6 +87,7 @@ def initialize_instaloader():
             return None
 
     return loader
+
 
 def fetch_profile_posts(loader, profile_name):
     """Получение всех постов профиля."""

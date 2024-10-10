@@ -1,0 +1,81 @@
+{
+    "text": "Собрал для вас классные кардиганы на эту осень и зиму:\n\nМилейший в цветочек Lime     \nВ трендовую клетку как у Paco Rabanne TopTop\nПушистик от Choux\nАнималистичный Look Online \nЛюбимая рванинка от Doublet\nВсегда актуальная полоска в \nStudio29\nЭлегантная классика Zarina\nТрендовый шоколадный Idol\nВеселенький в стиле кидкор \nEve&Esther",
+    "date": "2024-10-09T12:15:06+00:00",
+    "views": 30881,
+    "forwards": 95,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 379,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 116,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 97,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 30,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 6,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\rogov24\\media\\22910.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22909.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22911.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22908.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22907.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22906.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22904.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22905.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22903.jpg"
+    ]
+}

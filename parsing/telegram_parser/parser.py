@@ -210,8 +210,14 @@ def __main__():
         api_id, api_hash, phone_number = prompt_credentials(phone_number_needed=True)
 
     proxy = None
-    if config.PROXY_URL:
+    # Проверяем, нужно ли использовать прокси, исходя из конфигурации
+    if getattr(config, 'USE_PROXY', False) and config.PROXY_URL:
         proxy = parse_proxy_url(config.PROXY_URL)
+        logger.info(f'Используется прокси (Telegram): {config.PROXY_URL}')
+        print(f'Используется прокси (Telegram): {config.PROXY_URL}')
+    else:
+        logger.info('Прокси не используется (Telegram).')
+        print('Прокси не используется (Telegram).')
 
     try:
         client = initialize_client(api_id, api_hash, phone_number, proxy)
@@ -256,5 +262,8 @@ def __main__():
 
 
 
+
+
 if __name__ == '__main__':
+    print('if_name_main_go')
     __main__()

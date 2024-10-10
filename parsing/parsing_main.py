@@ -54,24 +54,28 @@ def load_from_excel():
             messagebox.showerror("Ошибка", f"Не удалось загрузить файл: {e}")
     return [], []
 
-# Функция для запуска парсинга Instagram
-def start_instagram(instagram_accounts, post_limit):
+def start_instagram(instagram_accounts, post_limit, use_proxy_var_inst):
     def run():
         insta_config.INSTAGRAM_PROFILES = instagram_accounts
         insta_config.POST_LIMIT = post_limit
+        # Сохраняем выбор пользователя в конфигурацию перед вызовом парсера
+        insta_config.USE_PROXY = use_proxy_var_inst.get()
         instagram_main()
 
     threading.Thread(target=run).start()
 
-# Функция для запуска парсинга Telegram
-def start_telegram(telegram_channels, post_limit):
+def start_telegram(telegram_channels, post_limit, use_proxy_var_tg):
     def run():
         tg_config.TELEGRAM_CHANNELS = telegram_channels
-        telegram_main()  # Здесь больше не нужно передавать client
+        tg_config.POST_LIMIT = post_limit
+        # Сохраняем выбор пользователя в конфигурацию перед вызовом парсера
+        tg_config.USE_PROXY = use_proxy_var_tg.get()
+        telegram_main()
+
     threading.Thread(target=run).start()
 
 # Функция для запуска всего процесса парсинга
-def start_parsing():
+def start_parsing(use_proxy_var_inst, use_proxy_var_tg):
     # Получение значений из загруженного Excel файла
     post_limit = post_limit_entry.get()  # Получаем количество постов
     if post_limit.isdigit():
@@ -86,36 +90,49 @@ def start_parsing():
 
     # Запуск парсинга Instagram и Telegram в разных потоках
     if insta_channels:
-        start_instagram(insta_channels, post_limit)
+        start_instagram(insta_channels, post_limit, use_proxy_var_inst)
     
     if tg_channels:
-        start_telegram(tg_channels, post_limit)
+        start_telegram(tg_channels, post_limit, use_proxy_var_tg)
 
-# Кнопка для запуска парсинга
+
+# GUI (Graphical User Interface)
 def create_gui():
     root = tk.Tk()
     root.title("Парсер для Instagram и Telegram")
+    root.geometry("400x300")
+
+    # Создаём переменные use_proxy_var_inst и use_proxy_var_tg после инициализации root
+    use_proxy_var_inst = tk.BooleanVar()
+    use_proxy_var_tg = tk.BooleanVar()
 
     # Кнопка для скачивания шаблона Excel
-    tk.Button(root, text="Скачать шаблон Excel", command=download_excel_template).grid(row=0, column=0, columnspan=2, pady=10)
+    tk.Button(root, text="Скачать шаблон Excel", command=download_excel_template).grid(row=0, column=0, columnspan=2, pady=10, padx=10, sticky="ew")
 
     # Кнопка для загрузки списка каналов из Excel
-    tk.Button(root, text="Загрузить список из Excel", command=load_channels_from_excel).grid(row=1, column=0, columnspan=2, pady=10)
-
-    # Кнопка для пропуска парсинга
-    tk.Button(root, text="Пропустить парсинг", command=count_files).grid(row=2, column=0, columnspan=2, pady=10)
+    tk.Button(root, text="Загрузить список из Excel", command=load_channels_from_excel).grid(row=1, column=0, columnspan=2, pady=10, padx=10, sticky="ew")
 
     # Поле для ввода количества постов
-    tk.Label(root, text="Количество постов для парсинга:").grid(row=3, column=0)
+    tk.Label(root, text="Количество постов для парсинга:").grid(row=2, column=0, padx=10, sticky="w")
     global post_limit_entry
     post_limit_entry = tk.Entry(root, width=10)
-    post_limit_entry.grid(row=3, column=1)
+    post_limit_entry.grid(row=2, column=1, padx=10)
     post_limit_entry.insert(0, "5")
 
+    # Флажок для выбора использования прокси TG
+    proxy_checkbox_tg = tk.Checkbutton(root, text="Использовать прокси TG", variable=use_proxy_var_tg)
+    proxy_checkbox_tg.grid(row=3, column=0, columnspan=2, pady=5, padx=10, sticky="w")
+
+    # Флажок для выбора использования прокси Inst
+    proxy_checkbox_inst = tk.Checkbutton(root, text="Использовать прокси Inst", variable=use_proxy_var_inst)
+    proxy_checkbox_inst.grid(row=4, column=0, columnspan=2, pady=5, padx=10, sticky="w")
+
     # Кнопка для запуска парсинга
-    tk.Button(root, text="Запустить парсинг", command=start_parsing).grid(row=4, column=0, columnspan=2, pady=10)
+    tk.Button(root, text="Запустить парсинг", command=lambda: start_parsing(use_proxy_var_inst, use_proxy_var_tg)).grid(row=5, column=0, columnspan=2, pady=20, padx=10, sticky="ew")
 
     root.mainloop()
+
+
 
 # Функция для загрузки каналов из Excel и сохранения в переменные
 def load_channels_from_excel():

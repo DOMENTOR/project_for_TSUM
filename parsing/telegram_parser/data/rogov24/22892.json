@@ -1,8 +1,8 @@
 {
-    "text": "Куртка и тренч из коллекции FW25 уже доступны для заказа на ROGOVSHOP.RU 🖤",
-    "date": "2024-08-20T17:23:38+00:00",
-    "views": 47806,
-    "forwards": 83,
+    "text": "Мои девочки! ROGOVSHOP.RU",
+    "date": "2024-10-08T18:09:43+00:00",
+    "views": 37321,
+    "forwards": 33,
     "reactions": {
         "_": "MessageReactions",
         "results": [
@@ -10,18 +10,9 @@
                 "_": "ReactionCount",
                 "reaction": {
                     "_": "ReactionEmoji",
-                    "emoticon": "😁"
+                    "emoticon": "🥰"
                 },
-                "count": 1037,
-                "chosen_order": null
-            },
-            {
-                "_": "ReactionCount",
-                "reaction": {
-                    "_": "ReactionEmoji",
-                    "emoticon": "🔥"
-                },
-                "count": 160,
+                "count": 557,
                 "chosen_order": null
             },
             {
@@ -30,7 +21,16 @@
                     "_": "ReactionEmoji",
                     "emoticon": "❤"
                 },
-                "count": 134,
+                "count": 243,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 187,
                 "chosen_order": null
             },
             {
@@ -39,7 +39,7 @@
                     "_": "ReactionEmoji",
                     "emoticon": "👍"
                 },
-                "count": 40,
+                "count": 73,
                 "chosen_order": null
             },
             {
@@ -48,7 +48,16 @@
                     "_": "ReactionEmoji",
                     "emoticon": "🤯"
                 },
-                "count": 7,
+                "count": 26,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 9,
                 "chosen_order": null
             },
             {
@@ -57,25 +66,7 @@
                     "_": "ReactionEmoji",
                     "emoticon": "😢"
                 },
-                "count": 7,
-                "chosen_order": null
-            },
-            {
-                "_": "ReactionCount",
-                "reaction": {
-                    "_": "ReactionEmoji",
-                    "emoticon": "🥰"
-                },
-                "count": 2,
-                "chosen_order": null
-            },
-            {
-                "_": "ReactionCount",
-                "reaction": {
-                    "_": "ReactionEmoji",
-                    "emoticon": "🎉"
-                },
-                "count": 2,
+                "count": 9,
                 "chosen_order": null
             }
         ],
@@ -86,8 +77,8 @@
         "top_reactors": []
     },
     "media": [
-        "parsing/telegram_parser/data\\rogov24\\media\\22913.jpg",
-        "parsing/telegram_parser/data\\rogov24\\media\\22914.jpg",
-        "parsing/telegram_parser/data\\rogov24\\media\\22885.jpg"
+        "parsing/telegram_parser/data\\rogov24\\media\\22892.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22891.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22890.jpg"
     ]
 }

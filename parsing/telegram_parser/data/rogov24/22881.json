@@ -1,8 +1,8 @@
 {
-    "text": "Куртка и тренч из коллекции FW25 уже доступны для заказа на ROGOVSHOP.RU 🖤",
-    "date": "2024-08-20T17:23:38+00:00",
-    "views": 47806,
-    "forwards": 83,
+    "text": "Разглядываем луки с вау-показа ROGOV, отгремевшего в московском Манеже, — и да, первой космический металлик-тренч и вечнозеленый жакет от бренда суперстилиста Александра Рогова примерила звезда «Комбинации» и «Слова пацана» Елизавета Базыкина в съемке для сентябрьского номера журнала Собака.ru!",
+    "date": "2024-10-07T16:34:15+00:00",
+    "views": 42434,
+    "forwards": 38,
     "reactions": {
         "_": "MessageReactions",
         "results": [
@@ -10,9 +10,9 @@
                 "_": "ReactionCount",
                 "reaction": {
                     "_": "ReactionEmoji",
-                    "emoticon": "😁"
+                    "emoticon": "❤"
                 },
-                "count": 1037,
+                "count": 581,
                 "chosen_order": null
             },
             {
@@ -21,16 +21,7 @@
                     "_": "ReactionEmoji",
                     "emoticon": "🔥"
                 },
-                "count": 160,
-                "chosen_order": null
-            },
-            {
-                "_": "ReactionCount",
-                "reaction": {
-                    "_": "ReactionEmoji",
-                    "emoticon": "❤"
-                },
-                "count": 134,
+                "count": 241,
                 "chosen_order": null
             },
             {
@@ -39,34 +30,7 @@
                     "_": "ReactionEmoji",
                     "emoticon": "👍"
                 },
-                "count": 40,
-                "chosen_order": null
-            },
-            {
-                "_": "ReactionCount",
-                "reaction": {
-                    "_": "ReactionEmoji",
-                    "emoticon": "🤯"
-                },
-                "count": 7,
-                "chosen_order": null
-            },
-            {
-                "_": "ReactionCount",
-                "reaction": {
-                    "_": "ReactionEmoji",
-                    "emoticon": "😢"
-                },
-                "count": 7,
-                "chosen_order": null
-            },
-            {
-                "_": "ReactionCount",
-                "reaction": {
-                    "_": "ReactionEmoji",
-                    "emoticon": "🥰"
-                },
-                "count": 2,
+                "count": 98,
                 "chosen_order": null
             },
             {
@@ -75,7 +39,34 @@
                     "_": "ReactionEmoji",
                     "emoticon": "🎉"
                 },
-                "count": 2,
+                "count": 23,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 11,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 4,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🙏"
+                },
+                "count": 1,
                 "chosen_order": null
             }
         ],
@@ -86,8 +77,12 @@
         "top_reactors": []
     },
     "media": [
-        "parsing/telegram_parser/data\\rogov24\\media\\22913.jpg",
-        "parsing/telegram_parser/data\\rogov24\\media\\22914.jpg",
-        "parsing/telegram_parser/data\\rogov24\\media\\22885.jpg"
+        "parsing/telegram_parser/data\\rogov24\\media\\22881.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22880.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22879.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22878.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22877.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22876.jpg",
+        "parsing/telegram_parser/data\\rogov24\\media\\22875.jpg"
     ]
 }
