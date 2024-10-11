@@ -78,5 +78,17 @@
     },
     "media": [
         "parsing/telegram_parser/data\\rogov24\\media\\21872.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.6016625761985779,
+            "parsing/telegram_parser/data\\rogov24\\media\\21872.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.7378630638122559,
+            "parsing/telegram_parser/data\\rogov24\\media\\21872.jpg"
+        ]
     ]
 }

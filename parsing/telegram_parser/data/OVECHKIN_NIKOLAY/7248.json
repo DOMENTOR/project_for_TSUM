@@ -50,5 +50,81 @@
         "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7240.jpg",
         "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7247.jpg",
         "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7244.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.45682859420776367,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7245.jpg"
+        ],
+        [
+            0.5446353554725647,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7242.jpg"
+        ],
+        [
+            0.5356317162513733,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7243.jpg"
+        ],
+        [
+            0.5725001096725464,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7248.jpg"
+        ],
+        [
+            0.5153674483299255,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7246.jpg"
+        ],
+        [
+            0.4561040997505188,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7241.jpg"
+        ],
+        [
+            0.5236915349960327,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7240.jpg"
+        ],
+        [
+            0.48907598853111267,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7247.jpg"
+        ],
+        [
+            0.48380324244499207,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7244.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.7518444061279297,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7245.jpg"
+        ],
+        [
+            0.6583405137062073,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7242.jpg"
+        ],
+        [
+            0.6591209173202515,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7243.jpg"
+        ],
+        [
+            0.5829437375068665,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7248.jpg"
+        ],
+        [
+            0.6538371443748474,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7246.jpg"
+        ],
+        [
+            0.7831310629844666,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7241.jpg"
+        ],
+        [
+            0.7484737038612366,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7240.jpg"
+        ],
+        [
+            0.6949871778488159,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7247.jpg"
+        ],
+        [
+            0.6188361644744873,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\7244.jpg"
+        ]
     ]
 }

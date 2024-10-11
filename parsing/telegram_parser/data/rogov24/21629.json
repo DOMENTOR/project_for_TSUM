@@ -89,5 +89,33 @@
         "parsing/telegram_parser/data\\rogov24\\media\\22913.jpg",
         "parsing/telegram_parser/data\\rogov24\\media\\22914.jpg",
         "parsing/telegram_parser/data\\rogov24\\media\\22885.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.5454493165016174,
+            "parsing/telegram_parser/data\\rogov24\\media\\22913.jpg"
+        ],
+        [
+            0.4735264480113983,
+            "parsing/telegram_parser/data\\rogov24\\media\\22914.jpg"
+        ],
+        [
+            0.2918725609779358,
+            "parsing/telegram_parser/data\\rogov24\\media\\22885.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.5754225850105286,
+            "parsing/telegram_parser/data\\rogov24\\media\\22913.jpg"
+        ],
+        [
+            0.5757279992103577,
+            "parsing/telegram_parser/data\\rogov24\\media\\22914.jpg"
+        ],
+        [
+            0.7343778014183044,
+            "parsing/telegram_parser/data\\rogov24\\media\\22885.jpg"
+        ]
     ]
 }

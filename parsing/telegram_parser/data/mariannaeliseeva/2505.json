@@ -1,0 +1,130 @@
+{
+    "text": "Всем огромнейшие приветики♥️ Возвращаюсь к вам. Была несколько дней почти без связи в горах Северной Осетии. Прикладываю доказательства⛰️📸",
+    "date": "2024-10-11T07:02:54+00:00",
+    "views": 16342,
+    "forwards": 77,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 1207,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 408,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😍"
+                },
+                "count": 153,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 99,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 46,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2500.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2503.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2501.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2506.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2505.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2504.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2502.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.690972626209259,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2500.jpg"
+        ],
+        [
+            0.6440257430076599,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2503.jpg"
+        ],
+        [
+            0.6452945470809937,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2501.jpg"
+        ],
+        [
+            0.7106761336326599,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2506.jpg"
+        ],
+        [
+            0.7152977585792542,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2505.jpg"
+        ],
+        [
+            0.5969330072402954,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2504.jpg"
+        ],
+        [
+            0.49561890959739685,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2502.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.750080406665802,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2500.jpg"
+        ],
+        [
+            0.6301418542861938,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2503.jpg"
+        ],
+        [
+            0.432840496301651,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2501.jpg"
+        ],
+        [
+            0.8257785439491272,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2506.jpg"
+        ],
+        [
+            0.6618601679801941,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2505.jpg"
+        ],
+        [
+            0.7289643287658691,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2504.jpg"
+        ],
+        [
+            0.7244851589202881,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2502.jpg"
+        ]
+    ]
+}

@@ -575,3 +575,647 @@
 2024-10-10 13:12:49,055 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
 2024-10-10 13:12:49,055 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
 2024-10-10 13:12:49,055 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 14:00:44,384 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 14:00:44,384 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 14:01:23,102 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 14:01:23,103 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 14:01:23,109 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 14:02:48,282 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 14:02:48,283 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 14:02:48,286 - telegram_bot_parser - ERROR - Неопознанная ошибка: invalid literal for int() with base 10: 's'
+2024-10-10 14:03:09,577 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 14:03:09,577 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 14:03:26,992 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 14:03:26,992 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 14:03:26,992 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 14:04:38,166 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 14:04:38,171 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 14:04:59,344 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 14:04:59,345 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 14:04:59,347 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 16:19:12,609 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 16:19:12,612 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 16:19:39,538 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 16:19:39,538 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 16:19:39,538 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 16:23:30,742 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 16:23:30,742 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 16:23:48,518 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 16:23:48,518 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 16:23:48,518 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 16:24:59,662 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 16:24:59,662 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 16:25:41,016 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 16:25:41,016 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 16:25:41,016 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 16:29:41,419 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 16:29:41,430 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 16:29:42,037 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-10 16:30:37,993 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 16:30:37,993 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 16:30:37,993 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 17:42:53,159 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 17:42:53,161 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 17:42:53,569 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-10 17:56:16,392 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 17:56:16,394 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 17:56:17,020 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-10 17:56:35,471 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 17:56:35,471 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 17:56:35,471 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-10 17:57:41,635 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-10 17:57:41,635 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-10 17:57:42,145 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-10 17:58:04,399 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-10 17:58:04,400 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-10 17:58:04,401 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-11 12:21:18,918 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 12:21:18,918 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 12:21:19,736 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 12:21:27,635 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 12:21:44,704 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 12:21:44,704 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-11 12:21:44,727 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-11 12:38:32,153 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 12:38:32,153 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 12:38:32,735 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 12:38:39,369 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 12:38:54,363 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 12:38:54,363 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-11 12:38:54,368 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-11 12:43:05,329 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 12:43:05,329 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 12:43:05,931 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 12:43:13,444 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 12:43:38,095 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 12:43:38,097 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name.session
+2024-10-11 12:43:38,098 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-11 12:45:18,625 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 12:45:18,625 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 12:45:19,175 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 12:45:27,165 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 12:47:05,726 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 12:47:05,727 - telegram_bot_parser - INFO - Файл сессии не найден. Запрашиваем данные для создания новой сессии.
+2024-10-11 12:47:05,729 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-11 12:55:39,986 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 12:55:39,986 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 12:55:40,469 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 12:55:47,843 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 12:55:56,685 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 12:55:56,688 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name
+2024-10-11 12:55:56,694 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-11 13:13:03,818 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 13:13:03,818 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 13:13:04,377 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 13:13:11,950 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 13:13:24,613 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 13:13:24,613 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name
+2024-10-11 13:13:24,613 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-11 13:29:31,783 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 13:29:31,783 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 13:29:32,407 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 13:29:43,734 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 13:30:01,101 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 13:30:01,108 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name
+2024-10-11 13:30:01,111 - telegram_bot_parser - ERROR - Неопознанная ошибка: There is no current event loop in thread 'Thread-1 (run)'.
+2024-10-11 14:21:32,329 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 14:21:32,330 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 14:21:32,803 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 14:22:04,435 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 14:22:16,210 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 14:22:16,210 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name
+2024-10-11 14:22:16,210 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 14:22:16,227 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 14:22:18,204 - telegram_bot_parser - INFO - Клиент подключен.
+2024-10-11 14:22:18,204 - telegram_bot_parser - INFO - Клиент уже авторизован.
+2024-10-11 14:22:18,204 - telegram_bot_parser - INFO - Начало парсинга канала: rogov24
+2024-10-11 14:22:28,914 - telegram_bot_parser - INFO - Скачиваем 22982.jpg
+2024-10-11 14:22:28,914 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:22:29,831 - telegram_bot_parser - INFO - Скачиваем 22981.jpg
+2024-10-11 14:22:29,833 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:22:30,634 - telegram_bot_parser - INFO - Скачиваем 22980.jpg
+2024-10-11 14:22:30,636 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:22:31,785 - telegram_bot_parser - INFO - Скачиваем 22979.jpg
+2024-10-11 14:22:31,787 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:23:14,353 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 14:23:55,052 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 14:23:55,052 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 14:23:55,563 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 14:24:10,510 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 14:24:28,715 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 14:24:28,715 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name
+2024-10-11 14:24:28,731 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 14:24:28,733 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 14:24:32,092 - telegram_bot_parser - INFO - Клиент подключен.
+2024-10-11 14:24:32,092 - telegram_bot_parser - INFO - Клиент уже авторизован.
+2024-10-11 14:24:32,092 - telegram_bot_parser - INFO - Начало парсинга канала: mariannaeliseeva
+2024-10-11 14:24:53,443 - telegram_bot_parser - INFO - Скачиваем 2506.jpg
+2024-10-11 14:24:53,445 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:24:56,907 - telegram_bot_parser - INFO - Скачиваем 2505.jpg
+2024-10-11 14:24:56,911 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:24:59,366 - telegram_bot_parser - INFO - Скачиваем 2504.jpg
+2024-10-11 14:24:59,366 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:03,394 - telegram_bot_parser - INFO - Скачиваем 2503.jpg
+2024-10-11 14:25:03,394 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:08,743 - telegram_bot_parser - INFO - Скачиваем 2502.jpg
+2024-10-11 14:25:08,745 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:13,683 - telegram_bot_parser - INFO - Скачиваем 2501.jpg
+2024-10-11 14:25:13,686 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:15,243 - telegram_bot_parser - INFO - Скачиваем 2500.jpg
+2024-10-11 14:25:15,258 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:19,103 - telegram_bot_parser - INFO - Сохраняем 2506.json
+2024-10-11 14:25:19,642 - telegram_bot_parser - INFO - Сохраняем 2505.json
+2024-10-11 14:25:20,166 - telegram_bot_parser - INFO - Сохраняем 2504.json
+2024-10-11 14:25:20,706 - telegram_bot_parser - INFO - Сохраняем 2503.json
+2024-10-11 14:25:21,187 - telegram_bot_parser - INFO - Сохраняем 2502.json
+2024-10-11 14:25:22,066 - telegram_bot_parser - INFO - Сохраняем 2501.json
+2024-10-11 14:25:22,961 - telegram_bot_parser - INFO - Сохраняем 2500.json
+2024-10-11 14:25:24,001 - telegram_bot_parser - INFO - Скачиваем 2499.jpg
+2024-10-11 14:25:24,005 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:25,734 - telegram_bot_parser - INFO - Скачиваем 2498.jpg
+2024-10-11 14:25:25,734 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:27,345 - telegram_bot_parser - INFO - Скачиваем 2497.jpg
+2024-10-11 14:25:27,345 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:28,506 - telegram_bot_parser - INFO - Скачиваем 2496.jpg
+2024-10-11 14:25:28,508 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:29,438 - telegram_bot_parser - INFO - Скачиваем 2495.jpg
+2024-10-11 14:25:29,438 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:30,409 - telegram_bot_parser - INFO - Скачиваем 2494.jpg
+2024-10-11 14:25:30,419 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:31,440 - telegram_bot_parser - INFO - Скачиваем 2493.jpg
+2024-10-11 14:25:31,440 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:32,423 - telegram_bot_parser - INFO - Скачиваем 2492.jpg
+2024-10-11 14:25:32,425 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:25:33,485 - telegram_bot_parser - INFO - Сохраняем 2499.json
+2024-10-11 14:25:34,113 - telegram_bot_parser - INFO - Сохраняем 2498.json
+2024-10-11 14:25:34,644 - telegram_bot_parser - INFO - Сохраняем 2497.json
+2024-10-11 14:25:35,308 - telegram_bot_parser - INFO - Сохраняем 2496.json
+2024-10-11 14:25:36,219 - telegram_bot_parser - INFO - Сохраняем 2495.json
+2024-10-11 14:25:36,962 - telegram_bot_parser - INFO - Сохраняем 2494.json
+2024-10-11 14:25:37,828 - telegram_bot_parser - INFO - Сохраняем 2493.json
+2024-10-11 14:25:38,467 - telegram_bot_parser - INFO - Сохраняем 2492.json
+2024-10-11 14:25:38,473 - telegram_bot_parser - INFO - Сохраняем 2491.json
+2024-10-11 14:25:38,478 - telegram_bot_parser - INFO - Сохраняем 2490.json
+2024-10-11 14:25:38,489 - telegram_bot_parser - INFO - Сохраняем 2489.json
+2024-10-11 14:25:39,163 - telegram_bot_parser - INFO - Сохраняем 2488.json
+2024-10-11 14:25:39,720 - telegram_bot_parser - INFO - Сохраняем 2487.json
+2024-10-11 14:25:40,192 - telegram_bot_parser - INFO - Сохраняем 2486.json
+2024-10-11 14:25:40,736 - telegram_bot_parser - INFO - Сохраняем 2485.json
+2024-10-11 14:25:41,193 - telegram_bot_parser - INFO - Сохраняем 2484.json
+2024-10-11 14:25:41,641 - telegram_bot_parser - INFO - Сохраняем 2483.json
+2024-10-11 14:25:42,033 - telegram_bot_parser - INFO - Сохраняем 2482.json
+2024-10-11 14:25:42,452 - telegram_bot_parser - INFO - Сохраняем 2481.json
+2024-10-11 14:25:43,019 - telegram_bot_parser - INFO - Сохраняем 2480.json
+2024-10-11 14:25:43,452 - telegram_bot_parser - INFO - Сохраняем 2479.json
+2024-10-11 14:25:43,889 - telegram_bot_parser - INFO - Сохраняем 2478.json
+2024-10-11 14:25:44,502 - telegram_bot_parser - INFO - Сохраняем 2477.json
+2024-10-11 14:25:44,942 - telegram_bot_parser - INFO - Сохраняем 2476.json
+2024-10-11 14:25:45,357 - telegram_bot_parser - INFO - Сохраняем 2475.json
+2024-10-11 14:25:45,820 - telegram_bot_parser - INFO - Сохраняем 2474.json
+2024-10-11 14:25:46,238 - telegram_bot_parser - INFO - Сохраняем 2473.json
+2024-10-11 14:25:46,461 - telethon.client.users - INFO - Sleeping for 3s (0:00:03) on GetHistoryRequest flood wait
+2024-10-11 14:25:50,086 - telegram_bot_parser - INFO - Сохраняем 2472.json
+2024-10-11 14:25:50,659 - telegram_bot_parser - INFO - Сохраняем 2471.json
+2024-10-11 14:25:51,314 - telegram_bot_parser - INFO - Сохраняем 2470.json
+2024-10-11 14:25:52,017 - telegram_bot_parser - INFO - Сохраняем 2469.json
+2024-10-11 14:25:52,726 - telegram_bot_parser - INFO - Сохраняем 2468.json
+2024-10-11 14:25:53,374 - telegram_bot_parser - INFO - Сохраняем 2467.json
+2024-10-11 14:25:54,185 - telegram_bot_parser - INFO - Сохраняем 2466.json
+2024-10-11 14:25:54,948 - telegram_bot_parser - INFO - Сохраняем 2465.json
+2024-10-11 14:25:55,567 - telegram_bot_parser - INFO - Сохраняем 2464.json
+2024-10-11 14:25:56,034 - telegram_bot_parser - INFO - Сохраняем 2463.json
+2024-10-11 14:25:56,511 - telegram_bot_parser - INFO - Сохраняем 2462.json
+2024-10-11 14:25:57,072 - telegram_bot_parser - INFO - Сохраняем 2461.json
+2024-10-11 14:25:57,729 - telegram_bot_parser - INFO - Сохраняем 2460.json
+2024-10-11 14:25:58,304 - telegram_bot_parser - INFO - Сохраняем 2459.json
+2024-10-11 14:25:58,923 - telegram_bot_parser - INFO - Сохраняем 2458.json
+2024-10-11 14:25:59,593 - telegram_bot_parser - INFO - Сохраняем 2457.json
+2024-10-11 14:26:00,240 - telegram_bot_parser - INFO - Сохраняем 2456.json
+2024-10-11 14:26:00,712 - telegram_bot_parser - INFO - Сохраняем 2455.json
+2024-10-11 14:26:01,324 - telegram_bot_parser - INFO - Сохраняем 2454.json
+2024-10-11 14:26:01,774 - telegram_bot_parser - INFO - Сохраняем 2453.json
+2024-10-11 14:26:02,277 - telegram_bot_parser - INFO - Сохраняем 2452.json
+2024-10-11 14:26:02,762 - telegram_bot_parser - INFO - Сохраняем 2451.json
+2024-10-11 14:26:03,362 - telegram_bot_parser - INFO - Сохраняем 2450.json
+2024-10-11 14:26:04,253 - telegram_bot_parser - INFO - Сохраняем 2449.json
+2024-10-11 14:26:04,942 - telegram_bot_parser - INFO - Сохраняем 2448.json
+2024-10-11 14:26:06,039 - telegram_bot_parser - INFO - Сохраняем 2447.json
+2024-10-11 14:26:06,905 - telegram_bot_parser - INFO - Сохраняем 2446.json
+2024-10-11 14:26:07,308 - telegram_bot_parser - INFO - Сохраняем 2445.json
+2024-10-11 14:26:07,748 - telegram_bot_parser - INFO - Сохраняем 2444.json
+2024-10-11 14:26:08,166 - telegram_bot_parser - INFO - Сохраняем 2443.json
+2024-10-11 14:26:08,334 - telethon.client.users - INFO - Sleeping for 13s (0:00:13) on GetHistoryRequest flood wait
+2024-10-11 14:26:21,928 - telegram_bot_parser - INFO - Сохраняем 2442.json
+2024-10-11 14:26:22,469 - telegram_bot_parser - INFO - Сохраняем 2441.json
+2024-10-11 14:26:23,034 - telegram_bot_parser - INFO - Сохраняем 2440.json
+2024-10-11 14:26:23,534 - telegram_bot_parser - INFO - Сохраняем 2439.json
+2024-10-11 14:26:24,032 - telegram_bot_parser - INFO - Сохраняем 2438.json
+2024-10-11 14:26:24,634 - telegram_bot_parser - INFO - Сохраняем 2437.json
+2024-10-11 14:26:25,352 - telegram_bot_parser - INFO - Сохраняем 2436.json
+2024-10-11 14:26:25,979 - telegram_bot_parser - INFO - Сохраняем 2435.json
+2024-10-11 14:26:26,544 - telegram_bot_parser - INFO - Сохраняем 2434.json
+2024-10-11 14:26:27,076 - telegram_bot_parser - INFO - Сохраняем 2433.json
+2024-10-11 14:26:27,650 - telegram_bot_parser - INFO - Сохраняем 2432.json
+2024-10-11 14:26:28,135 - telegram_bot_parser - INFO - Сохраняем 2431.json
+2024-10-11 14:26:28,702 - telegram_bot_parser - INFO - Сохраняем 2430.json
+2024-10-11 14:26:29,394 - telegram_bot_parser - INFO - Сохраняем 2429.json
+2024-10-11 14:26:29,775 - telegram_bot_parser - INFO - Сохраняем 2428.json
+2024-10-11 14:26:30,189 - telegram_bot_parser - INFO - Сохраняем 2427.json
+2024-10-11 14:26:30,884 - telegram_bot_parser - INFO - Сохраняем 2426.json
+2024-10-11 14:26:31,617 - telegram_bot_parser - INFO - Сохраняем 2425.json
+2024-10-11 14:26:32,491 - telegram_bot_parser - INFO - Сохраняем 2424.json
+2024-10-11 14:26:33,326 - telegram_bot_parser - INFO - Сохраняем 2423.json
+2024-10-11 14:26:34,106 - telegram_bot_parser - INFO - Сохраняем 2422.json
+2024-10-11 14:26:34,783 - telegram_bot_parser - INFO - Сохраняем 2421.json
+2024-10-11 14:26:35,373 - telegram_bot_parser - INFO - Сохраняем 2420.json
+2024-10-11 14:26:35,927 - telegram_bot_parser - INFO - Сохраняем 2419.json
+2024-10-11 14:26:36,515 - telegram_bot_parser - INFO - Сохраняем 2418.json
+2024-10-11 14:26:37,241 - telegram_bot_parser - INFO - Сохраняем 2417.json
+2024-10-11 14:26:38,056 - telegram_bot_parser - INFO - Сохраняем 2416.json
+2024-10-11 14:26:39,172 - telegram_bot_parser - INFO - Сохраняем 2415.json
+2024-10-11 14:26:39,846 - telegram_bot_parser - INFO - Сохраняем 2414.json
+2024-10-11 14:26:40,355 - telegram_bot_parser - INFO - Сохраняем 2413.json
+2024-10-11 14:26:40,355 - telegram_bot_parser - INFO - Сохраняем 2412.json
+2024-10-11 14:26:40,669 - telethon.client.users - INFO - Sleeping for 12s (0:00:12) on GetHistoryRequest flood wait
+2024-10-11 14:26:53,673 - telegram_bot_parser - INFO - Сохраняем 2411.json
+2024-10-11 14:26:54,179 - telegram_bot_parser - INFO - Сохраняем 2410.json
+2024-10-11 14:26:54,690 - telegram_bot_parser - INFO - Сохраняем 2409.json
+2024-10-11 14:26:55,359 - telegram_bot_parser - INFO - Сохраняем 2408.json
+2024-10-11 14:26:56,305 - telegram_bot_parser - INFO - Сохраняем 2407.json
+2024-10-11 14:26:57,103 - telegram_bot_parser - INFO - Сохраняем 2406.json
+2024-10-11 14:26:57,736 - telegram_bot_parser - INFO - Сохраняем 2405.json
+2024-10-11 14:26:58,223 - telegram_bot_parser - INFO - Сохраняем 2404.json
+2024-10-11 14:26:59,015 - telegram_bot_parser - INFO - Сохраняем 2403.json
+2024-10-11 14:26:59,744 - telegram_bot_parser - INFO - Сохраняем 2402.json
+2024-10-11 14:27:00,618 - telegram_bot_parser - INFO - Сохраняем 2401.json
+2024-10-11 14:27:01,352 - telegram_bot_parser - INFO - Сохраняем 2400.json
+2024-10-11 14:27:02,423 - telegram_bot_parser - INFO - Сохраняем 2399.json
+2024-10-11 14:27:03,691 - telegram_bot_parser - INFO - Сохраняем 2398.json
+2024-10-11 14:27:04,390 - telegram_bot_parser - INFO - Сохраняем 2397.json
+2024-10-11 14:27:05,093 - telegram_bot_parser - INFO - Сохраняем 2396.json
+2024-10-11 14:27:05,642 - telegram_bot_parser - INFO - Сохраняем 2395.json
+2024-10-11 14:27:06,743 - telegram_bot_parser - INFO - Сохраняем 2394.json
+2024-10-11 14:27:07,688 - telegram_bot_parser - INFO - Сохраняем 2393.json
+2024-10-11 14:27:08,545 - telegram_bot_parser - INFO - Сохраняем 2392.json
+2024-10-11 14:27:09,486 - telegram_bot_parser - INFO - Сохраняем 2391.json
+2024-10-11 14:27:10,420 - telegram_bot_parser - INFO - Сохраняем 2390.json
+2024-10-11 14:27:11,241 - telegram_bot_parser - INFO - Сохраняем 2389.json
+2024-10-11 14:27:12,144 - telegram_bot_parser - INFO - Сохраняем 2388.json
+2024-10-11 14:27:12,994 - telegram_bot_parser - INFO - Сохраняем 2387.json
+2024-10-11 14:27:13,890 - telegram_bot_parser - INFO - Сохраняем 2386.json
+2024-10-11 14:27:16,356 - telegram_bot_parser - INFO - Сохраняем 2385.json
+2024-10-11 14:27:18,263 - telegram_bot_parser - INFO - Сохраняем 2384.json
+2024-10-11 14:27:19,019 - telegram_bot_parser - INFO - Сохраняем 2383.json
+2024-10-11 14:27:21,376 - telegram_bot_parser - INFO - Сохраняем 2382.json
+2024-10-11 14:27:24,443 - telegram_bot_parser - INFO - Сохраняем 2381.json
+2024-10-11 14:27:26,522 - telegram_bot_parser - INFO - Сохраняем 2380.json
+2024-10-11 14:27:29,268 - telegram_bot_parser - INFO - Сохраняем 2379.json
+2024-10-11 14:27:30,530 - telegram_bot_parser - INFO - Сохраняем 2378.json
+2024-10-11 14:27:30,996 - telegram_bot_parser - INFO - Сохраняем 2377.json
+2024-10-11 14:27:31,466 - telegram_bot_parser - INFO - Сохраняем 2376.json
+2024-10-11 14:27:32,141 - telegram_bot_parser - INFO - Сохраняем 2375.json
+2024-10-11 14:27:32,875 - telegram_bot_parser - INFO - Сохраняем 2374.json
+2024-10-11 14:27:33,646 - telegram_bot_parser - INFO - Сохраняем 2373.json
+2024-10-11 14:27:35,563 - telegram_bot_parser - INFO - Сохраняем 2372.json
+2024-10-11 14:27:35,946 - telegram_bot_parser - INFO - Сохраняем 2371.json
+2024-10-11 14:27:36,428 - telegram_bot_parser - INFO - Сохраняем 2370.json
+2024-10-11 14:27:37,087 - telegram_bot_parser - INFO - Сохраняем 2369.json
+2024-10-11 14:27:37,804 - telegram_bot_parser - INFO - Сохраняем 2368.json
+2024-10-11 14:27:38,415 - telegram_bot_parser - INFO - Сохраняем 2367.json
+2024-10-11 14:27:39,019 - telegram_bot_parser - INFO - Сохраняем 2366.json
+2024-10-11 14:27:39,783 - telegram_bot_parser - INFO - Сохраняем 2365.json
+2024-10-11 14:27:40,336 - telegram_bot_parser - INFO - Сохраняем 2364.json
+2024-10-11 14:27:40,902 - telegram_bot_parser - INFO - Сохраняем 2363.json
+2024-10-11 14:27:41,493 - telegram_bot_parser - INFO - Сохраняем 2362.json
+2024-10-11 14:27:41,936 - telegram_bot_parser - INFO - Сохраняем 2361.json
+2024-10-11 14:27:42,341 - telegram_bot_parser - INFO - Сохраняем 2360.json
+2024-10-11 14:27:42,704 - telegram_bot_parser - INFO - Сохраняем 2359.json
+2024-10-11 14:27:43,177 - telegram_bot_parser - INFO - Сохраняем 2358.json
+2024-10-11 14:27:43,566 - telegram_bot_parser - INFO - Сохраняем 2357.json
+2024-10-11 14:27:44,159 - telegram_bot_parser - INFO - Сохраняем 2356.json
+2024-10-11 14:27:44,601 - telegram_bot_parser - INFO - Сохраняем 2355.json
+2024-10-11 14:27:45,062 - telegram_bot_parser - INFO - Сохраняем 2354.json
+2024-10-11 14:27:45,557 - telegram_bot_parser - INFO - Сохраняем 2353.json
+2024-10-11 14:27:46,505 - telegram_bot_parser - INFO - Сохраняем 2352.json
+2024-10-11 14:27:47,043 - telethon.client.users - INFO - Sleeping for 8s (0:00:08) on GetHistoryRequest flood wait
+2024-10-11 14:27:56,352 - telegram_bot_parser - INFO - Сохраняем 2351.json
+2024-10-11 14:27:57,619 - telegram_bot_parser - INFO - Сохраняем 2350.json
+2024-10-11 14:27:57,623 - telegram_bot_parser - INFO - Сохраняем 2349.json
+2024-10-11 14:27:57,627 - telegram_bot_parser - INFO - Сохраняем 2348.json
+2024-10-11 14:27:58,932 - telegram_bot_parser - INFO - Сохраняем 2347.json
+2024-10-11 14:28:00,751 - telegram_bot_parser - INFO - Сохраняем 2346.json
+2024-10-11 14:28:01,906 - telegram_bot_parser - INFO - Сохраняем 2345.json
+2024-10-11 14:28:03,262 - telegram_bot_parser - INFO - Сохраняем 2344.json
+2024-10-11 14:28:04,283 - telegram_bot_parser - INFO - Сохраняем 2343.json
+2024-10-11 14:28:05,278 - telegram_bot_parser - INFO - Сохраняем 2342.json
+2024-10-11 14:28:06,236 - telegram_bot_parser - INFO - Сохраняем 2341.json
+2024-10-11 14:28:07,134 - telegram_bot_parser - INFO - Сохраняем 2340.json
+2024-10-11 14:28:08,259 - telegram_bot_parser - INFO - Сохраняем 2339.json
+2024-10-11 14:28:09,371 - telegram_bot_parser - INFO - Сохраняем 2338.json
+2024-10-11 14:28:10,376 - telegram_bot_parser - INFO - Сохраняем 2337.json
+2024-10-11 14:28:11,102 - telegram_bot_parser - INFO - Сохраняем 2336.json
+2024-10-11 14:28:11,793 - telegram_bot_parser - INFO - Сохраняем 2335.json
+2024-10-11 14:28:12,412 - telegram_bot_parser - INFO - Сохраняем 2334.json
+2024-10-11 14:28:13,120 - telegram_bot_parser - INFO - Сохраняем 2333.json
+2024-10-11 14:28:13,980 - telegram_bot_parser - INFO - Сохраняем 2332.json
+2024-10-11 14:28:14,660 - telegram_bot_parser - INFO - Сохраняем 2331.json
+2024-10-11 14:28:15,263 - telegram_bot_parser - INFO - Сохраняем 2330.json
+2024-10-11 14:28:15,267 - telegram_bot_parser - INFO - Сохраняем 2329.json
+2024-10-11 14:28:15,990 - telegram_bot_parser - INFO - Сохраняем 2328.json
+2024-10-11 14:28:16,560 - telegram_bot_parser - INFO - Сохраняем 2327.json
+2024-10-11 14:28:17,112 - telegram_bot_parser - INFO - Сохраняем 2326.json
+2024-10-11 14:28:17,740 - telegram_bot_parser - INFO - Сохраняем 2325.json
+2024-10-11 14:28:18,506 - telegram_bot_parser - INFO - Сохраняем 2324.json
+2024-10-11 14:28:19,285 - telegram_bot_parser - INFO - Сохраняем 2323.json
+2024-10-11 14:28:20,276 - telegram_bot_parser - INFO - Сохраняем 2322.json
+2024-10-11 14:28:20,970 - telegram_bot_parser - INFO - Сохраняем 2321.json
+2024-10-11 14:28:21,512 - telegram_bot_parser - INFO - Сохраняем 2320.json
+2024-10-11 14:28:22,583 - telegram_bot_parser - INFO - Сохраняем 2319.json
+2024-10-11 14:28:22,759 - telethon.client.users - INFO - Sleeping for 4s (0:00:04) on GetHistoryRequest flood wait
+2024-10-11 14:28:27,569 - telegram_bot_parser - INFO - Сохраняем 2318.json
+2024-10-11 14:28:28,156 - telegram_bot_parser - INFO - Сохраняем 2317.json
+2024-10-11 14:28:28,764 - telegram_bot_parser - INFO - Сохраняем 2316.json
+2024-10-11 14:28:29,327 - telegram_bot_parser - INFO - Сохраняем 2315.json
+2024-10-11 14:28:30,592 - telegram_bot_parser - INFO - Сохраняем 2314.json
+2024-10-11 14:28:31,155 - telegram_bot_parser - INFO - Сохраняем 2313.json
+2024-10-11 14:28:31,962 - telegram_bot_parser - INFO - Сохраняем 2312.json
+2024-10-11 14:28:32,458 - telegram_bot_parser - INFO - Сохраняем 2311.json
+2024-10-11 14:28:32,947 - telegram_bot_parser - INFO - Сохраняем 2310.json
+2024-10-11 14:28:33,689 - telegram_bot_parser - INFO - Сохраняем 2309.json
+2024-10-11 14:28:34,240 - telegram_bot_parser - INFO - Сохраняем 2308.json
+2024-10-11 14:28:34,805 - telegram_bot_parser - INFO - Сохраняем 2307.json
+2024-10-11 14:28:35,354 - telegram_bot_parser - INFO - Сохраняем 2306.json
+2024-10-11 14:28:35,923 - telegram_bot_parser - INFO - Сохраняем 2305.json
+2024-10-11 14:28:36,552 - telegram_bot_parser - INFO - Сохраняем 2304.json
+2024-10-11 14:28:37,179 - telegram_bot_parser - INFO - Сохраняем 2303.json
+2024-10-11 14:28:37,806 - telegram_bot_parser - INFO - Сохраняем 2302.json
+2024-10-11 14:28:38,330 - telegram_bot_parser - INFO - Сохраняем 2301.json
+2024-10-11 14:28:38,807 - telegram_bot_parser - INFO - Сохраняем 2300.json
+2024-10-11 14:28:39,261 - telegram_bot_parser - INFO - Сохраняем 2299.json
+2024-10-11 14:28:39,747 - telegram_bot_parser - INFO - Сохраняем 2298.json
+2024-10-11 14:28:40,305 - telegram_bot_parser - INFO - Сохраняем 2297.json
+2024-10-11 14:28:40,798 - telegram_bot_parser - INFO - Сохраняем 2296.json
+2024-10-11 14:28:41,502 - telegram_bot_parser - INFO - Сохраняем 2295.json
+2024-10-11 14:28:42,585 - telegram_bot_parser - INFO - Сохраняем 2294.json
+2024-10-11 14:28:43,411 - telegram_bot_parser - INFO - Сохраняем 2293.json
+2024-10-11 14:28:43,953 - telegram_bot_parser - INFO - Сохраняем 2292.json
+2024-10-11 14:28:44,485 - telegram_bot_parser - INFO - Сохраняем 2291.json
+2024-10-11 14:28:44,962 - telegram_bot_parser - INFO - Сохраняем 2290.json
+2024-10-11 14:28:45,454 - telegram_bot_parser - INFO - Сохраняем 2289.json
+2024-10-11 14:28:45,630 - telethon.client.users - INFO - Sleeping for 12s (0:00:12) on GetHistoryRequest flood wait
+2024-10-11 14:28:58,117 - telegram_bot_parser - INFO - Сохраняем 2288.json
+2024-10-11 14:28:58,586 - telegram_bot_parser - INFO - Сохраняем 2287.json
+2024-10-11 14:28:59,059 - telegram_bot_parser - INFO - Сохраняем 2286.json
+2024-10-11 14:28:59,514 - telegram_bot_parser - INFO - Сохраняем 2285.json
+2024-10-11 14:29:00,010 - telegram_bot_parser - INFO - Сохраняем 2284.json
+2024-10-11 14:29:00,822 - telegram_bot_parser - INFO - Сохраняем 2283.json
+2024-10-11 14:29:00,829 - telegram_bot_parser - INFO - Сохраняем 2282.json
+2024-10-11 14:29:01,457 - telegram_bot_parser - INFO - Сохраняем 2281.json
+2024-10-11 14:29:02,253 - telegram_bot_parser - INFO - Сохраняем 2280.json
+2024-10-11 14:29:02,749 - telegram_bot_parser - INFO - Сохраняем 2279.json
+2024-10-11 14:29:04,063 - telegram_bot_parser - INFO - Сохраняем 2278.json
+2024-10-11 14:29:04,598 - telegram_bot_parser - INFO - Сохраняем 2277.json
+2024-10-11 14:29:05,059 - telegram_bot_parser - INFO - Сохраняем 2276.json
+2024-10-11 14:29:05,590 - telegram_bot_parser - INFO - Сохраняем 2275.json
+2024-10-11 14:29:06,166 - telegram_bot_parser - INFO - Сохраняем 2274.json
+2024-10-11 14:29:06,879 - telegram_bot_parser - INFO - Сохраняем 2273.json
+2024-10-11 14:29:07,539 - telegram_bot_parser - INFO - Сохраняем 2272.json
+2024-10-11 14:29:08,241 - telegram_bot_parser - INFO - Сохраняем 2271.json
+2024-10-11 14:29:08,740 - telegram_bot_parser - INFO - Сохраняем 2270.json
+2024-10-11 14:29:09,248 - telegram_bot_parser - INFO - Сохраняем 2269.json
+2024-10-11 14:29:09,763 - telegram_bot_parser - INFO - Сохраняем 2268.json
+2024-10-11 14:29:10,248 - telegram_bot_parser - INFO - Сохраняем 2267.json
+2024-10-11 14:29:10,784 - telegram_bot_parser - INFO - Сохраняем 2266.json
+2024-10-11 14:29:11,610 - telegram_bot_parser - INFO - Сохраняем 2265.json
+2024-10-11 14:29:12,707 - telegram_bot_parser - INFO - Сохраняем 2264.json
+2024-10-11 14:29:13,637 - telegram_bot_parser - INFO - Сохраняем 2263.json
+2024-10-11 14:29:14,596 - telegram_bot_parser - INFO - Сохраняем 2262.json
+2024-10-11 14:29:15,090 - telegram_bot_parser - INFO - Сохраняем 2261.json
+2024-10-11 14:29:15,795 - telegram_bot_parser - INFO - Сохраняем 2260.json
+2024-10-11 14:29:16,391 - telegram_bot_parser - INFO - Сохраняем 2259.json
+2024-10-11 14:29:16,906 - telegram_bot_parser - INFO - Сохраняем 2258.json
+2024-10-11 14:29:17,090 - telethon.client.users - INFO - Sleeping for 12s (0:00:12) on GetHistoryRequest flood wait
+2024-10-11 14:29:30,287 - telegram_bot_parser - INFO - Сохраняем 2257.json
+2024-10-11 14:29:30,897 - telegram_bot_parser - INFO - Сохраняем 2256.json
+2024-10-11 14:29:31,610 - telegram_bot_parser - INFO - Сохраняем 2255.json
+2024-10-11 14:29:32,308 - telegram_bot_parser - INFO - Сохраняем 2254.json
+2024-10-11 14:29:33,058 - telegram_bot_parser - INFO - Сохраняем 2253.json
+2024-10-11 14:29:33,595 - telegram_bot_parser - INFO - Сохраняем 2252.json
+2024-10-11 14:29:34,129 - telegram_bot_parser - INFO - Сохраняем 2251.json
+2024-10-11 14:29:34,599 - telegram_bot_parser - INFO - Сохраняем 2250.json
+2024-10-11 14:29:35,166 - telegram_bot_parser - INFO - Сохраняем 2249.json
+2024-10-11 14:29:36,156 - telegram_bot_parser - INFO - Сохраняем 2248.json
+2024-10-11 14:29:37,475 - telegram_bot_parser - INFO - Сохраняем 2247.json
+2024-10-11 14:29:39,073 - telegram_bot_parser - INFO - Сохраняем 2246.json
+2024-10-11 14:29:40,259 - telegram_bot_parser - INFO - Сохраняем 2245.json
+2024-10-11 14:29:41,605 - telegram_bot_parser - INFO - Сохраняем 2244.json
+2024-10-11 14:29:44,200 - telegram_bot_parser - INFO - Сохраняем 2243.json
+2024-10-11 14:29:45,179 - telegram_bot_parser - INFO - Сохраняем 2242.json
+2024-10-11 14:29:46,336 - telegram_bot_parser - INFO - Сохраняем 2241.json
+2024-10-11 14:29:47,226 - telegram_bot_parser - INFO - Сохраняем 2240.json
+2024-10-11 14:29:47,923 - telegram_bot_parser - INFO - Сохраняем 2239.json
+2024-10-11 14:29:47,927 - telegram_bot_parser - INFO - Сохраняем 2238.json
+2024-10-11 14:29:48,702 - telegram_bot_parser - INFO - Сохраняем 2237.json
+2024-10-11 14:29:49,333 - telegram_bot_parser - INFO - Сохраняем 2236.json
+2024-10-11 14:29:49,946 - telegram_bot_parser - INFO - Сохраняем 2235.json
+2024-10-11 14:29:50,593 - telegram_bot_parser - INFO - Сохраняем 2234.json
+2024-10-11 14:29:51,164 - telegram_bot_parser - INFO - Сохраняем 2224.json
+2024-10-11 14:29:51,928 - telegram_bot_parser - INFO - Сохраняем 2223.json
+2024-10-11 14:29:52,476 - telegram_bot_parser - INFO - Сохраняем 2222.json
+2024-10-11 14:29:53,556 - telegram_bot_parser - INFO - Сохраняем 2221.json
+2024-10-11 14:29:54,544 - telegram_bot_parser - INFO - Сохраняем 2220.json
+2024-10-11 14:29:55,174 - telegram_bot_parser - INFO - Сохраняем 2219.json
+2024-10-11 14:29:55,866 - telegram_bot_parser - INFO - Сохраняем 2218.json
+2024-10-11 14:29:56,110 - telethon.client.users - INFO - Sleeping for 5s (0:00:05) on GetHistoryRequest flood wait
+2024-10-11 14:30:02,002 - telegram_bot_parser - INFO - Сохраняем 2217.json
+2024-10-11 14:30:02,640 - telegram_bot_parser - INFO - Сохраняем 2216.json
+2024-10-11 14:30:03,478 - telegram_bot_parser - INFO - Сохраняем 2215.json
+2024-10-11 14:30:04,326 - telegram_bot_parser - INFO - Сохраняем 2214.json
+2024-10-11 14:30:04,920 - telegram_bot_parser - INFO - Сохраняем 2213.json
+2024-10-11 14:30:04,924 - telegram_bot_parser - INFO - Сохраняем 2212.json
+2024-10-11 14:30:05,622 - telegram_bot_parser - INFO - Сохраняем 2211.json
+2024-10-11 14:30:06,987 - telegram_bot_parser - INFO - Сохраняем 2210.json
+2024-10-11 14:30:07,971 - telegram_bot_parser - INFO - Сохраняем 2209.json
+2024-10-11 14:30:08,823 - telegram_bot_parser - INFO - Сохраняем 2208.json
+2024-10-11 14:30:09,996 - telegram_bot_parser - INFO - Сохраняем 2207.json
+2024-10-11 14:30:10,822 - telegram_bot_parser - INFO - Сохраняем 2206.json
+2024-10-11 14:30:11,456 - telegram_bot_parser - INFO - Сохраняем 2205.json
+2024-10-11 14:30:12,083 - telegram_bot_parser - INFO - Сохраняем 2204.json
+2024-10-11 14:30:12,802 - telegram_bot_parser - INFO - Сохраняем 2203.json
+2024-10-11 14:30:13,460 - telegram_bot_parser - INFO - Сохраняем 2202.json
+2024-10-11 14:30:14,339 - telegram_bot_parser - INFO - Сохраняем 2201.json
+2024-10-11 14:30:14,965 - telegram_bot_parser - INFO - Сохраняем 2200.json
+2024-10-11 14:30:15,498 - telegram_bot_parser - INFO - Сохраняем 2199.json
+2024-10-11 14:30:16,013 - telegram_bot_parser - INFO - Сохраняем 2198.json
+2024-10-11 14:30:16,611 - telegram_bot_parser - INFO - Сохраняем 2197.json
+2024-10-11 14:30:17,347 - telegram_bot_parser - INFO - Сохраняем 2196.json
+2024-10-11 14:30:18,006 - telegram_bot_parser - INFO - Сохраняем 2195.json
+2024-10-11 14:30:18,561 - telegram_bot_parser - INFO - Сохраняем 2194.json
+2024-10-11 14:30:19,127 - telegram_bot_parser - INFO - Сохраняем 2193.json
+2024-10-11 14:30:19,642 - telegram_bot_parser - INFO - Сохраняем 2185.json
+2024-10-11 14:30:20,423 - telegram_bot_parser - INFO - Сохраняем 2184.json
+2024-10-11 14:30:21,369 - telegram_bot_parser - INFO - Сохраняем 2183.json
+2024-10-11 14:30:22,947 - telegram_bot_parser - INFO - Сохраняем 2182.json
+2024-10-11 14:30:24,091 - telegram_bot_parser - INFO - Сохраняем 2181.json
+2024-10-11 14:30:25,100 - telegram_bot_parser - INFO - Сохраняем 2180.json
+2024-10-11 14:30:25,431 - telethon.client.users - INFO - Sleeping for 7s (0:00:07) on GetHistoryRequest flood wait
+2024-10-11 14:30:33,062 - telegram_bot_parser - INFO - Сохраняем 2179.json
+2024-10-11 14:30:33,646 - telegram_bot_parser - INFO - Сохраняем 2178.json
+2024-10-11 14:30:34,590 - telegram_bot_parser - INFO - Сохраняем 2177.json
+2024-10-11 14:30:35,441 - telegram_bot_parser - INFO - Сохраняем 2176.json
+2024-10-11 14:30:36,763 - telegram_bot_parser - INFO - Сохраняем 2175.json
+2024-10-11 14:30:37,392 - telegram_bot_parser - INFO - Сохраняем 2174.json
+2024-10-11 14:30:37,919 - telegram_bot_parser - INFO - Сохраняем 2173.json
+2024-10-11 14:30:38,486 - telegram_bot_parser - INFO - Сохраняем 2172.json
+2024-10-11 14:30:39,058 - telegram_bot_parser - INFO - Сохраняем 2171.json
+2024-10-11 14:30:39,763 - telegram_bot_parser - INFO - Сохраняем 2170.json
+2024-10-11 14:30:40,631 - telegram_bot_parser - INFO - Сохраняем 2169.json
+2024-10-11 14:30:41,320 - telegram_bot_parser - INFO - Сохраняем 2168.json
+2024-10-11 14:30:41,818 - telegram_bot_parser - INFO - Сохраняем 2167.json
+2024-10-11 14:30:42,351 - telegram_bot_parser - INFO - Сохраняем 2156.json
+2024-10-11 14:30:42,912 - telegram_bot_parser - INFO - Сохраняем 2155.json
+2024-10-11 14:30:43,458 - telegram_bot_parser - INFO - Сохраняем 2154.json
+2024-10-11 14:30:44,143 - telegram_bot_parser - INFO - Сохраняем 2153.json
+2024-10-11 14:30:44,892 - telegram_bot_parser - INFO - Сохраняем 2150.json
+2024-10-11 14:30:45,596 - telegram_bot_parser - INFO - Сохраняем 2149.json
+2024-10-11 14:30:46,288 - telegram_bot_parser - INFO - Сохраняем 2148.json
+2024-10-11 14:30:46,795 - telegram_bot_parser - INFO - Сохраняем 2147.json
+2024-10-11 14:30:47,762 - telegram_bot_parser - INFO - Сохраняем 2146.json
+2024-10-11 14:30:48,736 - telegram_bot_parser - INFO - Сохраняем 2145.json
+2024-10-11 14:30:49,496 - telegram_bot_parser - INFO - Сохраняем 2144.json
+2024-10-11 14:30:50,437 - telegram_bot_parser - INFO - Сохраняем 2143.json
+2024-10-11 14:30:51,692 - telegram_bot_parser - INFO - Сохраняем 2142.json
+2024-10-11 14:30:54,831 - telegram_bot_parser - INFO - Сохраняем 2141.json
+2024-10-11 14:30:55,826 - telegram_bot_parser - INFO - Сохраняем 2140.json
+2024-10-11 14:30:57,908 - telegram_bot_parser - INFO - Сохраняем 2139.json
+2024-10-11 14:31:02,377 - telegram_bot_parser - INFO - Сохраняем 2138.json
+2024-10-11 14:31:02,719 - telethon.client.users - INFO - Sleeping for 3s (0:00:03) on GetHistoryRequest flood wait
+2024-10-11 14:31:06,488 - telegram_bot_parser - INFO - Сохраняем 2137.json
+2024-10-11 14:31:07,215 - telegram_bot_parser - INFO - Сохраняем 2136.json
+2024-10-11 14:31:08,080 - telegram_bot_parser - INFO - Сохраняем 2135.json
+2024-10-11 14:31:08,885 - telegram_bot_parser - INFO - Сохраняем 2134.json
+2024-10-11 14:31:09,730 - telegram_bot_parser - INFO - Сохраняем 2133.json
+2024-10-11 14:31:10,411 - telegram_bot_parser - INFO - Сохраняем 2132.json
+2024-10-11 14:31:11,020 - telegram_bot_parser - INFO - Сохраняем 2131.json
+2024-10-11 14:31:11,641 - telegram_bot_parser - INFO - Сохраняем 2130.json
+2024-10-11 14:31:12,280 - telegram_bot_parser - INFO - Сохраняем 2129.json
+2024-10-11 14:31:13,084 - telegram_bot_parser - INFO - Сохраняем 2128.json
+2024-10-11 14:31:14,074 - telegram_bot_parser - INFO - Сохраняем 2127.json
+2024-10-11 14:31:14,817 - telegram_bot_parser - INFO - Сохраняем 2126.json
+2024-10-11 14:31:14,821 - telegram_bot_parser - INFO - Сохраняем 2125.json
+2024-10-11 14:31:15,493 - telegram_bot_parser - INFO - Сохраняем 2124.json
+2024-10-11 14:31:16,200 - telegram_bot_parser - INFO - Сохраняем 2123.json
+2024-10-11 14:31:17,009 - telegram_bot_parser - INFO - Сохраняем 2122.json
+2024-10-11 14:31:17,614 - telegram_bot_parser - INFO - Сохраняем 2121.json
+2024-10-11 14:31:18,588 - telegram_bot_parser - INFO - Сохраняем 2120.json
+2024-10-11 14:31:19,318 - telegram_bot_parser - INFO - Сохраняем 2119.json
+2024-10-11 14:31:20,332 - telegram_bot_parser - INFO - Сохраняем 2118.json
+2024-10-11 14:31:21,020 - telegram_bot_parser - INFO - Сохраняем 2117.json
+2024-10-11 14:31:21,629 - telegram_bot_parser - INFO - Сохраняем 2116.json
+2024-10-11 14:31:22,176 - telegram_bot_parser - INFO - Сохраняем 2115.json
+2024-10-11 14:31:22,906 - telegram_bot_parser - INFO - Сохраняем 2114.json
+2024-10-11 14:31:23,666 - telegram_bot_parser - INFO - Сохраняем 2113.json
+2024-10-11 14:31:24,279 - telegram_bot_parser - INFO - Сохраняем 2112.json
+2024-10-11 14:31:25,101 - telegram_bot_parser - INFO - Сохраняем 2111.json
+2024-10-11 14:31:25,651 - telegram_bot_parser - INFO - Сохраняем 2110.json
+2024-10-11 14:31:26,247 - telegram_bot_parser - INFO - Сохраняем 2109.json
+2024-10-11 14:31:26,824 - telegram_bot_parser - INFO - Сохраняем 2108.json
+2024-10-11 14:31:27,421 - telegram_bot_parser - INFO - Сохраняем 2107.json
+2024-10-11 14:31:27,578 - telethon.client.users - INFO - Sleeping for 9s (0:00:09) on GetHistoryRequest flood wait
+2024-10-11 14:31:37,443 - telegram_bot_parser - INFO - Сохраняем 2106.json
+2024-10-11 14:31:37,963 - telegram_bot_parser - INFO - Сохраняем 2105.json
+2024-10-11 14:31:38,607 - telegram_bot_parser - INFO - Сохраняем 2104.json
+2024-10-11 14:31:39,484 - telegram_bot_parser - INFO - Сохраняем 2102.json
+2024-10-11 14:31:40,351 - telegram_bot_parser - INFO - Сохраняем 2101.json
+2024-10-11 14:31:40,942 - telegram_bot_parser - INFO - Сохраняем 2100.json
+2024-10-11 14:31:41,780 - telegram_bot_parser - INFO - Сохраняем 2099.json
+2024-10-11 14:31:42,543 - telegram_bot_parser - INFO - Сохраняем 2098.json
+2024-10-11 14:31:43,381 - telegram_bot_parser - INFO - Сохраняем 2097.json
+2024-10-11 14:31:44,167 - telegram_bot_parser - INFO - Сохраняем 2096.json
+2024-10-11 14:31:44,171 - telegram_bot_parser - INFO - Сохраняем 2095.json
+2024-10-11 14:31:44,184 - telegram_bot_parser - INFO - Сохраняем 2094.json
+2024-10-11 14:31:44,902 - telegram_bot_parser - INFO - Сохраняем 2093.json
+2024-10-11 14:31:45,708 - telegram_bot_parser - INFO - Сохраняем 2092.json
+2024-10-11 14:31:46,358 - telegram_bot_parser - INFO - Сохраняем 2091.json
+2024-10-11 14:31:46,966 - telegram_bot_parser - INFO - Сохраняем 2090.json
+2024-10-11 14:31:47,783 - telegram_bot_parser - INFO - Сохраняем 2089.json
+2024-10-11 14:31:48,369 - telegram_bot_parser - INFO - Сохраняем 2088.json
+2024-10-11 14:31:49,050 - telegram_bot_parser - INFO - Сохраняем 2087.json
+2024-10-11 14:31:49,637 - telegram_bot_parser - INFO - Сохраняем 2086.json
+2024-10-11 14:31:50,446 - telegram_bot_parser - INFO - Сохраняем 2085.json
+2024-10-11 14:31:51,476 - telegram_bot_parser - INFO - Сохраняем 2084.json
+2024-10-11 14:31:52,347 - telegram_bot_parser - INFO - Сохраняем 2083.json
+2024-10-11 14:31:53,445 - telegram_bot_parser - INFO - Сохраняем 2082.json
+2024-10-11 14:31:54,503 - telegram_bot_parser - INFO - Сохраняем 2081.json
+2024-10-11 14:31:55,161 - telegram_bot_parser - INFO - Сохраняем 2080.json
+2024-10-11 14:31:55,769 - telegram_bot_parser - INFO - Сохраняем 2079.json
+2024-10-11 14:31:56,778 - telegram_bot_parser - INFO - Сохраняем 2078.json
+2024-10-11 14:31:57,562 - telegram_bot_parser - INFO - Сохраняем 2077.json
+2024-10-11 14:31:58,396 - telegram_bot_parser - INFO - Сохраняем 2076.json
+2024-10-11 14:31:59,047 - telegram_bot_parser - INFO - Сохраняем 2075.json
+2024-10-11 14:31:59,902 - telegram_bot_parser - INFO - Сохраняем 2074.json
+2024-10-11 14:32:00,438 - telethon.client.users - INFO - Sleeping for 7s (0:00:07) on GetHistoryRequest flood wait
+2024-10-11 14:53:14,388 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-11 14:53:14,388 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-11 14:53:14,977 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-11 14:53:24,343 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
+2024-10-11 14:53:37,456 - telegram_bot_parser - INFO - Прокси не используется (Telegram).
+2024-10-11 14:53:37,456 - telegram_bot_parser - INFO - Файл сессии найден: parsing\telegram_parser\session_name
+2024-10-11 14:53:37,456 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-11 14:53:37,466 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-11 14:53:38,759 - telegram_bot_parser - INFO - Клиент подключен.
+2024-10-11 14:53:38,760 - telegram_bot_parser - INFO - Клиент уже авторизован.
+2024-10-11 14:53:38,760 - telegram_bot_parser - INFO - Начало парсинга канала: mariannaeliseeva
+2024-10-11 14:53:41,584 - telegram_bot_parser - INFO - Сохраняем 2506.json
+2024-10-11 14:53:41,964 - telegram_bot_parser - INFO - Сохраняем 2505.json
+2024-10-11 14:53:42,333 - telegram_bot_parser - INFO - Сохраняем 2504.json
+2024-10-11 14:53:42,676 - telegram_bot_parser - INFO - Сохраняем 2503.json
+2024-10-11 14:53:43,129 - telegram_bot_parser - INFO - Сохраняем 2502.json
+2024-10-11 14:53:43,130 - telegram_bot_parser - INFO - Канал: mariannaeliseeva
+2024-10-11 14:53:43,130 - telegram_bot_parser - INFO - Скачано постов: 1
+2024-10-11 14:53:43,130 - telegram_bot_parser - INFO - Скачано медиафайлов: 35
+2024-10-11 14:53:43,130 - telegram_bot_parser - INFO - Самый ранний пост: 2024-10-11 07:02:54+00:00
+2024-10-11 14:53:43,130 - telegram_bot_parser - INFO - Самый поздний пост: 2024-10-11 07:02:54+00:00
+2024-10-11 14:53:43,130 - telegram_bot_parser - INFO - Начало парсинга канала: voguemr
+2024-10-11 14:53:45,703 - telegram_bot_parser - INFO - Сохраняем 19652.json
+2024-10-11 14:53:45,986 - telegram_bot_parser - INFO - Скачиваем 19651.jpg
+2024-10-11 14:53:45,986 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:46,848 - telegram_bot_parser - INFO - Скачиваем 19649.jpg
+2024-10-11 14:53:46,850 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:47,446 - telegram_bot_parser - INFO - Скачиваем 19648.jpg
+2024-10-11 14:53:47,446 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:48,000 - telegram_bot_parser - INFO - Сохраняем 19651.json
+2024-10-11 14:53:48,308 - telegram_bot_parser - INFO - Сохраняем 19650.json
+2024-10-11 14:53:48,561 - telegram_bot_parser - INFO - Сохраняем 19649.json
+2024-10-11 14:53:48,801 - telegram_bot_parser - INFO - Сохраняем 19648.json
+2024-10-11 14:53:48,802 - telegram_bot_parser - INFO - Канал: voguemr
+2024-10-11 14:53:48,802 - telegram_bot_parser - INFO - Скачано постов: 2
+2024-10-11 14:53:48,802 - telegram_bot_parser - INFO - Скачано медиафайлов: 12
+2024-10-11 14:53:48,802 - telegram_bot_parser - INFO - Самый ранний пост: 2024-10-11 09:25:49+00:00
+2024-10-11 14:53:48,802 - telegram_bot_parser - INFO - Самый поздний пост: 2024-10-11 10:42:06+00:00
+2024-10-11 14:53:48,803 - telegram_bot_parser - INFO - Начало парсинга канала: OVECHKIN_NIKOLAY
+2024-10-11 14:53:51,438 - telegram_bot_parser - INFO - Скачиваем 7394.jpg
+2024-10-11 14:53:51,441 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:52,027 - telegram_bot_parser - INFO - Скачиваем 7391.jpg
+2024-10-11 14:53:52,029 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:52,518 - telegram_bot_parser - INFO - Скачиваем 7390.jpg
+2024-10-11 14:53:52,519 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:53,601 - telegram_bot_parser - INFO - Скачиваем 7389.jpg
+2024-10-11 14:53:53,601 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:54,237 - telegram_bot_parser - INFO - Скачиваем 7388.jpg
+2024-10-11 14:53:54,239 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:55,752 - telegram_bot_parser - INFO - Скачиваем 7387.jpg
+2024-10-11 14:53:55,754 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:56,323 - telegram_bot_parser - INFO - Скачиваем 7386.jpg
+2024-10-11 14:53:56,323 - telethon.client.downloads - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 14:53:58,286 - telegram_bot_parser - INFO - Сохраняем 7394.json
+2024-10-11 14:53:58,603 - telegram_bot_parser - INFO - Сохраняем 7393.json
+2024-10-11 14:53:59,000 - telegram_bot_parser - INFO - Сохраняем 7392.json
+2024-10-11 14:53:59,401 - telegram_bot_parser - INFO - Сохраняем 7391.json
+2024-10-11 14:53:59,842 - telegram_bot_parser - INFO - Сохраняем 7390.json
+2024-10-11 14:53:59,842 - telegram_bot_parser - INFO - Канал: OVECHKIN_NIKOLAY
+2024-10-11 14:53:59,842 - telegram_bot_parser - INFO - Скачано постов: 1
+2024-10-11 14:53:59,842 - telegram_bot_parser - INFO - Скачано медиафайлов: 35
+2024-10-11 14:53:59,842 - telegram_bot_parser - INFO - Самый ранний пост: 2024-10-11 10:55:42+00:00
+2024-10-11 14:53:59,842 - telegram_bot_parser - INFO - Самый поздний пост: 2024-10-11 10:55:42+00:00
+2024-10-11 14:53:59,852 - telegram_bot_parser - INFO - Ожидание 3600 секунд до следующего запуска

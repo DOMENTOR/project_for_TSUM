@@ -10,7 +10,7 @@ TELEGRAM_CHANNELS = [
 DATA_FOLDER = 'parsing/telegram_parser/data'
 
 # Настройки логирования
-LOGGING_LEVEL = 'INFO'  # Может быть 'DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL'
+LOGGING_LEVEL = 'DEBUG'  # Может быть 'DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL'
 LOG_FILE = 'parsing/telegram_parser/parsing.log'
 
 # Опциональные настройки прокси (если необходимо)

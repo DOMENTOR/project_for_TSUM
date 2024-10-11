@@ -1,0 +1,184 @@
+{
+    "text": "Судя по всему, нас ждет возвращение «peep toe» в следующем году🙃",
+    "date": "2024-10-01T15:05:12+00:00",
+    "views": 52606,
+    "forwards": 73,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 432,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 158,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 138,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 110,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤯"
+                },
+                "count": 86,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😱"
+                },
+                "count": 62,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 41,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 33,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2480.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2482.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2486.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2483.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2481.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2488.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2484.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2487.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2485.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.5128684043884277,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2480.jpg"
+        ],
+        [
+            0.535027265548706,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2482.jpg"
+        ],
+        [
+            0.5313214659690857,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2486.jpg"
+        ],
+        [
+            0.5511103868484497,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2483.jpg"
+        ],
+        [
+            0.46513640880584717,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2481.jpg"
+        ],
+        [
+            0.523485541343689,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2488.jpg"
+        ],
+        [
+            0.5329573750495911,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2484.jpg"
+        ],
+        [
+            0.5751117467880249,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2487.jpg"
+        ],
+        [
+            0.5265543460845947,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2485.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.7421192526817322,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2480.jpg"
+        ],
+        [
+            0.7482784986495972,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2482.jpg"
+        ],
+        [
+            0.7895007133483887,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2486.jpg"
+        ],
+        [
+            0.6494300961494446,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2483.jpg"
+        ],
+        [
+            0.7117980718612671,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2481.jpg"
+        ],
+        [
+            0.7895041704177856,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2488.jpg"
+        ],
+        [
+            0.6719359755516052,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2484.jpg"
+        ],
+        [
+            0.6684697270393372,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2487.jpg"
+        ],
+        [
+            0.7950999140739441,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2485.jpg"
+        ]
+    ]
+}

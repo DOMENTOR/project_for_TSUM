@@ -1,0 +1,166 @@
+{
+    "text": "Наткнулась в запрещенке на белорусский бренд MUA. Погуляла по сайту, выглядит очень забавно. Цены примерно как в Limé, в Россию доставка 1.100₽. Кто-нибудь с брендом знаком?",
+    "date": "2024-10-07T07:06:34+00:00",
+    "views": 45112,
+    "forwards": 601,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 1208,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 413,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 265,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 105,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😍"
+                },
+                "count": 22,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 19,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 8,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤩"
+                },
+                "count": 3,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2496.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2493.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2495.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2494.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2498.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2492.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2499.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2497.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.5239346623420715,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2496.jpg"
+        ],
+        [
+            0.4946606159210205,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2493.jpg"
+        ],
+        [
+            0.5524072051048279,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2495.jpg"
+        ],
+        [
+            0.5899604558944702,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2494.jpg"
+        ],
+        [
+            0.5604143142700195,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2498.jpg"
+        ],
+        [
+            0.492524653673172,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2492.jpg"
+        ],
+        [
+            0.5422218441963196,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2499.jpg"
+        ],
+        [
+            0.5178261399269104,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2497.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.6816446185112,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2496.jpg"
+        ],
+        [
+            0.5228955149650574,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2493.jpg"
+        ],
+        [
+            0.52633136510849,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2495.jpg"
+        ],
+        [
+            0.6200690865516663,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2494.jpg"
+        ],
+        [
+            0.7796362638473511,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2498.jpg"
+        ],
+        [
+            0.4807882010936737,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2492.jpg"
+        ],
+        [
+            0.6235895752906799,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2499.jpg"
+        ],
+        [
+            0.6612353324890137,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2497.jpg"
+        ]
+    ]
+}

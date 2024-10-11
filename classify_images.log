@@ -1,0 +1,1100 @@
+2024-10-11 16:07:05,646 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1439.json
+2024-10-11 16:07:07,130 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2094.jpg с score CLIP base: 0.5252541899681091, CLIP large: 0.5593939423561096
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2212.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2238.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2125.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2329.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2348.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2490.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2412.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2282.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2095.jpg, пропускаем.
+2024-10-11 16:07:07,130 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1439.json успешно обновлён
+2024-10-11 16:07:07,130 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1445.json
+2024-10-11 16:07:07,130 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1445.json успешно обновлён
+2024-10-11 16:07:07,130 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1455.json
+2024-10-11 16:07:07,130 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1455.json успешно обновлён
+2024-10-11 16:07:07,130 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1462.json
+2024-10-11 16:07:07,784 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1456.jpg с score CLIP base: 0.5849733352661133, CLIP large: 0.6818360090255737
+2024-10-11 16:07:07,802 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1462.json успешно обновлён
+2024-10-11 16:07:07,802 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1472.json
+2024-10-11 16:07:08,476 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1463.jpg с score CLIP base: 0.6086785197257996, CLIP large: 0.8605901598930359
+2024-10-11 16:07:08,476 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1472.json успешно обновлён
+2024-10-11 16:07:08,476 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1481.json
+2024-10-11 16:07:08,476 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1481.json успешно обновлён
+2024-10-11 16:07:08,476 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1487.json
+2024-10-11 16:07:08,499 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1487.json успешно обновлён
+2024-10-11 16:07:08,499 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1493.json
+2024-10-11 16:07:08,508 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1493.json успешно обновлён
+2024-10-11 16:07:08,508 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1508.json
+2024-10-11 16:07:08,516 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1508.json успешно обновлён
+2024-10-11 16:07:08,516 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1517.json
+2024-10-11 16:07:08,524 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1517.json успешно обновлён
+2024-10-11 16:07:08,524 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1526.json
+2024-10-11 16:07:08,524 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1526.json успешно обновлён
+2024-10-11 16:07:08,524 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1535.json
+2024-10-11 16:07:08,524 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1535.json успешно обновлён
+2024-10-11 16:07:08,524 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1547.json
+2024-10-11 16:07:09,107 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1538.jpg с score CLIP base: 0.47502216696739197, CLIP large: 0.35683920979499817
+2024-10-11 16:07:09,107 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1547.json успешно обновлён
+2024-10-11 16:07:09,107 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1553.json
+2024-10-11 16:07:09,107 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1553.json успешно обновлён
+2024-10-11 16:07:09,107 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1562.json
+2024-10-11 16:07:09,123 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1562.json успешно обновлён
+2024-10-11 16:07:09,123 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1566.json
+2024-10-11 16:07:09,766 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1563.jpg с score CLIP base: 0.5584577322006226, CLIP large: 0.800804853439331
+2024-10-11 16:07:09,766 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1566.json успешно обновлён
+2024-10-11 16:07:09,766 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1568.json
+2024-10-11 16:07:09,766 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1568.json успешно обновлён
+2024-10-11 16:07:09,766 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1572.json
+2024-10-11 16:07:09,779 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1572.json успешно обновлён
+2024-10-11 16:07:09,779 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1581.json
+2024-10-11 16:07:09,779 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1581.json успешно обновлён
+2024-10-11 16:07:09,779 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1602.json
+2024-10-11 16:07:10,435 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1583.jpg с score CLIP base: 0.4459362030029297, CLIP large: 0.6827402114868164
+2024-10-11 16:07:10,437 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1602.json успешно обновлён
+2024-10-11 16:07:10,437 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1611.json
+2024-10-11 16:07:10,448 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1611.json успешно обновлён
+2024-10-11 16:07:10,448 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1616.json
+2024-10-11 16:07:10,458 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1616.json успешно обновлён
+2024-10-11 16:07:10,458 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1622.json
+2024-10-11 16:07:10,461 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1622.json успешно обновлён
+2024-10-11 16:07:10,461 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1628.json
+2024-10-11 16:07:10,476 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1628.json успешно обновлён
+2024-10-11 16:07:10,476 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1637.json
+2024-10-11 16:07:10,476 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1637.json успешно обновлён
+2024-10-11 16:07:10,476 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1643.json
+2024-10-11 16:07:10,482 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1643.json успешно обновлён
+2024-10-11 16:07:10,482 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1649.json
+2024-10-11 16:07:10,491 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1649.json успешно обновлён
+2024-10-11 16:07:10,491 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1657.json
+2024-10-11 16:07:11,062 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1650.jpg с score CLIP base: 0.3652890622615814, CLIP large: 0.18757058680057526
+2024-10-11 16:07:11,062 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\1651.jpg, пропускаем.
+2024-10-11 16:07:11,062 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1657.json успешно обновлён
+2024-10-11 16:07:11,062 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1667.json
+2024-10-11 16:07:11,669 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1658.jpg с score CLIP base: 0.6877840161323547, CLIP large: 0.8998193144798279
+2024-10-11 16:07:11,669 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1667.json успешно обновлён
+2024-10-11 16:07:11,669 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1673.json
+2024-10-11 16:07:11,688 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1673.json успешно обновлён
+2024-10-11 16:07:11,688 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1683.json
+2024-10-11 16:07:11,700 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1683.json успешно обновлён
+2024-10-11 16:07:11,700 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1693.json
+2024-10-11 16:07:11,700 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1693.json успешно обновлён
+2024-10-11 16:07:11,700 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1703.json
+2024-10-11 16:07:11,717 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1703.json успешно обновлён
+2024-10-11 16:07:11,717 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1707.json
+2024-10-11 16:07:11,717 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1707.json успешно обновлён
+2024-10-11 16:07:11,717 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1713.json
+2024-10-11 16:07:11,734 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1713.json успешно обновлён
+2024-10-11 16:07:11,734 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1723.json
+2024-10-11 16:07:11,743 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1723.json успешно обновлён
+2024-10-11 16:07:11,743 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1729.json
+2024-10-11 16:07:11,748 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1729.json успешно обновлён
+2024-10-11 16:07:11,748 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1733.json
+2024-10-11 16:07:11,748 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1733.json успешно обновлён
+2024-10-11 16:07:11,748 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1735.json
+2024-10-11 16:07:11,763 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1735.json успешно обновлён
+2024-10-11 16:07:11,763 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1741.json
+2024-10-11 16:07:11,763 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1741.json успешно обновлён
+2024-10-11 16:07:11,763 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1745.json
+2024-10-11 16:07:12,417 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1742.jpg с score CLIP base: 0.574957013130188, CLIP large: 0.2985914349555969
+2024-10-11 16:07:12,419 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1745.json успешно обновлён
+2024-10-11 16:07:12,419 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1751.json
+2024-10-11 16:07:13,065 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1746.jpg с score CLIP base: 0.49006831645965576, CLIP large: 0.2963220775127411
+2024-10-11 16:07:13,067 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1751.json успешно обновлён
+2024-10-11 16:07:13,067 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1754.json
+2024-10-11 16:07:13,069 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1754.json успешно обновлён
+2024-10-11 16:07:13,069 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1757.json
+2024-10-11 16:07:13,072 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1757.json успешно обновлён
+2024-10-11 16:07:13,072 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1767.json
+2024-10-11 16:07:13,081 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1767.json успешно обновлён
+2024-10-11 16:07:13,081 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1775.json
+2024-10-11 16:07:13,636 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1768.jpg с score CLIP base: 0.6709204316139221, CLIP large: 0.31586354970932007
+2024-10-11 16:07:13,636 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1775.json успешно обновлён
+2024-10-11 16:07:13,636 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1779.json
+2024-10-11 16:07:13,651 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1779.json успешно обновлён
+2024-10-11 16:07:13,651 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1788.json
+2024-10-11 16:07:14,236 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1780.jpg с score CLIP base: 0.3411060571670532, CLIP large: 0.05461695045232773
+2024-10-11 16:07:14,252 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1788.json успешно обновлён
+2024-10-11 16:07:14,252 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1792.json
+2024-10-11 16:07:14,856 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1789.jpg с score CLIP base: 0.751582682132721, CLIP large: 0.5668560266494751
+2024-10-11 16:07:14,857 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1792.json успешно обновлён
+2024-10-11 16:07:14,857 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1802.json
+2024-10-11 16:07:14,861 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1802.json успешно обновлён
+2024-10-11 16:07:14,861 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1806.json
+2024-10-11 16:07:14,870 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1806.json успешно обновлён
+2024-10-11 16:07:14,870 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1811.json
+2024-10-11 16:07:14,878 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1811.json успешно обновлён
+2024-10-11 16:07:14,878 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1814.json
+2024-10-11 16:07:14,885 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1814.json успешно обновлён
+2024-10-11 16:07:14,885 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1823.json
+2024-10-11 16:07:14,889 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1823.json успешно обновлён
+2024-10-11 16:07:14,889 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1831.json
+2024-10-11 16:07:14,897 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1831.json успешно обновлён
+2024-10-11 16:07:14,897 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1835.json
+2024-10-11 16:07:14,906 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1835.json успешно обновлён
+2024-10-11 16:07:14,906 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1844.json
+2024-10-11 16:07:14,908 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1844.json успешно обновлён
+2024-10-11 16:07:14,908 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1854.json
+2024-10-11 16:07:14,915 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1854.json успешно обновлён
+2024-10-11 16:07:14,915 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1857.json
+2024-10-11 16:07:15,505 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1855.jpg с score CLIP base: 0.5972225069999695, CLIP large: 0.6116216778755188
+2024-10-11 16:07:15,505 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1857.json успешно обновлён
+2024-10-11 16:07:15,505 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1866.json
+2024-10-11 16:07:15,515 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1866.json успешно обновлён
+2024-10-11 16:07:15,515 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1868.json
+2024-10-11 16:07:15,524 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1868.json успешно обновлён
+2024-10-11 16:07:15,524 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1878.json
+2024-10-11 16:07:16,151 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1869.jpg с score CLIP base: 0.5346148610115051, CLIP large: 0.6807335615158081
+2024-10-11 16:07:16,153 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1878.json успешно обновлён
+2024-10-11 16:07:16,153 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1880.json
+2024-10-11 16:07:16,166 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1880.json успешно обновлён
+2024-10-11 16:07:16,166 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1889.json
+2024-10-11 16:07:16,169 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1889.json успешно обновлён
+2024-10-11 16:07:16,169 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1891.json
+2024-10-11 16:07:16,169 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1891.json успешно обновлён
+2024-10-11 16:07:16,169 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1895.json
+2024-10-11 16:07:16,194 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1895.json успешно обновлён
+2024-10-11 16:07:16,194 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1905.json
+2024-10-11 16:07:16,194 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1905.json успешно обновлён
+2024-10-11 16:07:16,194 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1912.json
+2024-10-11 16:07:16,207 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1912.json успешно обновлён
+2024-10-11 16:07:16,207 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1921.json
+2024-10-11 16:07:16,220 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1921.json успешно обновлён
+2024-10-11 16:07:16,220 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1929.json
+2024-10-11 16:07:16,225 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1929.json успешно обновлён
+2024-10-11 16:07:16,225 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1940.json
+2024-10-11 16:07:16,908 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1930.jpg с score CLIP base: 0.5537093877792358, CLIP large: 0.610186755657196
+2024-10-11 16:07:16,909 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1940.json успешно обновлён
+2024-10-11 16:07:16,909 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1946.json
+2024-10-11 16:07:16,913 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1946.json успешно обновлён
+2024-10-11 16:07:16,913 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1951.json
+2024-10-11 16:07:16,915 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1951.json успешно обновлён
+2024-10-11 16:07:16,916 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1959.json
+2024-10-11 16:07:16,925 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1959.json успешно обновлён
+2024-10-11 16:07:16,925 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1968.json
+2024-10-11 16:07:16,935 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1968.json успешно обновлён
+2024-10-11 16:07:16,935 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1973.json
+2024-10-11 16:07:17,602 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\1969.jpg с score CLIP base: 0.5205101370811462, CLIP large: 0.874433159828186
+2024-10-11 16:07:17,603 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1973.json успешно обновлён
+2024-10-11 16:07:17,603 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1980.json
+2024-10-11 16:07:17,606 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1980.json успешно обновлён
+2024-10-11 16:07:17,607 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1989.json
+2024-10-11 16:07:17,609 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1989.json успешно обновлён
+2024-10-11 16:07:17,609 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\1998.json
+2024-10-11 16:07:17,618 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\1998.json успешно обновлён
+2024-10-11 16:07:17,618 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2004.json
+2024-10-11 16:07:17,620 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2004.json успешно обновлён
+2024-10-11 16:07:17,621 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2006.json
+2024-10-11 16:07:17,631 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2006.json успешно обновлён
+2024-10-11 16:07:17,631 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2008.json
+2024-10-11 16:07:17,633 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2008.json успешно обновлён
+2024-10-11 16:07:17,633 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2018.json
+2024-10-11 16:07:17,635 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2018.json успешно обновлён
+2024-10-11 16:07:17,636 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2026.json
+2024-10-11 16:07:17,646 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2026.json успешно обновлён
+2024-10-11 16:07:17,646 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2030.json
+2024-10-11 16:07:18,273 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2027.jpg с score CLIP base: 0.5133344531059265, CLIP large: 0.44556960463523865
+2024-10-11 16:07:18,275 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2030.json успешно обновлён
+2024-10-11 16:07:18,275 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2040.json
+2024-10-11 16:07:18,905 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2031.jpg с score CLIP base: 0.3958861231803894, CLIP large: 0.4847797453403473
+2024-10-11 16:07:18,906 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2040.json успешно обновлён
+2024-10-11 16:07:18,906 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2047.json
+2024-10-11 16:07:19,556 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2042.jpg с score CLIP base: 0.536557674407959, CLIP large: 0.6601107120513916
+2024-10-11 16:07:19,556 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2041.jpg, пропускаем.
+2024-10-11 16:07:19,558 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2047.json успешно обновлён
+2024-10-11 16:07:19,558 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2050.json
+2024-10-11 16:07:19,571 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2050.json успешно обновлён
+2024-10-11 16:07:19,571 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2057.json
+2024-10-11 16:07:20,199 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2051.jpg с score CLIP base: 0.24070067703723907, CLIP large: 0.10812870413064957
+2024-10-11 16:07:20,199 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2052.jpg, пропускаем.
+2024-10-11 16:07:20,199 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2057.json успешно обновлён
+2024-10-11 16:07:20,199 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2061.json
+2024-10-11 16:07:20,199 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2061.json успешно обновлён
+2024-10-11 16:07:20,199 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2071.json
+2024-10-11 16:07:20,216 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2071.json успешно обновлён
+2024-10-11 16:07:20,216 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2082.json
+2024-10-11 16:07:20,231 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2082.json успешно обновлён
+2024-10-11 16:07:20,231 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2092.json
+2024-10-11 16:07:20,231 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2092.json успешно обновлён
+2024-10-11 16:07:20,231 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2101.json
+2024-10-11 16:07:20,231 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2101.json успешно обновлён
+2024-10-11 16:07:20,231 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2112.json
+2024-10-11 16:07:20,247 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2112.json успешно обновлён
+2024-10-11 16:07:20,247 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2114.json
+2024-10-11 16:07:20,262 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2114.json успешно обновлён
+2024-10-11 16:07:20,262 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2123.json
+2024-10-11 16:07:20,287 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2123.json успешно обновлён
+2024-10-11 16:07:20,287 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2133.json
+2024-10-11 16:07:20,294 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2133.json успешно обновлён
+2024-10-11 16:07:20,294 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2143.json
+2024-10-11 16:07:20,294 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2143.json успешно обновлён
+2024-10-11 16:07:20,294 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2149.json
+2024-10-11 16:07:20,294 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2149.json успешно обновлён
+2024-10-11 16:07:20,294 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2155.json
+2024-10-11 16:07:20,314 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2155.json успешно обновлён
+2024-10-11 16:07:20,314 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2175.json
+2024-10-11 16:07:20,323 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2175.json успешно обновлён
+2024-10-11 16:07:20,323 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2184.json
+2024-10-11 16:07:20,329 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2184.json успешно обновлён
+2024-10-11 16:07:20,329 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2201.json
+2024-10-11 16:07:20,337 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2201.json успешно обновлён
+2024-10-11 16:07:20,337 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2210.json
+2024-10-11 16:07:20,337 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2210.json успешно обновлён
+2024-10-11 16:07:20,337 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2219.json
+2024-10-11 16:07:20,347 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2219.json успешно обновлён
+2024-10-11 16:07:20,347 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2223.json
+2024-10-11 16:07:20,347 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2223.json успешно обновлён
+2024-10-11 16:07:20,347 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2236.json
+2024-10-11 16:07:20,359 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2236.json успешно обновлён
+2024-10-11 16:07:20,359 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2241.json
+2024-10-11 16:07:20,359 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2241.json успешно обновлён
+2024-10-11 16:07:20,359 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2251.json
+2024-10-11 16:07:20,374 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2251.json успешно обновлён
+2024-10-11 16:07:20,374 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2257.json
+2024-10-11 16:07:20,374 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2257.json успешно обновлён
+2024-10-11 16:07:20,374 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2267.json
+2024-10-11 16:07:20,374 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2267.json успешно обновлён
+2024-10-11 16:07:20,374 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2269.json
+2024-10-11 16:07:20,393 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2269.json успешно обновлён
+2024-10-11 16:07:20,393 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2275.json
+2024-10-11 16:07:20,402 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2275.json успешно обновлён
+2024-10-11 16:07:20,402 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2277.json
+2024-10-11 16:07:20,412 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2277.json успешно обновлён
+2024-10-11 16:07:20,412 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2280.json
+2024-10-11 16:07:20,421 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2280.json успешно обновлён
+2024-10-11 16:07:20,421 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2289.json
+2024-10-11 16:07:20,421 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2289.json успешно обновлён
+2024-10-11 16:07:20,421 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2291.json
+2024-10-11 16:07:20,421 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2291.json успешно обновлён
+2024-10-11 16:07:20,421 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2297.json
+2024-10-11 16:07:20,421 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2297.json успешно обновлён
+2024-10-11 16:07:20,421 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2305.json
+2024-10-11 16:07:20,421 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2305.json успешно обновлён
+2024-10-11 16:07:20,421 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2315.json
+2024-10-11 16:07:20,436 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2315.json успешно обновлён
+2024-10-11 16:07:20,436 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2325.json
+2024-10-11 16:07:20,436 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2325.json успешно обновлён
+2024-10-11 16:07:20,436 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2327.json
+2024-10-11 16:07:20,436 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2327.json успешно обновлён
+2024-10-11 16:07:20,436 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2338.json
+2024-10-11 16:07:20,452 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2338.json успешно обновлён
+2024-10-11 16:07:20,452 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2346.json
+2024-10-11 16:07:20,457 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2346.json успешно обновлён
+2024-10-11 16:07:20,457 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2358.json
+2024-10-11 16:07:20,457 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2358.json успешно обновлён
+2024-10-11 16:07:20,457 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2361.json
+2024-10-11 16:07:20,468 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2361.json успешно обновлён
+2024-10-11 16:07:20,468 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2370.json
+2024-10-11 16:07:20,468 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2370.json успешно обновлён
+2024-10-11 16:07:20,468 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2379.json
+2024-10-11 16:07:20,468 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2379.json успешно обновлён
+2024-10-11 16:07:20,468 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2389.json
+2024-10-11 16:07:20,484 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2389.json успешно обновлён
+2024-10-11 16:07:20,484 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2391.json
+2024-10-11 16:07:20,484 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2391.json успешно обновлён
+2024-10-11 16:07:20,484 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2395.json
+2024-10-11 16:07:20,484 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2395.json успешно обновлён
+2024-10-11 16:07:20,484 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2398.json
+2024-10-11 16:07:20,500 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2398.json успешно обновлён
+2024-10-11 16:07:20,500 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2403.json
+2024-10-11 16:07:20,500 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2403.json успешно обновлён
+2024-10-11 16:07:20,500 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2408.json
+2024-10-11 16:07:20,500 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2408.json успешно обновлён
+2024-10-11 16:07:20,500 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2410.json
+2024-10-11 16:07:20,500 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2410.json успешно обновлён
+2024-10-11 16:07:20,500 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2420.json
+2024-10-11 16:07:20,516 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2420.json успешно обновлён
+2024-10-11 16:07:20,516 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2424.json
+2024-10-11 16:07:20,516 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2424.json успешно обновлён
+2024-10-11 16:07:20,516 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2433.json
+2024-10-11 16:07:20,533 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2433.json успешно обновлён
+2024-10-11 16:07:20,533 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2442.json
+2024-10-11 16:07:20,535 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2442.json успешно обновлён
+2024-10-11 16:07:20,535 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2452.json
+2024-10-11 16:07:20,540 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2452.json успешно обновлён
+2024-10-11 16:07:20,540 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2462.json
+2024-10-11 16:07:21,244 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2462.jpg с score CLIP base: 0.5146452188491821, CLIP large: 0.7241978049278259
+2024-10-11 16:07:21,244 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2460.jpg, пропускаем.
+2024-10-11 16:07:21,244 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2458.jpg, пропускаем.
+2024-10-11 16:07:21,244 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2463.jpg, пропускаем.
+2024-10-11 16:07:21,244 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2461.jpg, пропускаем.
+2024-10-11 16:07:21,244 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2459.jpg, пропускаем.
+2024-10-11 16:07:21,244 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2457.jpg, пропускаем.
+2024-10-11 16:07:21,244 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2462.json успешно обновлён
+2024-10-11 16:07:21,244 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2468.json
+2024-10-11 16:07:21,965 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2467.jpg с score CLIP base: 0.6586538553237915, CLIP large: 0.42877426743507385
+2024-10-11 16:07:21,965 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2468.jpg, пропускаем.
+2024-10-11 16:07:21,966 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2465.jpg, пропускаем.
+2024-10-11 16:07:21,966 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2464.jpg, пропускаем.
+2024-10-11 16:07:21,966 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2469.jpg, пропускаем.
+2024-10-11 16:07:21,966 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2466.jpg, пропускаем.
+2024-10-11 16:07:21,966 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2468.json успешно обновлён
+2024-10-11 16:07:21,966 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2478.json
+2024-10-11 16:07:22,646 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2477.jpg с score CLIP base: 0.4932617247104645, CLIP large: 0.7766138315200806
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2474.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2471.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2479.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2473.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2475.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2478.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2472.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2470.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2476.jpg, пропускаем.
+2024-10-11 16:07:22,646 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2478.json успешно обновлён
+2024-10-11 16:07:22,646 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2487.json
+2024-10-11 16:07:23,288 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2480.jpg с score CLIP base: 0.5128684043884277, CLIP large: 0.7421192526817322
+2024-10-11 16:07:23,288 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2482.jpg, пропускаем.
+2024-10-11 16:07:23,288 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2486.jpg, пропускаем.
+2024-10-11 16:07:23,288 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2483.jpg, пропускаем.
+2024-10-11 16:07:23,288 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2481.jpg, пропускаем.
+2024-10-11 16:07:23,288 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2488.jpg, пропускаем.
+2024-10-11 16:07:23,288 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2484.jpg, пропускаем.
+2024-10-11 16:07:23,288 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2487.jpg, пропускаем.
+2024-10-11 16:07:23,288 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2485.jpg, пропускаем.
+2024-10-11 16:07:23,288 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2487.json успешно обновлён
+2024-10-11 16:07:23,288 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2499.json
+2024-10-11 16:07:23,891 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2496.jpg с score CLIP base: 0.5239346623420715, CLIP large: 0.6816446185112
+2024-10-11 16:07:23,891 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2493.jpg, пропускаем.
+2024-10-11 16:07:23,891 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2495.jpg, пропускаем.
+2024-10-11 16:07:23,891 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2494.jpg, пропускаем.
+2024-10-11 16:07:23,891 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2498.jpg, пропускаем.
+2024-10-11 16:07:23,891 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2492.jpg, пропускаем.
+2024-10-11 16:07:23,891 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2499.jpg, пропускаем.
+2024-10-11 16:07:23,891 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2497.jpg, пропускаем.
+2024-10-11 16:07:23,905 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2499.json успешно обновлён
+2024-10-11 16:07:23,905 - INFO - Начало обработки файла parsing/telegram_parser/data\mariannaeliseeva\2505.json
+2024-10-11 16:07:24,547 - INFO - Обработан файл parsing/telegram_parser/data\mariannaeliseeva\media\2500.jpg с score CLIP base: 0.690972626209259, CLIP large: 0.750080406665802
+2024-10-11 16:07:24,547 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2503.jpg, пропускаем.
+2024-10-11 16:07:24,547 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2501.jpg, пропускаем.
+2024-10-11 16:07:24,547 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2506.jpg, пропускаем.
+2024-10-11 16:07:24,547 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2505.jpg, пропускаем.
+2024-10-11 16:07:24,547 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2504.jpg, пропускаем.
+2024-10-11 16:07:24,547 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\mariannaeliseeva\media\2502.jpg, пропускаем.
+2024-10-11 16:07:24,547 - INFO - Файл parsing/telegram_parser/data\mariannaeliseeva\2505.json успешно обновлён
+2024-10-11 16:07:24,547 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6240.json
+2024-10-11 16:07:24,547 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6240.json успешно обновлён
+2024-10-11 16:07:24,547 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6244.json
+2024-10-11 16:07:24,562 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6244.json успешно обновлён
+2024-10-11 16:07:24,562 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6254.json
+2024-10-11 16:07:25,226 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6245.jpg с score CLIP base: 0.5088920593261719, CLIP large: 0.3518698513507843
+2024-10-11 16:07:25,226 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6254.json успешно обновлён
+2024-10-11 16:07:25,226 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6259.json
+2024-10-11 16:07:25,226 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6259.json успешно обновлён
+2024-10-11 16:07:25,226 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6270.json
+2024-10-11 16:07:25,242 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6270.json успешно обновлён
+2024-10-11 16:07:25,242 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6280.json
+2024-10-11 16:07:25,242 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6280.json успешно обновлён
+2024-10-11 16:07:25,242 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6288.json
+2024-10-11 16:07:25,257 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6288.json успешно обновлён
+2024-10-11 16:07:25,257 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6306.json
+2024-10-11 16:07:25,257 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6306.json успешно обновлён
+2024-10-11 16:07:25,257 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6316.json
+2024-10-11 16:07:25,841 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6307.jpg с score CLIP base: 0.35587283968925476, CLIP large: 0.20614202320575714
+2024-10-11 16:07:25,841 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6316.json успешно обновлён
+2024-10-11 16:07:25,841 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6325.json
+2024-10-11 16:07:25,857 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6325.json успешно обновлён
+2024-10-11 16:07:25,857 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6334.json
+2024-10-11 16:07:25,857 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6334.json успешно обновлён
+2024-10-11 16:07:25,857 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6338.json
+2024-10-11 16:07:25,873 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6338.json успешно обновлён
+2024-10-11 16:07:25,873 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6344.json
+2024-10-11 16:07:25,873 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6344.json успешно обновлён
+2024-10-11 16:07:25,873 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6353.json
+2024-10-11 16:07:25,873 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6353.json успешно обновлён
+2024-10-11 16:07:25,884 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6363.json
+2024-10-11 16:07:25,884 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6363.json успешно обновлён
+2024-10-11 16:07:25,884 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6372.json
+2024-10-11 16:07:25,893 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6372.json успешно обновлён
+2024-10-11 16:07:25,893 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6382.json
+2024-10-11 16:07:25,904 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6382.json успешно обновлён
+2024-10-11 16:07:25,904 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6389.json
+2024-10-11 16:07:25,904 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6389.json успешно обновлён
+2024-10-11 16:07:25,904 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6408.json
+2024-10-11 16:07:25,954 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6408.json успешно обновлён
+2024-10-11 16:07:25,954 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6416.json
+2024-10-11 16:07:25,960 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6416.json успешно обновлён
+2024-10-11 16:07:25,960 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6425.json
+2024-10-11 16:07:25,992 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6425.json успешно обновлён
+2024-10-11 16:07:25,992 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6434.json
+2024-10-11 16:07:26,004 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6434.json успешно обновлён
+2024-10-11 16:07:26,005 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6440.json
+2024-10-11 16:07:26,008 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6440.json успешно обновлён
+2024-10-11 16:07:26,008 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6449.json
+2024-10-11 16:07:26,011 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6449.json успешно обновлён
+2024-10-11 16:07:26,011 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6452.json
+2024-10-11 16:07:26,021 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6452.json успешно обновлён
+2024-10-11 16:07:26,021 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6461.json
+2024-10-11 16:07:26,021 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6461.json успешно обновлён
+2024-10-11 16:07:26,021 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6474.json
+2024-10-11 16:07:26,031 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6474.json успешно обновлён
+2024-10-11 16:07:26,031 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6483.json
+2024-10-11 16:07:26,035 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6483.json успешно обновлён
+2024-10-11 16:07:26,035 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6485.json
+2024-10-11 16:07:26,035 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6485.json успешно обновлён
+2024-10-11 16:07:26,035 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6494.json
+2024-10-11 16:07:26,056 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6494.json успешно обновлён
+2024-10-11 16:07:26,056 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6503.json
+2024-10-11 16:07:26,067 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6503.json успешно обновлён
+2024-10-11 16:07:26,067 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6510.json
+2024-10-11 16:07:26,075 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6510.json успешно обновлён
+2024-10-11 16:07:26,075 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6519.json
+2024-10-11 16:07:26,081 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6519.json успешно обновлён
+2024-10-11 16:07:26,081 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6523.json
+2024-10-11 16:07:26,088 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6523.json успешно обновлён
+2024-10-11 16:07:26,088 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6532.json
+2024-10-11 16:07:26,095 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6532.json успешно обновлён
+2024-10-11 16:07:26,095 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6539.json
+2024-10-11 16:07:26,102 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6539.json успешно обновлён
+2024-10-11 16:07:26,102 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6548.json
+2024-10-11 16:07:26,108 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6548.json успешно обновлён
+2024-10-11 16:07:26,108 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6557.json
+2024-10-11 16:07:26,110 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6557.json успешно обновлён
+2024-10-11 16:07:26,110 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6566.json
+2024-10-11 16:07:26,112 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6566.json успешно обновлён
+2024-10-11 16:07:26,112 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6577.json
+2024-10-11 16:07:26,857 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6567.jpg с score CLIP base: 0.4667525589466095, CLIP large: 0.6375724077224731
+2024-10-11 16:07:26,857 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6577.json успешно обновлён
+2024-10-11 16:07:26,857 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6586.json
+2024-10-11 16:07:26,868 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6586.json успешно обновлён
+2024-10-11 16:07:26,868 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6592.json
+2024-10-11 16:07:26,878 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6592.json успешно обновлён
+2024-10-11 16:07:26,878 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6601.json
+2024-10-11 16:07:26,879 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6601.json успешно обновлён
+2024-10-11 16:07:26,879 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6607.json
+2024-10-11 16:07:26,888 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6607.json успешно обновлён
+2024-10-11 16:07:26,888 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6616.json
+2024-10-11 16:07:26,899 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6616.json успешно обновлён
+2024-10-11 16:07:26,899 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6626.json
+2024-10-11 16:07:26,919 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6626.json успешно обновлён
+2024-10-11 16:07:26,919 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6636.json
+2024-10-11 16:07:26,929 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6636.json успешно обновлён
+2024-10-11 16:07:26,929 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6645.json
+2024-10-11 16:07:26,936 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6645.json успешно обновлён
+2024-10-11 16:07:26,936 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6652.json
+2024-10-11 16:07:27,583 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6647.jpg с score CLIP base: 0.5067587494850159, CLIP large: 0.427821546792984
+2024-10-11 16:07:27,585 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6652.json успешно обновлён
+2024-10-11 16:07:27,585 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6659.json
+2024-10-11 16:07:27,595 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6659.json успешно обновлён
+2024-10-11 16:07:27,595 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6666.json
+2024-10-11 16:07:27,607 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6666.json успешно обновлён
+2024-10-11 16:07:27,607 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6673.json
+2024-10-11 16:07:27,610 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6673.json успешно обновлён
+2024-10-11 16:07:27,610 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6682.json
+2024-10-11 16:07:27,620 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6682.json успешно обновлён
+2024-10-11 16:07:27,620 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6687.json
+2024-10-11 16:07:27,631 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6687.json успешно обновлён
+2024-10-11 16:07:27,631 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6696.json
+2024-10-11 16:07:27,641 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6696.json успешно обновлён
+2024-10-11 16:07:27,641 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6702.json
+2024-10-11 16:07:27,651 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6702.json успешно обновлён
+2024-10-11 16:07:27,651 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6706.json
+2024-10-11 16:07:27,653 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6706.json успешно обновлён
+2024-10-11 16:07:27,653 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6714.json
+2024-10-11 16:07:27,663 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6714.json успешно обновлён
+2024-10-11 16:07:27,663 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6723.json
+2024-10-11 16:07:27,674 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6723.json успешно обновлён
+2024-10-11 16:07:27,674 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6732.json
+2024-10-11 16:07:27,683 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6732.json успешно обновлён
+2024-10-11 16:07:27,683 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6739.json
+2024-10-11 16:07:27,694 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6739.json успешно обновлён
+2024-10-11 16:07:27,694 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6751.json
+2024-10-11 16:07:28,319 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6741.jpg с score CLIP base: 0.4801473319530487, CLIP large: 0.11800718307495117
+2024-10-11 16:07:28,321 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6751.json успешно обновлён
+2024-10-11 16:07:28,321 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6761.json
+2024-10-11 16:07:28,323 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6761.json успешно обновлён
+2024-10-11 16:07:28,324 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6771.json
+2024-10-11 16:07:28,334 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6771.json успешно обновлён
+2024-10-11 16:07:28,334 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6781.json
+2024-10-11 16:07:28,336 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6781.json успешно обновлён
+2024-10-11 16:07:28,336 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6786.json
+2024-10-11 16:07:28,338 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6786.json успешно обновлён
+2024-10-11 16:07:28,338 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6795.json
+2024-10-11 16:07:28,347 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6795.json успешно обновлён
+2024-10-11 16:07:28,347 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6805.json
+2024-10-11 16:07:28,349 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6805.json успешно обновлён
+2024-10-11 16:07:28,349 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6814.json
+2024-10-11 16:07:28,357 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6814.json успешно обновлён
+2024-10-11 16:07:28,357 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6822.json
+2024-10-11 16:07:28,366 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6822.json успешно обновлён
+2024-10-11 16:07:28,367 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6831.json
+2024-10-11 16:07:28,368 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6831.json успешно обновлён
+2024-10-11 16:07:28,368 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6841.json
+2024-10-11 16:07:28,379 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6841.json успешно обновлён
+2024-10-11 16:07:28,379 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6851.json
+2024-10-11 16:07:28,393 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6851.json успешно обновлён
+2024-10-11 16:07:28,393 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6867.json
+2024-10-11 16:07:28,402 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6867.json успешно обновлён
+2024-10-11 16:07:28,402 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6874.json
+2024-10-11 16:07:28,404 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6874.json успешно обновлён
+2024-10-11 16:07:28,404 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6876.json
+2024-10-11 16:07:28,414 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6876.json успешно обновлён
+2024-10-11 16:07:28,414 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6886.json
+2024-10-11 16:07:29,047 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6877.jpg с score CLIP base: 0.42879998683929443, CLIP large: 0.3239855468273163
+2024-10-11 16:07:29,049 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6886.json успешно обновлён
+2024-10-11 16:07:29,049 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6895.json
+2024-10-11 16:07:29,062 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6895.json успешно обновлён
+2024-10-11 16:07:29,062 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6905.json
+2024-10-11 16:07:29,679 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6896.jpg с score CLIP base: 0.5485402941703796, CLIP large: 0.5786667466163635
+2024-10-11 16:07:29,680 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6905.json успешно обновлён
+2024-10-11 16:07:29,680 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6919.json
+2024-10-11 16:07:30,270 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6913.jpg с score CLIP base: 0.42321357131004333, CLIP large: 0.6113312244415283
+2024-10-11 16:07:30,271 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6919.json успешно обновлён
+2024-10-11 16:07:30,271 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6928.json
+2024-10-11 16:07:30,282 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6928.json успешно обновлён
+2024-10-11 16:07:30,282 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6937.json
+2024-10-11 16:07:30,286 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6937.json успешно обновлён
+2024-10-11 16:07:30,286 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6946.json
+2024-10-11 16:07:30,295 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6946.json успешно обновлён
+2024-10-11 16:07:30,295 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6954.json
+2024-10-11 16:07:30,296 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6954.json успешно обновлён
+2024-10-11 16:07:30,297 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6963.json
+2024-10-11 16:07:30,306 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6963.json успешно обновлён
+2024-10-11 16:07:30,307 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6973.json
+2024-10-11 16:07:30,308 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6973.json успешно обновлён
+2024-10-11 16:07:30,308 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6984.json
+2024-10-11 16:07:30,932 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6974.jpg с score CLIP base: 0.37098395824432373, CLIP large: 0.6426296234130859
+2024-10-11 16:07:30,932 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\6975.jpg, пропускаем.
+2024-10-11 16:07:30,934 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6984.json успешно обновлён
+2024-10-11 16:07:30,934 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6994.json
+2024-10-11 16:07:30,945 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\6994.json успешно обновлён
+2024-10-11 16:07:30,945 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7003.json
+2024-10-11 16:07:30,947 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7003.json успешно обновлён
+2024-10-11 16:07:30,947 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7014.json
+2024-10-11 16:07:30,950 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7014.json успешно обновлён
+2024-10-11 16:07:30,950 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7020.json
+2024-10-11 16:07:30,960 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7020.json успешно обновлён
+2024-10-11 16:07:30,960 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7027.json
+2024-10-11 16:07:30,963 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7027.json успешно обновлён
+2024-10-11 16:07:30,963 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7036.json
+2024-10-11 16:07:30,965 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7036.json успешно обновлён
+2024-10-11 16:07:30,965 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7045.json
+2024-10-11 16:07:30,968 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7045.json успешно обновлён
+2024-10-11 16:07:30,968 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7054.json
+2024-10-11 16:07:30,970 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7054.json успешно обновлён
+2024-10-11 16:07:30,970 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7061.json
+2024-10-11 16:07:30,972 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7061.json успешно обновлён
+2024-10-11 16:07:30,972 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7070.json
+2024-10-11 16:07:30,983 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7070.json успешно обновлён
+2024-10-11 16:07:30,983 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7079.json
+2024-10-11 16:07:30,993 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7079.json успешно обновлён
+2024-10-11 16:07:30,994 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7088.json
+2024-10-11 16:07:31,005 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7088.json успешно обновлён
+2024-10-11 16:07:31,005 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7097.json
+2024-10-11 16:07:31,007 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7097.json успешно обновлён
+2024-10-11 16:07:31,008 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7102.json
+2024-10-11 16:07:31,018 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7102.json успешно обновлён
+2024-10-11 16:07:31,018 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7112.json
+2024-10-11 16:07:31,029 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7112.json успешно обновлён
+2024-10-11 16:07:31,029 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7114.json
+2024-10-11 16:07:31,031 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7114.json успешно обновлён
+2024-10-11 16:07:31,032 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7124.json
+2024-10-11 16:07:31,034 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7124.json успешно обновлён
+2024-10-11 16:07:31,034 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7133.json
+2024-10-11 16:07:31,036 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7133.json успешно обновлён
+2024-10-11 16:07:31,037 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7142.json
+2024-10-11 16:07:31,045 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7142.json успешно обновлён
+2024-10-11 16:07:31,045 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7151.json
+2024-10-11 16:07:31,052 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7151.json успешно обновлён
+2024-10-11 16:07:31,052 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7160.json
+2024-10-11 16:07:31,055 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7160.json успешно обновлён
+2024-10-11 16:07:31,055 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7166.json
+2024-10-11 16:07:31,062 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7166.json успешно обновлён
+2024-10-11 16:07:31,062 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7175.json
+2024-10-11 16:07:31,068 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7175.json успешно обновлён
+2024-10-11 16:07:31,068 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7182.json
+2024-10-11 16:07:31,070 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7182.json успешно обновлён
+2024-10-11 16:07:31,071 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7188.json
+2024-10-11 16:07:31,078 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7188.json успешно обновлён
+2024-10-11 16:07:31,078 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7197.json
+2024-10-11 16:07:31,080 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7197.json успешно обновлён
+2024-10-11 16:07:31,080 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7204.json
+2024-10-11 16:07:31,087 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7204.json успешно обновлён
+2024-10-11 16:07:31,087 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7212.json
+2024-10-11 16:07:31,095 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7212.json успешно обновлён
+2024-10-11 16:07:31,095 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7222.json
+2024-10-11 16:07:31,097 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7222.json успешно обновлён
+2024-10-11 16:07:31,097 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7229.json
+2024-10-11 16:07:31,909 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7229.jpg с score CLIP base: 0.43707484006881714, CLIP large: 0.5087810158729553
+2024-10-11 16:07:31,910 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7229.json успешно обновлён
+2024-10-11 16:07:31,911 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7239.json
+2024-10-11 16:07:32,690 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7230.jpg с score CLIP base: 0.4804529845714569, CLIP large: 0.27321743965148926
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7233.jpg, пропускаем.
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7237.jpg, пропускаем.
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7235.jpg, пропускаем.
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7231.jpg, пропускаем.
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7238.jpg, пропускаем.
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7239.jpg, пропускаем.
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7232.jpg, пропускаем.
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7236.jpg, пропускаем.
+2024-10-11 16:07:32,690 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7234.jpg, пропускаем.
+2024-10-11 16:07:32,692 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7239.json успешно обновлён
+2024-10-11 16:07:32,692 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7248.json
+2024-10-11 16:07:33,516 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7245.jpg с score CLIP base: 0.45682859420776367, CLIP large: 0.7518444061279297
+2024-10-11 16:07:33,516 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7242.jpg, пропускаем.
+2024-10-11 16:07:33,516 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7243.jpg, пропускаем.
+2024-10-11 16:07:33,516 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7248.jpg, пропускаем.
+2024-10-11 16:07:33,517 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7246.jpg, пропускаем.
+2024-10-11 16:07:33,517 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7241.jpg, пропускаем.
+2024-10-11 16:07:33,517 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7240.jpg, пропускаем.
+2024-10-11 16:07:33,517 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7247.jpg, пропускаем.
+2024-10-11 16:07:33,517 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7244.jpg, пропускаем.
+2024-10-11 16:07:33,518 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7248.json успешно обновлён
+2024-10-11 16:07:33,519 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7258.json
+2024-10-11 16:07:34,335 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7253.jpg с score CLIP base: 0.3611171841621399, CLIP large: 0.7103085517883301
+2024-10-11 16:07:34,335 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7251.jpg, пропускаем.
+2024-10-11 16:07:34,335 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7254.jpg, пропускаем.
+2024-10-11 16:07:34,335 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7250.jpg, пропускаем.
+2024-10-11 16:07:34,335 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7257.jpg, пропускаем.
+2024-10-11 16:07:34,335 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7255.jpg, пропускаем.
+2024-10-11 16:07:34,335 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7258.jpg, пропускаем.
+2024-10-11 16:07:34,335 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7258.json успешно обновлён
+2024-10-11 16:07:34,335 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7267.json
+2024-10-11 16:07:35,131 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7260.jpg с score CLIP base: 0.5386030673980713, CLIP large: 0.6526572704315186
+2024-10-11 16:07:35,131 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7262.jpg, пропускаем.
+2024-10-11 16:07:35,131 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7261.jpg, пропускаем.
+2024-10-11 16:07:35,147 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7266.jpg, пропускаем.
+2024-10-11 16:07:35,147 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7264.jpg, пропускаем.
+2024-10-11 16:07:35,147 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7259.jpg, пропускаем.
+2024-10-11 16:07:35,147 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7263.jpg, пропускаем.
+2024-10-11 16:07:35,147 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7265.jpg, пропускаем.
+2024-10-11 16:07:35,147 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7267.jpg, пропускаем.
+2024-10-11 16:07:35,147 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7267.json успешно обновлён
+2024-10-11 16:07:35,147 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7280.json
+2024-10-11 16:07:35,878 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7273.jpg с score CLIP base: 0.6454312205314636, CLIP large: 0.5281025767326355
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7277.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7271.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7278.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7272.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7276.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7274.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7268.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7275.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7280.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7279.jpg, пропускаем.
+2024-10-11 16:07:35,878 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7280.json успешно обновлён
+2024-10-11 16:07:35,878 - INFO - Начало обработки файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7394.json
+2024-10-11 16:07:36,669 - INFO - Обработан файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7394.jpg с score CLIP base: 0.5617299675941467, CLIP large: 0.7993220686912537
+2024-10-11 16:07:36,669 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7391.jpg, пропускаем.
+2024-10-11 16:07:36,669 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7386.jpg, пропускаем.
+2024-10-11 16:07:36,669 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7387.jpg, пропускаем.
+2024-10-11 16:07:36,669 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7388.jpg, пропускаем.
+2024-10-11 16:07:36,669 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7390.jpg, пропускаем.
+2024-10-11 16:07:36,669 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\OVECHKIN_NIKOLAY\media\7389.jpg, пропускаем.
+2024-10-11 16:07:36,669 - INFO - Файл parsing/telegram_parser/data\OVECHKIN_NIKOLAY\7394.json успешно обновлён
+2024-10-11 16:07:36,669 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21629.json
+2024-10-11 16:07:37,477 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22913.jpg с score CLIP base: 0.5454493165016174, CLIP large: 0.5754225850105286
+2024-10-11 16:07:37,477 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22914.jpg, пропускаем.
+2024-10-11 16:07:37,477 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22885.jpg, пропускаем.
+2024-10-11 16:07:37,477 - INFO - Файл parsing/telegram_parser/data\rogov24\21629.json успешно обновлён
+2024-10-11 16:07:37,477 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21641.json
+2024-10-11 16:07:38,293 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21630.jpg с score CLIP base: 0.4520072340965271, CLIP large: 0.45740699768066406
+2024-10-11 16:07:38,295 - INFO - Файл parsing/telegram_parser/data\rogov24\21641.json успешно обновлён
+2024-10-11 16:07:38,295 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21648.json
+2024-10-11 16:07:38,299 - INFO - Файл parsing/telegram_parser/data\rogov24\21648.json успешно обновлён
+2024-10-11 16:07:38,299 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21657.json
+2024-10-11 16:07:38,308 - INFO - Файл parsing/telegram_parser/data\rogov24\21657.json успешно обновлён
+2024-10-11 16:07:38,308 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21667.json
+2024-10-11 16:07:39,125 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21659.jpg с score CLIP base: 0.48074719309806824, CLIP large: 0.42562761902809143
+2024-10-11 16:07:39,125 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21660.jpg, пропускаем.
+2024-10-11 16:07:39,127 - INFO - Файл parsing/telegram_parser/data\rogov24\21667.json успешно обновлён
+2024-10-11 16:07:39,127 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21679.json
+2024-10-11 16:07:39,850 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21669.jpg с score CLIP base: 0.3375152349472046, CLIP large: 0.5137818455696106
+2024-10-11 16:07:39,850 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21668.jpg, пропускаем.
+2024-10-11 16:07:39,852 - INFO - Файл parsing/telegram_parser/data\rogov24\21679.json успешно обновлён
+2024-10-11 16:07:39,852 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21691.json
+2024-10-11 16:07:39,863 - INFO - Файл parsing/telegram_parser/data\rogov24\21691.json успешно обновлён
+2024-10-11 16:07:39,863 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21694.json
+2024-10-11 16:07:39,871 - INFO - Файл parsing/telegram_parser/data\rogov24\21694.json успешно обновлён
+2024-10-11 16:07:39,871 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21699.json
+2024-10-11 16:07:40,698 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21695.jpg с score CLIP base: 0.3632664978504181, CLIP large: 0.6237278580665588
+2024-10-11 16:07:40,699 - INFO - Файл parsing/telegram_parser/data\rogov24\21699.json успешно обновлён
+2024-10-11 16:07:40,699 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21709.json
+2024-10-11 16:07:41,653 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21700.jpg с score CLIP base: 0.5168279409408569, CLIP large: 0.6334647536277771
+2024-10-11 16:07:41,655 - INFO - Файл parsing/telegram_parser/data\rogov24\21709.json успешно обновлён
+2024-10-11 16:07:41,655 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21713.json
+2024-10-11 16:07:41,664 - INFO - Файл parsing/telegram_parser/data\rogov24\21713.json успешно обновлён
+2024-10-11 16:07:41,664 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21720.json
+2024-10-11 16:07:41,667 - INFO - Файл parsing/telegram_parser/data\rogov24\21720.json успешно обновлён
+2024-10-11 16:07:41,667 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21730.json
+2024-10-11 16:07:42,506 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21721.jpg с score CLIP base: 0.5560158491134644, CLIP large: 0.5973464250564575
+2024-10-11 16:07:42,507 - INFO - Файл parsing/telegram_parser/data\rogov24\21730.json успешно обновлён
+2024-10-11 16:07:42,507 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21740.json
+2024-10-11 16:07:43,286 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21734.jpg с score CLIP base: 0.5328999161720276, CLIP large: 0.19265711307525635
+2024-10-11 16:07:43,286 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21732.jpg, пропускаем.
+2024-10-11 16:07:43,287 - INFO - Файл parsing/telegram_parser/data\rogov24\21740.json успешно обновлён
+2024-10-11 16:07:43,288 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21746.json
+2024-10-11 16:07:43,291 - INFO - Файл parsing/telegram_parser/data\rogov24\21746.json успешно обновлён
+2024-10-11 16:07:43,291 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21757.json
+2024-10-11 16:07:44,064 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21747.jpg с score CLIP base: 0.5109735727310181, CLIP large: 0.5504487752914429
+2024-10-11 16:07:44,066 - INFO - Файл parsing/telegram_parser/data\rogov24\21757.json успешно обновлён
+2024-10-11 16:07:44,066 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21759.json
+2024-10-11 16:07:44,074 - INFO - Файл parsing/telegram_parser/data\rogov24\21759.json успешно обновлён
+2024-10-11 16:07:44,075 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21768.json
+2024-10-11 16:07:44,893 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21762.jpg с score CLIP base: 0.5216763019561768, CLIP large: 0.24685092270374298
+2024-10-11 16:07:44,893 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21760.jpg, пропускаем.
+2024-10-11 16:07:44,895 - INFO - Файл parsing/telegram_parser/data\rogov24\21768.json успешно обновлён
+2024-10-11 16:07:44,895 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21778.json
+2024-10-11 16:07:44,898 - INFO - Файл parsing/telegram_parser/data\rogov24\21778.json успешно обновлён
+2024-10-11 16:07:44,898 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21784.json
+2024-10-11 16:07:44,901 - INFO - Файл parsing/telegram_parser/data\rogov24\21784.json успешно обновлён
+2024-10-11 16:07:44,901 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21793.json
+2024-10-11 16:07:44,903 - INFO - Файл parsing/telegram_parser/data\rogov24\21793.json успешно обновлён
+2024-10-11 16:07:44,903 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21802.json
+2024-10-11 16:07:44,905 - INFO - Файл parsing/telegram_parser/data\rogov24\21802.json успешно обновлён
+2024-10-11 16:07:44,905 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21811.json
+2024-10-11 16:07:44,918 - INFO - Файл parsing/telegram_parser/data\rogov24\21811.json успешно обновлён
+2024-10-11 16:07:44,918 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21817.json
+2024-10-11 16:07:44,920 - INFO - Файл parsing/telegram_parser/data\rogov24\21817.json успешно обновлён
+2024-10-11 16:07:44,920 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21828.json
+2024-10-11 16:07:45,764 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21818.jpg с score CLIP base: 0.38278159499168396, CLIP large: 0.4715234041213989
+2024-10-11 16:07:45,766 - INFO - Файл parsing/telegram_parser/data\rogov24\21828.json успешно обновлён
+2024-10-11 16:07:45,766 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21836.json
+2024-10-11 16:07:45,774 - INFO - Файл parsing/telegram_parser/data\rogov24\21836.json успешно обновлён
+2024-10-11 16:07:45,775 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21847.json
+2024-10-11 16:07:46,591 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21837.jpg с score CLIP base: 0.40809983015060425, CLIP large: 0.27706441283226013
+2024-10-11 16:07:46,593 - INFO - Файл parsing/telegram_parser/data\rogov24\21847.json успешно обновлён
+2024-10-11 16:07:46,593 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21852.json
+2024-10-11 16:07:47,432 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21848.jpg с score CLIP base: 0.5435590147972107, CLIP large: 0.5750889182090759
+2024-10-11 16:07:47,434 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21849.jpg, пропускаем.
+2024-10-11 16:07:47,436 - INFO - Файл parsing/telegram_parser/data\rogov24\21852.json успешно обновлён
+2024-10-11 16:07:47,436 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21854.json
+2024-10-11 16:07:47,447 - INFO - Файл parsing/telegram_parser/data\rogov24\21854.json успешно обновлён
+2024-10-11 16:07:47,447 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21866.json
+2024-10-11 16:07:48,276 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21856.jpg с score CLIP base: 0.4828658699989319, CLIP large: 0.6496819257736206
+2024-10-11 16:07:48,276 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21855.jpg, пропускаем.
+2024-10-11 16:07:48,278 - INFO - Файл parsing/telegram_parser/data\rogov24\21866.json успешно обновлён
+2024-10-11 16:07:48,278 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21869.json
+2024-10-11 16:07:49,129 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21867.jpg с score CLIP base: 0.34430524706840515, CLIP large: 0.6882912516593933
+2024-10-11 16:07:49,130 - INFO - Файл parsing/telegram_parser/data\rogov24\21869.json успешно обновлён
+2024-10-11 16:07:49,131 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21882.json
+2024-10-11 16:07:49,960 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21872.jpg с score CLIP base: 0.6016625761985779, CLIP large: 0.7378630638122559
+2024-10-11 16:07:49,962 - INFO - Файл parsing/telegram_parser/data\rogov24\21882.json успешно обновлён
+2024-10-11 16:07:49,962 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21896.json
+2024-10-11 16:07:50,740 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21884.jpg с score CLIP base: 0.3702676594257355, CLIP large: 0.3096771836280823
+2024-10-11 16:07:50,740 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21885.jpg, пропускаем.
+2024-10-11 16:07:50,741 - INFO - Файл parsing/telegram_parser/data\rogov24\21896.json успешно обновлён
+2024-10-11 16:07:50,741 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21914.json
+2024-10-11 16:07:51,592 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21904.jpg с score CLIP base: 0.44569918513298035, CLIP large: 0.7892056107521057
+2024-10-11 16:07:51,592 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21897.jpg, пропускаем.
+2024-10-11 16:07:51,592 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21902.jpg, пропускаем.
+2024-10-11 16:07:51,594 - INFO - Файл parsing/telegram_parser/data\rogov24\21914.json успешно обновлён
+2024-10-11 16:07:51,594 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21927.json
+2024-10-11 16:07:52,464 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21915.jpg с score CLIP base: 0.54010009765625, CLIP large: 0.6216712594032288
+2024-10-11 16:07:52,465 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21917.jpg, пропускаем.
+2024-10-11 16:07:52,466 - INFO - Файл parsing/telegram_parser/data\rogov24\21927.json успешно обновлён
+2024-10-11 16:07:52,466 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21936.json
+2024-10-11 16:07:52,469 - INFO - Файл parsing/telegram_parser/data\rogov24\21936.json успешно обновлён
+2024-10-11 16:07:52,469 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21945.json
+2024-10-11 16:07:52,477 - INFO - Файл parsing/telegram_parser/data\rogov24\21945.json успешно обновлён
+2024-10-11 16:07:52,478 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21952.json
+2024-10-11 16:07:53,317 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21946.jpg с score CLIP base: 0.27671191096305847, CLIP large: 0.476485937833786
+2024-10-11 16:07:53,319 - INFO - Файл parsing/telegram_parser/data\rogov24\21952.json успешно обновлён
+2024-10-11 16:07:53,319 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21962.json
+2024-10-11 16:07:53,340 - INFO - Файл parsing/telegram_parser/data\rogov24\21962.json успешно обновлён
+2024-10-11 16:07:53,340 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21964.json
+2024-10-11 16:07:53,348 - INFO - Файл parsing/telegram_parser/data\rogov24\21964.json успешно обновлён
+2024-10-11 16:07:53,348 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21969.json
+2024-10-11 16:07:53,355 - INFO - Файл parsing/telegram_parser/data\rogov24\21969.json успешно обновлён
+2024-10-11 16:07:53,355 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21974.json
+2024-10-11 16:07:54,260 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\21970.jpg с score CLIP base: 0.5055568218231201, CLIP large: 0.5691593885421753
+2024-10-11 16:07:54,262 - INFO - Файл parsing/telegram_parser/data\rogov24\21974.json успешно обновлён
+2024-10-11 16:07:54,262 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21983.json
+2024-10-11 16:07:54,265 - INFO - Файл parsing/telegram_parser/data\rogov24\21983.json успешно обновлён
+2024-10-11 16:07:54,265 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21992.json
+2024-10-11 16:07:54,268 - INFO - Файл parsing/telegram_parser/data\rogov24\21992.json успешно обновлён
+2024-10-11 16:07:54,268 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\21998.json
+2024-10-11 16:07:54,270 - INFO - Файл parsing/telegram_parser/data\rogov24\21998.json успешно обновлён
+2024-10-11 16:07:54,270 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22010.json
+2024-10-11 16:07:55,085 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22000.jpg с score CLIP base: 0.45337337255477905, CLIP large: 0.6306596398353577
+2024-10-11 16:07:55,085 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22001.jpg, пропускаем.
+2024-10-11 16:07:55,086 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22002.jpg, пропускаем.
+2024-10-11 16:07:55,086 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\21999.jpg, пропускаем.
+2024-10-11 16:07:55,086 - INFO - Файл parsing/telegram_parser/data\rogov24\22010.json успешно обновлён
+2024-10-11 16:07:55,087 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22021.json
+2024-10-11 16:07:55,911 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22013.jpg с score CLIP base: 0.4794580042362213, CLIP large: 0.7028564214706421
+2024-10-11 16:07:55,913 - INFO - Файл parsing/telegram_parser/data\rogov24\22021.json успешно обновлён
+2024-10-11 16:07:55,913 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22027.json
+2024-10-11 16:07:56,712 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22022.jpg с score CLIP base: 0.41126373410224915, CLIP large: 0.5771281123161316
+2024-10-11 16:07:56,713 - INFO - Файл parsing/telegram_parser/data\rogov24\22027.json успешно обновлён
+2024-10-11 16:07:56,713 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22038.json
+2024-10-11 16:07:57,464 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22028.jpg с score CLIP base: 0.38030752539634705, CLIP large: 0.3925287127494812
+2024-10-11 16:07:57,464 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22029.jpg, пропускаем.
+2024-10-11 16:07:57,464 - INFO - Файл parsing/telegram_parser/data\rogov24\22038.json успешно обновлён
+2024-10-11 16:07:57,464 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22050.json
+2024-10-11 16:07:58,332 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22039.jpg с score CLIP base: 0.4279817044734955, CLIP large: 0.8348347544670105
+2024-10-11 16:07:58,334 - INFO - Файл parsing/telegram_parser/data\rogov24\22050.json успешно обновлён
+2024-10-11 16:07:58,334 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22055.json
+2024-10-11 16:07:59,106 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22052.jpg с score CLIP base: 0.45269280672073364, CLIP large: 0.5166330933570862
+2024-10-11 16:07:59,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22051.jpg, пропускаем.
+2024-10-11 16:07:59,108 - INFO - Файл parsing/telegram_parser/data\rogov24\22055.json успешно обновлён
+2024-10-11 16:07:59,108 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22069.json
+2024-10-11 16:07:59,881 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22060.jpg с score CLIP base: 0.4279817044734955, CLIP large: 0.8348347544670105
+2024-10-11 16:07:59,881 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22061.jpg, пропускаем.
+2024-10-11 16:07:59,883 - INFO - Файл parsing/telegram_parser/data\rogov24\22069.json успешно обновлён
+2024-10-11 16:07:59,883 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22075.json
+2024-10-11 16:07:59,895 - INFO - Файл parsing/telegram_parser/data\rogov24\22075.json успешно обновлён
+2024-10-11 16:07:59,896 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22077.json
+2024-10-11 16:07:59,906 - INFO - Файл parsing/telegram_parser/data\rogov24\22077.json успешно обновлён
+2024-10-11 16:07:59,906 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22091.json
+2024-10-11 16:08:00,543 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22081.jpg с score CLIP base: 0.43340620398521423, CLIP large: 0.2042309194803238
+2024-10-11 16:08:00,544 - INFO - Файл parsing/telegram_parser/data\rogov24\22091.json успешно обновлён
+2024-10-11 16:08:00,544 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22093.json
+2024-10-11 16:08:00,555 - INFO - Файл parsing/telegram_parser/data\rogov24\22093.json успешно обновлён
+2024-10-11 16:08:00,555 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22104.json
+2024-10-11 16:08:01,235 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22094.jpg с score CLIP base: 0.5516189932823181, CLIP large: 0.7518503665924072
+2024-10-11 16:08:01,236 - INFO - Файл parsing/telegram_parser/data\rogov24\22104.json успешно обновлён
+2024-10-11 16:08:01,236 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22123.json
+2024-10-11 16:08:01,933 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22111.jpg с score CLIP base: 0.3553950786590576, CLIP large: 0.7966645956039429
+2024-10-11 16:08:01,934 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22112.jpg, пропускаем.
+2024-10-11 16:08:01,935 - INFO - Файл parsing/telegram_parser/data\rogov24\22123.json успешно обновлён
+2024-10-11 16:08:01,935 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22134.json
+2024-10-11 16:08:02,609 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22124.jpg с score CLIP base: 0.49154597520828247, CLIP large: 0.6693933010101318
+2024-10-11 16:08:02,611 - INFO - Файл parsing/telegram_parser/data\rogov24\22134.json успешно обновлён
+2024-10-11 16:08:02,611 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22141.json
+2024-10-11 16:08:03,280 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22135.jpg с score CLIP base: 0.5180009007453918, CLIP large: 0.7417341470718384
+2024-10-11 16:08:03,281 - INFO - Файл parsing/telegram_parser/data\rogov24\22141.json успешно обновлён
+2024-10-11 16:08:03,282 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22150.json
+2024-10-11 16:08:03,284 - INFO - Файл parsing/telegram_parser/data\rogov24\22150.json успешно обновлён
+2024-10-11 16:08:03,284 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22159.json
+2024-10-11 16:08:03,287 - INFO - Файл parsing/telegram_parser/data\rogov24\22159.json успешно обновлён
+2024-10-11 16:08:03,287 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22172.json
+2024-10-11 16:08:03,290 - INFO - Файл parsing/telegram_parser/data\rogov24\22172.json успешно обновлён
+2024-10-11 16:08:03,290 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22186.json
+2024-10-11 16:08:03,293 - INFO - Файл parsing/telegram_parser/data\rogov24\22186.json успешно обновлён
+2024-10-11 16:08:03,293 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22190.json
+2024-10-11 16:08:03,296 - INFO - Файл parsing/telegram_parser/data\rogov24\22190.json успешно обновлён
+2024-10-11 16:08:03,296 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22201.json
+2024-10-11 16:08:04,047 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22191.jpg с score CLIP base: 0.2968759834766388, CLIP large: 0.4801877737045288
+2024-10-11 16:08:04,048 - INFO - Файл parsing/telegram_parser/data\rogov24\22201.json успешно обновлён
+2024-10-11 16:08:04,048 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22210.json
+2024-10-11 16:08:04,051 - INFO - Файл parsing/telegram_parser/data\rogov24\22210.json успешно обновлён
+2024-10-11 16:08:04,052 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22224.json
+2024-10-11 16:08:04,801 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22213.jpg с score CLIP base: 0.6113787889480591, CLIP large: 0.6224373579025269
+2024-10-11 16:08:04,803 - INFO - Файл parsing/telegram_parser/data\rogov24\22224.json успешно обновлён
+2024-10-11 16:08:04,803 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22227.json
+2024-10-11 16:08:04,816 - INFO - Файл parsing/telegram_parser/data\rogov24\22227.json успешно обновлён
+2024-10-11 16:08:04,816 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22235.json
+2024-10-11 16:08:05,439 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22231.jpg с score CLIP base: 0.5026163458824158, CLIP large: 0.30893778800964355
+2024-10-11 16:08:05,439 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22230.jpg, пропускаем.
+2024-10-11 16:08:05,440 - INFO - Файл parsing/telegram_parser/data\rogov24\22235.json успешно обновлён
+2024-10-11 16:08:05,440 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22241.json
+2024-10-11 16:08:05,450 - INFO - Файл parsing/telegram_parser/data\rogov24\22241.json успешно обновлён
+2024-10-11 16:08:05,450 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22250.json
+2024-10-11 16:08:05,452 - INFO - Файл parsing/telegram_parser/data\rogov24\22250.json успешно обновлён
+2024-10-11 16:08:05,452 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22255.json
+2024-10-11 16:08:05,461 - INFO - Файл parsing/telegram_parser/data\rogov24\22255.json успешно обновлён
+2024-10-11 16:08:05,461 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22265.json
+2024-10-11 16:08:05,463 - INFO - Файл parsing/telegram_parser/data\rogov24\22265.json успешно обновлён
+2024-10-11 16:08:05,463 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22276.json
+2024-10-11 16:08:05,472 - INFO - Файл parsing/telegram_parser/data\rogov24\22276.json успешно обновлён
+2024-10-11 16:08:05,472 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22286.json
+2024-10-11 16:08:06,120 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22277.jpg с score CLIP base: 0.4950195848941803, CLIP large: 0.7011334896087646
+2024-10-11 16:08:06,122 - INFO - Файл parsing/telegram_parser/data\rogov24\22286.json успешно обновлён
+2024-10-11 16:08:06,122 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22294.json
+2024-10-11 16:08:06,740 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22289.jpg с score CLIP base: 0.5229840278625488, CLIP large: 0.7786170840263367
+2024-10-11 16:08:06,741 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22290.jpg, пропускаем.
+2024-10-11 16:08:06,741 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22288.jpg, пропускаем.
+2024-10-11 16:08:06,742 - INFO - Файл parsing/telegram_parser/data\rogov24\22294.json успешно обновлён
+2024-10-11 16:08:06,742 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22301.json
+2024-10-11 16:08:06,754 - INFO - Файл parsing/telegram_parser/data\rogov24\22301.json успешно обновлён
+2024-10-11 16:08:06,754 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22312.json
+2024-10-11 16:08:06,756 - INFO - Файл parsing/telegram_parser/data\rogov24\22312.json успешно обновлён
+2024-10-11 16:08:06,756 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22324.json
+2024-10-11 16:08:07,398 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22313.jpg с score CLIP base: 0.4770031273365021, CLIP large: 0.6964707970619202
+2024-10-11 16:08:07,400 - INFO - Файл parsing/telegram_parser/data\rogov24\22324.json успешно обновлён
+2024-10-11 16:08:07,400 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22332.json
+2024-10-11 16:08:08,068 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22325.jpg с score CLIP base: 0.5615055561065674, CLIP large: 0.3746481239795685
+2024-10-11 16:08:08,069 - INFO - Файл parsing/telegram_parser/data\rogov24\22332.json успешно обновлён
+2024-10-11 16:08:08,069 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22336.json
+2024-10-11 16:08:08,080 - INFO - Файл parsing/telegram_parser/data\rogov24\22336.json успешно обновлён
+2024-10-11 16:08:08,080 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22347.json
+2024-10-11 16:08:08,759 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22338.jpg с score CLIP base: 0.48766815662384033, CLIP large: 0.7399944067001343
+2024-10-11 16:08:08,760 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22337.jpg, пропускаем.
+2024-10-11 16:08:08,761 - INFO - Файл parsing/telegram_parser/data\rogov24\22347.json успешно обновлён
+2024-10-11 16:08:08,761 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22362.json
+2024-10-11 16:08:09,490 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22348.jpg с score CLIP base: 0.38864660263061523, CLIP large: 0.6238406896591187
+2024-10-11 16:08:09,490 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22352.jpg, пропускаем.
+2024-10-11 16:08:09,492 - INFO - Файл parsing/telegram_parser/data\rogov24\22362.json успешно обновлён
+2024-10-11 16:08:09,492 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22364.json
+2024-10-11 16:08:09,495 - INFO - Файл parsing/telegram_parser/data\rogov24\22364.json успешно обновлён
+2024-10-11 16:08:09,495 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22367.json
+2024-10-11 16:08:09,512 - INFO - Файл parsing/telegram_parser/data\rogov24\22367.json успешно обновлён
+2024-10-11 16:08:09,512 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22378.json
+2024-10-11 16:08:10,201 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22369.jpg с score CLIP base: 0.4233681559562683, CLIP large: 0.4441715478897095
+2024-10-11 16:08:10,202 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22370.jpg, пропускаем.
+2024-10-11 16:08:10,202 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22368.jpg, пропускаем.
+2024-10-11 16:08:10,202 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22372.jpg, пропускаем.
+2024-10-11 16:08:10,202 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22371.jpg, пропускаем.
+2024-10-11 16:08:10,203 - INFO - Файл parsing/telegram_parser/data\rogov24\22378.json успешно обновлён
+2024-10-11 16:08:10,203 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22391.json
+2024-10-11 16:08:10,899 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22379.jpg с score CLIP base: 0.45863184332847595, CLIP large: 0.5528348684310913
+2024-10-11 16:08:10,900 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22382.jpg, пропускаем.
+2024-10-11 16:08:10,900 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22384.jpg, пропускаем.
+2024-10-11 16:08:10,900 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22385.jpg, пропускаем.
+2024-10-11 16:08:10,900 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22380.jpg, пропускаем.
+2024-10-11 16:08:10,901 - INFO - Файл parsing/telegram_parser/data\rogov24\22391.json успешно обновлён
+2024-10-11 16:08:10,901 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22404.json
+2024-10-11 16:08:11,562 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22393.jpg с score CLIP base: 0.4770031273365021, CLIP large: 0.6964707970619202
+2024-10-11 16:08:11,562 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22392.jpg, пропускаем.
+2024-10-11 16:08:11,564 - INFO - Файл parsing/telegram_parser/data\rogov24\22404.json успешно обновлён
+2024-10-11 16:08:11,564 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22413.json
+2024-10-11 16:08:11,567 - INFO - Файл parsing/telegram_parser/data\rogov24\22413.json успешно обновлён
+2024-10-11 16:08:11,567 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22431.json
+2024-10-11 16:08:12,221 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22417.jpg с score CLIP base: 0.6207904815673828, CLIP large: 0.2758747637271881
+2024-10-11 16:08:12,221 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22414.jpg, пропускаем.
+2024-10-11 16:08:12,221 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22422.jpg, пропускаем.
+2024-10-11 16:08:12,221 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22420.jpg, пропускаем.
+2024-10-11 16:08:12,221 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22421.jpg, пропускаем.
+2024-10-11 16:08:12,222 - INFO - Файл parsing/telegram_parser/data\rogov24\22431.json успешно обновлён
+2024-10-11 16:08:12,222 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22438.json
+2024-10-11 16:08:12,260 - INFO - Файл parsing/telegram_parser/data\rogov24\22438.json успешно обновлён
+2024-10-11 16:08:12,260 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22447.json
+2024-10-11 16:08:12,260 - INFO - Файл parsing/telegram_parser/data\rogov24\22447.json успешно обновлён
+2024-10-11 16:08:12,260 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22453.json
+2024-10-11 16:08:12,929 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22448.jpg с score CLIP base: 0.6372358202934265, CLIP large: 0.5983149409294128
+2024-10-11 16:08:12,930 - INFO - Файл parsing/telegram_parser/data\rogov24\22453.json успешно обновлён
+2024-10-11 16:08:12,930 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22462.json
+2024-10-11 16:08:12,933 - INFO - Файл parsing/telegram_parser/data\rogov24\22462.json успешно обновлён
+2024-10-11 16:08:12,933 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22467.json
+2024-10-11 16:08:12,933 - INFO - Файл parsing/telegram_parser/data\rogov24\22467.json успешно обновлён
+2024-10-11 16:08:12,937 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22478.json
+2024-10-11 16:08:13,634 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22469.jpg с score CLIP base: 0.6207926869392395, CLIP large: 0.7244952321052551
+2024-10-11 16:08:13,636 - INFO - Файл parsing/telegram_parser/data\rogov24\22478.json успешно обновлён
+2024-10-11 16:08:13,636 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22489.json
+2024-10-11 16:08:13,649 - INFO - Файл parsing/telegram_parser/data\rogov24\22489.json успешно обновлён
+2024-10-11 16:08:13,649 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22499.json
+2024-10-11 16:08:13,652 - INFO - Файл parsing/telegram_parser/data\rogov24\22499.json успешно обновлён
+2024-10-11 16:08:13,652 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22510.json
+2024-10-11 16:08:14,353 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22500.jpg с score CLIP base: 0.6332845091819763, CLIP large: 0.5210456848144531
+2024-10-11 16:08:14,354 - INFO - Файл parsing/telegram_parser/data\rogov24\22510.json успешно обновлён
+2024-10-11 16:08:14,354 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22520.json
+2024-10-11 16:08:14,358 - INFO - Файл parsing/telegram_parser/data\rogov24\22520.json успешно обновлён
+2024-10-11 16:08:14,358 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22531.json
+2024-10-11 16:08:15,207 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22521.jpg с score CLIP base: 0.4770031273365021, CLIP large: 0.6964707970619202
+2024-10-11 16:08:15,209 - INFO - Файл parsing/telegram_parser/data\rogov24\22531.json успешно обновлён
+2024-10-11 16:08:15,209 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22541.json
+2024-10-11 16:08:15,220 - INFO - Файл parsing/telegram_parser/data\rogov24\22541.json успешно обновлён
+2024-10-11 16:08:15,222 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22551.json
+2024-10-11 16:08:16,002 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22543.jpg с score CLIP base: 0.48858317732810974, CLIP large: 0.19018086791038513
+2024-10-11 16:08:16,003 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22547.jpg, пропускаем.
+2024-10-11 16:08:16,003 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22546.jpg, пропускаем.
+2024-10-11 16:08:16,004 - INFO - Файл parsing/telegram_parser/data\rogov24\22551.json успешно обновлён
+2024-10-11 16:08:16,004 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22563.json
+2024-10-11 16:08:16,827 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22552.jpg с score CLIP base: 0.4627836346626282, CLIP large: 0.8769543170928955
+2024-10-11 16:08:16,828 - INFO - Файл parsing/telegram_parser/data\rogov24\22563.json успешно обновлён
+2024-10-11 16:08:16,829 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22572.json
+2024-10-11 16:08:16,839 - INFO - Файл parsing/telegram_parser/data\rogov24\22572.json успешно обновлён
+2024-10-11 16:08:16,839 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22580.json
+2024-10-11 16:08:17,677 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22573.jpg с score CLIP base: 0.5119057893753052, CLIP large: 0.6297412514686584
+2024-10-11 16:08:17,678 - INFO - Файл parsing/telegram_parser/data\rogov24\22580.json успешно обновлён
+2024-10-11 16:08:17,678 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22590.json
+2024-10-11 16:08:17,690 - INFO - Файл parsing/telegram_parser/data\rogov24\22590.json успешно обновлён
+2024-10-11 16:08:17,691 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22613.json
+2024-10-11 16:08:18,507 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22608.jpg с score CLIP base: 0.6146076917648315, CLIP large: 0.37699979543685913
+2024-10-11 16:08:18,507 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22610.jpg, пропускаем.
+2024-10-11 16:08:18,507 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22609.jpg, пропускаем.
+2024-10-11 16:08:18,507 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22598.jpg, пропускаем.
+2024-10-11 16:08:18,507 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22596.jpg, пропускаем.
+2024-10-11 16:08:18,507 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22591.jpg, пропускаем.
+2024-10-11 16:08:18,507 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22603.jpg, пропускаем.
+2024-10-11 16:08:18,507 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22611.jpg, пропускаем.
+2024-10-11 16:08:18,507 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22594.jpg, пропускаем.
+2024-10-11 16:08:18,508 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22604.jpg, пропускаем.
+2024-10-11 16:08:18,508 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22613.jpg, пропускаем.
+2024-10-11 16:08:18,508 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22593.jpg, пропускаем.
+2024-10-11 16:08:18,508 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22607.jpg, пропускаем.
+2024-10-11 16:08:18,508 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22612.jpg, пропускаем.
+2024-10-11 16:08:18,509 - INFO - Файл parsing/telegram_parser/data\rogov24\22613.json успешно обновлён
+2024-10-11 16:08:18,509 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22621.json
+2024-10-11 16:08:19,360 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22617.jpg с score CLIP base: 0.45613014698028564, CLIP large: 0.4696953296661377
+2024-10-11 16:08:19,360 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22619.jpg, пропускаем.
+2024-10-11 16:08:19,360 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22616.jpg, пропускаем.
+2024-10-11 16:08:19,360 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22618.jpg, пропускаем.
+2024-10-11 16:08:19,361 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22620.jpg, пропускаем.
+2024-10-11 16:08:19,361 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22615.jpg, пропускаем.
+2024-10-11 16:08:19,361 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22621.jpg, пропускаем.
+2024-10-11 16:08:19,362 - INFO - Файл parsing/telegram_parser/data\rogov24\22621.json успешно обновлён
+2024-10-11 16:08:19,363 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22630.json
+2024-10-11 16:08:20,106 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22628.jpg с score CLIP base: 0.39057204127311707, CLIP large: 0.4916537404060364
+2024-10-11 16:08:20,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22626.jpg, пропускаем.
+2024-10-11 16:08:20,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22625.jpg, пропускаем.
+2024-10-11 16:08:20,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22623.jpg, пропускаем.
+2024-10-11 16:08:20,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22624.jpg, пропускаем.
+2024-10-11 16:08:20,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22622.jpg, пропускаем.
+2024-10-11 16:08:20,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22627.jpg, пропускаем.
+2024-10-11 16:08:20,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22629.jpg, пропускаем.
+2024-10-11 16:08:20,106 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22630.jpg, пропускаем.
+2024-10-11 16:08:20,107 - INFO - Файл parsing/telegram_parser/data\rogov24\22630.json успешно обновлён
+2024-10-11 16:08:20,107 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22638.json
+2024-10-11 16:08:20,764 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22638.jpg с score CLIP base: 0.523384690284729, CLIP large: 0.7313082218170166
+2024-10-11 16:08:20,765 - INFO - Файл parsing/telegram_parser/data\rogov24\22638.json успешно обновлён
+2024-10-11 16:08:20,766 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22650.json
+2024-10-11 16:08:21,448 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22646.jpg с score CLIP base: 0.6067874431610107, CLIP large: 0.54893559217453
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22649.jpg, пропускаем.
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22648.jpg, пропускаем.
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22650.jpg, пропускаем.
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22642.jpg, пропускаем.
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22641.jpg, пропускаем.
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22645.jpg, пропускаем.
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22647.jpg, пропускаем.
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22643.jpg, пропускаем.
+2024-10-11 16:08:21,448 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22644.jpg, пропускаем.
+2024-10-11 16:08:21,449 - INFO - Файл parsing/telegram_parser/data\rogov24\22650.json успешно обновлён
+2024-10-11 16:08:21,449 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22651.json
+2024-10-11 16:08:22,209 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22651.jpg с score CLIP base: 0.5861883759498596, CLIP large: 0.4544938802719116
+2024-10-11 16:08:22,210 - INFO - Файл parsing/telegram_parser/data\rogov24\22651.json успешно обновлён
+2024-10-11 16:08:22,211 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22881.json
+2024-10-11 16:08:22,944 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22881.jpg с score CLIP base: 0.5805917382240295, CLIP large: 0.33018431067466736
+2024-10-11 16:08:22,944 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22880.jpg, пропускаем.
+2024-10-11 16:08:22,944 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22879.jpg, пропускаем.
+2024-10-11 16:08:22,944 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22878.jpg, пропускаем.
+2024-10-11 16:08:22,944 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22877.jpg, пропускаем.
+2024-10-11 16:08:22,945 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22876.jpg, пропускаем.
+2024-10-11 16:08:22,945 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22875.jpg, пропускаем.
+2024-10-11 16:08:22,946 - INFO - Файл parsing/telegram_parser/data\rogov24\22881.json успешно обновлён
+2024-10-11 16:08:22,947 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22892.json
+2024-10-11 16:08:23,607 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22892.jpg с score CLIP base: 0.48293301463127136, CLIP large: 0.40418630838394165
+2024-10-11 16:08:23,607 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22891.jpg, пропускаем.
+2024-10-11 16:08:23,607 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22890.jpg, пропускаем.
+2024-10-11 16:08:23,608 - INFO - Файл parsing/telegram_parser/data\rogov24\22892.json успешно обновлён
+2024-10-11 16:08:23,609 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22902.json
+2024-10-11 16:08:24,282 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22896.jpg с score CLIP base: 0.4410945177078247, CLIP large: 0.673272430896759
+2024-10-11 16:08:24,282 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22895.jpg, пропускаем.
+2024-10-11 16:08:24,282 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22901.jpg, пропускаем.
+2024-10-11 16:08:24,282 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22898.jpg, пропускаем.
+2024-10-11 16:08:24,282 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22899.jpg, пропускаем.
+2024-10-11 16:08:24,282 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22897.jpg, пропускаем.
+2024-10-11 16:08:24,282 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22900.jpg, пропускаем.
+2024-10-11 16:08:24,282 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22902.jpg, пропускаем.
+2024-10-11 16:08:24,283 - INFO - Файл parsing/telegram_parser/data\rogov24\22902.json успешно обновлён
+2024-10-11 16:08:24,284 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22911.json
+2024-10-11 16:08:24,946 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22910.jpg с score CLIP base: 0.4229854643344879, CLIP large: 0.6166883707046509
+2024-10-11 16:08:24,946 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22909.jpg, пропускаем.
+2024-10-11 16:08:24,946 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22911.jpg, пропускаем.
+2024-10-11 16:08:24,946 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22908.jpg, пропускаем.
+2024-10-11 16:08:24,946 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22907.jpg, пропускаем.
+2024-10-11 16:08:24,946 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22906.jpg, пропускаем.
+2024-10-11 16:08:24,946 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22904.jpg, пропускаем.
+2024-10-11 16:08:24,947 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22905.jpg, пропускаем.
+2024-10-11 16:08:24,947 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22903.jpg, пропускаем.
+2024-10-11 16:08:24,948 - INFO - Файл parsing/telegram_parser/data\rogov24\22911.json успешно обновлён
+2024-10-11 16:08:24,948 - INFO - Начало обработки файла parsing/telegram_parser/data\rogov24\22926.json
+2024-10-11 16:08:25,670 - INFO - Обработан файл parsing/telegram_parser/data\rogov24\media\22919.jpg с score CLIP base: 0.38335224986076355, CLIP large: 0.6708749532699585
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22923.jpg, пропускаем.
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22926.jpg, пропускаем.
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22922.jpg, пропускаем.
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22917.jpg, пропускаем.
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22924.jpg, пропускаем.
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22921.jpg, пропускаем.
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22920.jpg, пропускаем.
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22918.jpg, пропускаем.
+2024-10-11 16:08:25,671 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\rogov24\media\22925.jpg, пропускаем.
+2024-10-11 16:08:25,672 - INFO - Файл parsing/telegram_parser/data\rogov24\22926.json успешно обновлён
+2024-10-11 16:08:25,673 - INFO - Начало обработки файла parsing/telegram_parser/data\voguemr\19651.json
+2024-10-11 16:08:26,351 - INFO - Обработан файл parsing/telegram_parser/data\voguemr\media\19651.jpg с score CLIP base: 0.5107309818267822, CLIP large: 0.6423395872116089
+2024-10-11 16:08:26,351 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\voguemr\media\19649.jpg, пропускаем.
+2024-10-11 16:08:26,351 - INFO - Скоры уже существуют для файла parsing/telegram_parser/data\voguemr\media\19648.jpg, пропускаем.
+2024-10-11 16:08:26,353 - INFO - Файл parsing/telegram_parser/data\voguemr\19651.json успешно обновлён
+2024-10-11 16:08:26,353 - INFO - Начало обработки файла parsing/telegram_parser/data\voguemr\19652.json
+2024-10-11 16:08:26,365 - INFO - Файл parsing/telegram_parser/data\voguemr\19652.json успешно обновлён

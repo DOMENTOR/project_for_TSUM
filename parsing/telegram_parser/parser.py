@@ -15,13 +15,15 @@ except ImportError:
         import config
 
 
-# Настройка логирования
+# Настройка логирования (когда скрипт запускается напрямую)
 logging.basicConfig(
     filename=config.LOG_FILE,
     level=getattr(logging, config.LOGGING_LEVEL),
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
+
 logger = logging.getLogger('telegram_bot_parser')
+logger.info('Логгер инициализирован.')
 
 # Убедитесь, что существует папка для хранения данных
 os.makedirs(config.DATA_FOLDER, exist_ok=True)
@@ -55,15 +57,13 @@ def prompt_credentials(phone_number_needed=True):
 
 def initialize_client(api_id=None, api_hash=None, phone_number=None, proxy=None):
     session_file = os.path.join('parsing', 'telegram_parser', 'session_name')
-    
     # Проверим, существует ли файл сессии
     if os.path.exists(session_file + '.session'):
-        logger.info(f'Файл сессии найден: {session_file}.session')
+        logger.info(f'Файл сессии найден: {session_file}')
         client = TelegramClient(session_file, api_id=api_id, api_hash=api_hash, proxy=proxy)
     else:
         logger.info('Файл сессии не найден. Запрашиваем данные для создания новой сессии.')
         client = TelegramClient(session_file, api_id=api_id, api_hash=api_hash, proxy=proxy)
-
     client.connect()
     logger.info('Клиент подключен.')
 
@@ -81,11 +81,11 @@ def initialize_client(api_id=None, api_hash=None, phone_number=None, proxy=None)
 
     return client
 
-def fetch_channel_messages(client, channel):
+def fetch_channel_messages(client, channel, limit):
     try:
         channel_entity = client.get_entity(channel)
         # Увеличиваем лимит сообщений для получения большего количества
-        messages = client.get_messages(channel_entity, limit=1000)
+        messages = client.get_messages(channel_entity, limit=limit)
         time.sleep(2)  # Добавляем паузу между запросами
         return messages
     except Exception as e:
@@ -143,6 +143,8 @@ def save_message(client, channel, message, stats):
                 media_file = f'{msg.id}.jpg'
                 media_path = os.path.join(media_folder, media_file)
                 if not os.path.exists(media_path):
+                    logger.info(f'Скачиваем {media_file}')
+                    print(f'Скачиваем {media_file}')
                     client.download_media(msg.photo, file=media_path)
                 message_data['media'].append(media_path)
                 stats['media_count'] += 1
@@ -161,6 +163,8 @@ def save_message(client, channel, message, stats):
             media_file = f'{message.id}.jpg'
             media_path = os.path.join(media_folder, media_file)
             if not os.path.exists(media_path):
+                logger.info(f'Скачиваем {media_file}')
+                print(f'Скачиваем {media_file}')
                 client.download_media(message.photo, file=media_path)
             message_data['media'].append(media_path)
             stats['media_count'] += 1
@@ -189,6 +193,8 @@ def save_message(client, channel, message, stats):
                 existing_data['reactions'] = message_data['reactions']
 
             with open(json_path, 'w', encoding='utf-8') as f:
+                logger.info(f'Сохраняем {message.id}.json')
+                print(f'Сохраняем {message.id}.json')
                 json.dump(existing_data, f, ensure_ascii=False, indent=4)
 
             if os.path.exists(message_file):
@@ -196,12 +202,25 @@ def save_message(client, channel, message, stats):
             return
 
     with open(message_file, 'w', encoding='utf-8') as f:
+        logger.info(f'Сохраняем {message.id}.json')
+        print(f'Сохраняем {message.id}.json')
         json.dump(message_data, f, ensure_ascii=False, indent=4)
 
     stats['post_count'] += 1  # Увеличиваем счетчик постов
 
 
 def __main__():
+    
+    # Настройка логирования (когда скрипт запускается из другого файла через вызов __main__())
+    logging.basicConfig(
+        filename=config.LOG_FILE,
+        level=getattr(logging, config.LOGGING_LEVEL),
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    )
+        
+    logger = logging.getLogger('telegram_bot_parser')
+    logger.info('Тестовое сообщение для проверки логгера.')
+    
     session_file = os.path.join('parsing', 'telegram_parser', 'session_name')
 
     if os.path.exists(session_file + '.session'):
@@ -222,7 +241,8 @@ def __main__():
     try:
         client = initialize_client(api_id, api_hash, phone_number, proxy)
         for channel in config.TELEGRAM_CHANNELS:
-            logger.info(f'Начало обработки канала: {channel}')
+            logger.info(f'Начало парсинга канала: {channel}')
+            print(f'Начало парсинга канала: {channel}') 
             stats = {
                 'post_count': 0,
                 'media_count': 0,
@@ -230,7 +250,7 @@ def __main__():
                 'latest_post': None
             }
 
-            messages = fetch_channel_messages(client, channel)
+            messages = fetch_channel_messages(client, channel, config.POST_LIMIT)
             for message in messages:
                 save_message(client, channel, message, stats)
 
@@ -262,8 +282,5 @@ def __main__():
 
 
 
-
-
 if __name__ == '__main__':
-    print('if_name_main_go')
     __main__()

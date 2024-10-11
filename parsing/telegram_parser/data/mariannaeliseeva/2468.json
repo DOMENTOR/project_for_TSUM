@@ -1,0 +1,166 @@
+{
+    "text": "Давно мне хотелось потестдрайвить электрокар. Я, как настоящий козерог, давай считать плюсы: бесплатные парковки (а на них я трачу около 15 тыс/месяц), зарядки на паркинге у меня нет, но они по всему городу (и городские бесплатные в том числе). \n\nТак что когда мне представилась возможность протестировать ORA и узнать, что это за чудо такое и удобно ли, естественно, я сразу согласилась. \n\nСама ORA юркая, стильная, удобная для парковки в городских условиях. Два больших монолитных дисплея, автоматическая парковка, система удержания полосы и обнаружения слепых зон. \n\nПлюс ко всему, 500 км пробега на одном заряде, 3 года гарантии и до 5 лет поддержки по истечении гарантии.\n\nORA официально представлен в России. Знакомьтесь ближе и записывайтесь на тест-драйв на сайте.",
+    "date": "2024-09-30T16:17:58+00:00",
+    "views": 49441,
+    "forwards": 197,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 754,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 258,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 174,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 27,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 15,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😍"
+                },
+                "count": 15,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤬"
+                },
+                "count": 9,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 3,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😢"
+                },
+                "count": 3,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2467.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2468.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2465.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2464.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2469.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2466.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.6586538553237915,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2467.jpg"
+        ],
+        [
+            0.5768236517906189,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2468.jpg"
+        ],
+        [
+            0.5796295404434204,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2465.jpg"
+        ],
+        [
+            0.49510490894317627,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2464.jpg"
+        ],
+        [
+            0.5042122602462769,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2469.jpg"
+        ],
+        [
+            0.5367464423179626,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2466.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.42877426743507385,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2467.jpg"
+        ],
+        [
+            0.6869195699691772,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2468.jpg"
+        ],
+        [
+            0.7390238642692566,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2465.jpg"
+        ],
+        [
+            0.7312163710594177,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2464.jpg"
+        ],
+        [
+            0.6928407549858093,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2469.jpg"
+        ],
+        [
+            0.6317922472953796,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2466.jpg"
+        ]
+    ]
+}

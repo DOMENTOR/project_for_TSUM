@@ -34,5 +34,25 @@
     "media": [
         "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6974.jpg",
         "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6975.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.37098395824432373,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6974.jpg"
+        ],
+        [
+            0.4590567350387573,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6975.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.6426296234130859,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6974.jpg"
+        ],
+        [
+            0.20906536281108856,
+            "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6975.jpg"
+        ]
     ]
 }

@@ -1,0 +1,166 @@
+{
+    "text": "А я вот после просмотра показов и стрита поехала в аутлет, смотреть, что есть в Prada. Захотелось эдакого. И поснимала немного. Все красиво и по 150.000 (одежда) минимум😅",
+    "date": "2024-09-30T14:35:20+00:00",
+    "views": 42098,
+    "forwards": 29,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 698,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 251,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 128,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 107,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 35,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😱"
+                },
+                "count": 17,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 7,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👏"
+                },
+                "count": 7,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2462.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2460.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2458.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2463.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2461.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2459.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2457.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.5146452188491821,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2462.jpg"
+        ],
+        [
+            0.35161539912223816,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2460.jpg"
+        ],
+        [
+            0.6061023473739624,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2458.jpg"
+        ],
+        [
+            0.4803101420402527,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2463.jpg"
+        ],
+        [
+            0.4710778295993805,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2461.jpg"
+        ],
+        [
+            0.41161197423934937,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2459.jpg"
+        ],
+        [
+            0.5147133469581604,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2457.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.7241978049278259,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2462.jpg"
+        ],
+        [
+            0.527214765548706,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2460.jpg"
+        ],
+        [
+            0.8200402855873108,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2458.jpg"
+        ],
+        [
+            0.731758177280426,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2463.jpg"
+        ],
+        [
+            0.7406706809997559,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2461.jpg"
+        ],
+        [
+            0.7700130343437195,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2459.jpg"
+        ],
+        [
+            0.6662769317626953,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2457.jpg"
+        ]
+    ]
+}

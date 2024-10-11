@@ -97,5 +97,25 @@
     "media": [
         "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2051.jpg",
         "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2052.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.24070067703723907,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2051.jpg"
+        ],
+        [
+            0.592491626739502,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2052.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.10812870413064957,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2051.jpg"
+        ],
+        [
+            0.503847062587738,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2052.jpg"
+        ]
     ]
 }

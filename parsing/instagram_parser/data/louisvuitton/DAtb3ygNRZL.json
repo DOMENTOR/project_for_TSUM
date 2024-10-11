@@ -14,5 +14,65 @@
         "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_6.jpg"
     ],
     "is_video": false,
-    "date": "2024-10-04T17:04:04"
+    "date": "2024-10-04T17:04:04",
+    "media_clothing_score_CLIP_base": [
+        [
+            0.5705103278160095,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_0.jpg"
+        ],
+        [
+            0.4603869616985321,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_1.jpg"
+        ],
+        [
+            0.5004591941833496,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_2.jpg"
+        ],
+        [
+            0.5795082449913025,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_3.jpg"
+        ],
+        [
+            0.4589804708957672,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_4.jpg"
+        ],
+        [
+            0.570264995098114,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_5.jpg"
+        ],
+        [
+            0.41081351041793823,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_6.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.6182964444160461,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_0.jpg"
+        ],
+        [
+            0.6036439538002014,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_1.jpg"
+        ],
+        [
+            0.8115556240081787,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_2.jpg"
+        ],
+        [
+            0.6555916666984558,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_3.jpg"
+        ],
+        [
+            0.7520164847373962,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_4.jpg"
+        ],
+        [
+            0.7098520994186401,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_5.jpg"
+        ],
+        [
+            0.6294663548469543,
+            "parsing/instagram_parser/data\\louisvuitton\\media\\DAtb3ygNRZL_6.jpg"
+        ]
+    ]
 }

@@ -1,0 +1,175 @@
+{
+    "text": "Тем, кто любит все вокруг присыпать блестящим, эти картинки понравятся😅\n\nХотя и замечено, что крупных одиночных украшений все меньше. Либо мелкий многослойный обвес, либо чистенькие образы.",
+    "date": "2024-10-01T11:33:23+00:00",
+    "views": 47723,
+    "forwards": 45,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 609,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 171,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 95,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "😁"
+                },
+                "count": 44,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤩"
+                },
+                "count": 22,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤‍🔥"
+                },
+                "count": 11,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🥰"
+                },
+                "count": 8,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2477.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2474.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2471.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2479.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2473.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2475.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2478.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2472.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2470.jpg",
+        "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2476.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.4932617247104645,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2477.jpg"
+        ],
+        [
+            0.326138973236084,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2474.jpg"
+        ],
+        [
+            0.4604182541370392,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2471.jpg"
+        ],
+        [
+            0.49594318866729736,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2479.jpg"
+        ],
+        [
+            0.48376935720443726,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2473.jpg"
+        ],
+        [
+            0.34697118401527405,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2475.jpg"
+        ],
+        [
+            0.43302544951438904,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2478.jpg"
+        ],
+        [
+            0.46943145990371704,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2472.jpg"
+        ],
+        [
+            0.5089483261108398,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2470.jpg"
+        ],
+        [
+            0.5526467561721802,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2476.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.7766138315200806,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2477.jpg"
+        ],
+        [
+            0.752854585647583,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2474.jpg"
+        ],
+        [
+            0.5069785714149475,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2471.jpg"
+        ],
+        [
+            0.7770772576332092,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2479.jpg"
+        ],
+        [
+            0.6542335748672485,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2473.jpg"
+        ],
+        [
+            0.7856683731079102,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2475.jpg"
+        ],
+        [
+            0.6494366526603699,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2478.jpg"
+        ],
+        [
+            0.6972393989562988,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2472.jpg"
+        ],
+        [
+            0.7949680089950562,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2470.jpg"
+        ],
+        [
+            0.56340092420578,
+            "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2476.jpg"
+        ]
+    ]
+}

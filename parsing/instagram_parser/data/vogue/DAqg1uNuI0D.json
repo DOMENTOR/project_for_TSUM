@@ -8,5 +8,17 @@
         "parsing/instagram_parser/data\\vogue\\media\\DAqg1uNuI0D.jpg"
     ],
     "is_video": false,
-    "date": "2024-10-03T13:50:44"
+    "date": "2024-10-03T13:50:44",
+    "media_clothing_score_CLIP_base": [
+        [
+            0.3569605052471161,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqg1uNuI0D.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.608803927898407,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqg1uNuI0D.jpg"
+        ]
+    ]
 }

@@ -9,5 +9,25 @@
         "parsing/instagram_parser/data\\gucci\\media\\DAd3ykGMUkb_1.jpg"
     ],
     "is_video": false,
-    "date": "2024-09-28T16:00:00"
+    "date": "2024-09-28T16:00:00",
+    "media_clothing_score_CLIP_base": [
+        [
+            0.46117743849754333,
+            "parsing/instagram_parser/data\\gucci\\media\\DAd3ykGMUkb_0.jpg"
+        ],
+        [
+            0.4360084533691406,
+            "parsing/instagram_parser/data\\gucci\\media\\DAd3ykGMUkb_1.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.5351821780204773,
+            "parsing/instagram_parser/data\\gucci\\media\\DAd3ykGMUkb_0.jpg"
+        ],
+        [
+            0.4449695646762848,
+            "parsing/instagram_parser/data\\gucci\\media\\DAd3ykGMUkb_1.jpg"
+        ]
+    ]
 }

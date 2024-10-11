@@ -54,55 +54,33 @@ def load_from_excel():
             messagebox.showerror("Ошибка", f"Не удалось загрузить файл: {e}")
     return [], []
 
-def start_instagram(instagram_accounts, post_limit, use_proxy_var_inst):
-    def run():
-        insta_config.INSTAGRAM_PROFILES = instagram_accounts
-        insta_config.POST_LIMIT = post_limit
-        # Сохраняем выбор пользователя в конфигурацию перед вызовом парсера
-        insta_config.USE_PROXY = use_proxy_var_inst.get()
-        instagram_main()
+# Функция для запуска парсинга Telegram
+def start_telegram_only(telegram_channels, post_limit_tg, use_proxy_var_tg):
+    tg_config.TELEGRAM_CHANNELS = telegram_channels
+    tg_config.POST_LIMIT = post_limit_tg
+    tg_config.USE_PROXY = use_proxy_var_tg.get()
+    telegram_main()
 
-    threading.Thread(target=run).start()
+# Функция для запуска парсинга Instagram
+def start_instagram_only(instagram_accounts, post_limit_inst, use_proxy_var_inst):
+    insta_config.INSTAGRAM_PROFILES = instagram_accounts
+    insta_config.POST_LIMIT = post_limit_inst
+    insta_config.USE_PROXY = use_proxy_var_inst.get()
+    instagram_main()
 
-def start_telegram(telegram_channels, post_limit, use_proxy_var_tg):
-    def run():
-        tg_config.TELEGRAM_CHANNELS = telegram_channels
-        tg_config.POST_LIMIT = post_limit
-        # Сохраняем выбор пользователя в конфигурацию перед вызовом парсера
-        tg_config.USE_PROXY = use_proxy_var_tg.get()
-        telegram_main()
-
-    threading.Thread(target=run).start()
-
-# Функция для запуска всего процесса парсинга
-def start_parsing(use_proxy_var_inst, use_proxy_var_tg):
-    # Получение значений из загруженного Excel файла
-    post_limit = post_limit_entry.get()  # Получаем количество постов
-    if post_limit.isdigit():
-        post_limit = int(post_limit)
-    else:
-        messagebox.showwarning("Ошибка", "Введите корректное число для лимита постов")
-        return
-
-    if not insta_channels and not tg_channels:
-        messagebox.showwarning("Предупреждение", "Не указаны ни Instagram аккаунты, ни Telegram каналы.")
-        return
-
-    # Запуск парсинга Instagram и Telegram в разных потоках
-    if insta_channels:
-        start_instagram(insta_channels, post_limit, use_proxy_var_inst)
-    
-    if tg_channels:
-        start_telegram(tg_channels, post_limit, use_proxy_var_tg)
-
+# Функция для полного парсинга (Telegram + Instagram)
+def start_full_parsing(telegram_channels, instagram_accounts, post_limit_tg, post_limit_inst, use_proxy_var_tg, use_proxy_var_inst):
+    start_telegram_only(telegram_channels, post_limit_tg, use_proxy_var_tg)
+    start_instagram_only(instagram_accounts, post_limit_inst, use_proxy_var_inst)
 
 # GUI (Graphical User Interface)
 def create_gui():
     root = tk.Tk()
     root.title("Парсер для Instagram и Telegram")
-    root.geometry("400x300")
+    root.geometry("400x400")
 
     # Создаём переменные use_proxy_var_inst и use_proxy_var_tg после инициализации root
+    global use_proxy_var_inst, use_proxy_var_tg
     use_proxy_var_inst = tk.BooleanVar()
     use_proxy_var_tg = tk.BooleanVar()
 
@@ -112,23 +90,36 @@ def create_gui():
     # Кнопка для загрузки списка каналов из Excel
     tk.Button(root, text="Загрузить список из Excel", command=load_channels_from_excel).grid(row=1, column=0, columnspan=2, pady=10, padx=10, sticky="ew")
 
-    # Поле для ввода количества постов
-    tk.Label(root, text="Количество постов для парсинга:").grid(row=2, column=0, padx=10, sticky="w")
-    global post_limit_entry
-    post_limit_entry = tk.Entry(root, width=10)
-    post_limit_entry.grid(row=2, column=1, padx=10)
-    post_limit_entry.insert(0, "5")
+    # Поле для ввода количества постов для Telegram
+    tk.Label(root, text="Количество постов для Telegram:").grid(row=2, column=0, padx=10, sticky="w")
+    global post_limit_tg_entry
+    post_limit_tg_entry = tk.Entry(root, width=10)
+    post_limit_tg_entry.grid(row=2, column=1, padx=10)
+    post_limit_tg_entry.insert(0, "5")
+
+    # Поле для ввода количества постов для Instagram
+    tk.Label(root, text="Количество постов для Instagram:").grid(row=3, column=0, padx=10, sticky="w")
+    global post_limit_inst_entry
+    post_limit_inst_entry = tk.Entry(root, width=10)
+    post_limit_inst_entry.grid(row=3, column=1, padx=10)
+    post_limit_inst_entry.insert(0, "5")
 
     # Флажок для выбора использования прокси TG
     proxy_checkbox_tg = tk.Checkbutton(root, text="Использовать прокси TG", variable=use_proxy_var_tg)
-    proxy_checkbox_tg.grid(row=3, column=0, columnspan=2, pady=5, padx=10, sticky="w")
+    proxy_checkbox_tg.grid(row=4, column=0, columnspan=2, pady=5, padx=10, sticky="w")
 
     # Флажок для выбора использования прокси Inst
     proxy_checkbox_inst = tk.Checkbutton(root, text="Использовать прокси Inst", variable=use_proxy_var_inst)
-    proxy_checkbox_inst.grid(row=4, column=0, columnspan=2, pady=5, padx=10, sticky="w")
+    proxy_checkbox_inst.grid(row=5, column=0, columnspan=2, pady=5, padx=10, sticky="w")
 
-    # Кнопка для запуска парсинга
-    tk.Button(root, text="Запустить парсинг", command=lambda: start_parsing(use_proxy_var_inst, use_proxy_var_tg)).grid(row=5, column=0, columnspan=2, pady=20, padx=10, sticky="ew")
+    # Кнопка для запуска парсинга только Telegram
+    tk.Button(root, text="Запустить парсинг Telegram", command=lambda: start_telegram_only(tg_channels, int(post_limit_tg_entry.get()), use_proxy_var_tg)).grid(row=6, column=0, pady=10, padx=10, sticky="ew")
+
+    # Кнопка для запуска парсинга только Instagram
+    tk.Button(root, text="Запустить парсинг Instagram", command=lambda: start_instagram_only(insta_channels, int(post_limit_inst_entry.get()), use_proxy_var_inst)).grid(row=7, column=0, pady=10, padx=10, sticky="ew")
+
+    # Кнопка для запуска полного парсинга (Telegram + Instagram)
+    tk.Button(root, text="Полный парсинг (Telegram + Instagram)", command=lambda: start_full_parsing(tg_channels, insta_channels, int(post_limit_tg_entry.get()), int(post_limit_inst_entry.get()), use_proxy_var_tg, use_proxy_var_inst)).grid(row=8, column=0, columnspan=2, pady=10, padx=10, sticky="ew")
 
     root.mainloop()
 

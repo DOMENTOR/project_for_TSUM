@@ -1,0 +1,94 @@
+{
+    "text": "Кендалл Дженнер в объективе Мерта Аласа для новой рекламной кампании Calvin Klein Studio.",
+    "date": "2024-10-11T09:25:49+00:00",
+    "views": 6319,
+    "forwards": 14,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 244,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "💋"
+                },
+                "count": 38,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🤔"
+                },
+                "count": 7,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🗿"
+                },
+                "count": 4,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🔥"
+                },
+                "count": 2,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "media": [
+        "parsing/telegram_parser/data\\voguemr\\media\\19651.jpg",
+        "parsing/telegram_parser/data\\voguemr\\media\\19649.jpg",
+        "parsing/telegram_parser/data\\voguemr\\media\\19648.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.5107309818267822,
+            "parsing/telegram_parser/data\\voguemr\\media\\19651.jpg"
+        ],
+        [
+            0.5204577445983887,
+            "parsing/telegram_parser/data\\voguemr\\media\\19649.jpg"
+        ],
+        [
+            0.48597750067710876,
+            "parsing/telegram_parser/data\\voguemr\\media\\19648.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.6423395872116089,
+            "parsing/telegram_parser/data\\voguemr\\media\\19651.jpg"
+        ],
+        [
+            0.43329665064811707,
+            "parsing/telegram_parser/data\\voguemr\\media\\19649.jpg"
+        ],
+        [
+            0.34396854043006897,
+            "parsing/telegram_parser/data\\voguemr\\media\\19648.jpg"
+        ]
+    ]
+}

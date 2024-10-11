@@ -84,5 +84,65 @@
         "parsing/telegram_parser/data\\rogov24\\media\\22877.jpg",
         "parsing/telegram_parser/data\\rogov24\\media\\22876.jpg",
         "parsing/telegram_parser/data\\rogov24\\media\\22875.jpg"
+    ],
+    "media_clothing_score_CLIP_base": [
+        [
+            0.5805917382240295,
+            "parsing/telegram_parser/data\\rogov24\\media\\22881.jpg"
+        ],
+        [
+            0.5806307196617126,
+            "parsing/telegram_parser/data\\rogov24\\media\\22880.jpg"
+        ],
+        [
+            0.5345788598060608,
+            "parsing/telegram_parser/data\\rogov24\\media\\22879.jpg"
+        ],
+        [
+            0.5785030722618103,
+            "parsing/telegram_parser/data\\rogov24\\media\\22878.jpg"
+        ],
+        [
+            0.610556423664093,
+            "parsing/telegram_parser/data\\rogov24\\media\\22877.jpg"
+        ],
+        [
+            0.5184376239776611,
+            "parsing/telegram_parser/data\\rogov24\\media\\22876.jpg"
+        ],
+        [
+            0.5513982772827148,
+            "parsing/telegram_parser/data\\rogov24\\media\\22875.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.33018431067466736,
+            "parsing/telegram_parser/data\\rogov24\\media\\22881.jpg"
+        ],
+        [
+            0.7747177481651306,
+            "parsing/telegram_parser/data\\rogov24\\media\\22880.jpg"
+        ],
+        [
+            0.4663252830505371,
+            "parsing/telegram_parser/data\\rogov24\\media\\22879.jpg"
+        ],
+        [
+            0.6164822578430176,
+            "parsing/telegram_parser/data\\rogov24\\media\\22878.jpg"
+        ],
+        [
+            0.5131393671035767,
+            "parsing/telegram_parser/data\\rogov24\\media\\22877.jpg"
+        ],
+        [
+            0.5229031443595886,
+            "parsing/telegram_parser/data\\rogov24\\media\\22876.jpg"
+        ],
+        [
+            0.7349496483802795,
+            "parsing/telegram_parser/data\\rogov24\\media\\22875.jpg"
+        ]
     ]
 }

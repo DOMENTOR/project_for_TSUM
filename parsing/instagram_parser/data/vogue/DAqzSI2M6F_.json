@@ -13,5 +13,57 @@
         "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__5.jpg"
     ],
     "is_video": false,
-    "date": "2024-10-03T17:00:36"
+    "date": "2024-10-03T17:00:36",
+    "media_clothing_score_CLIP_base": [
+        [
+            0.4380709230899811,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__0.jpg"
+        ],
+        [
+            0.49823904037475586,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__1.jpg"
+        ],
+        [
+            0.5370267033576965,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__2.jpg"
+        ],
+        [
+            0.4146367907524109,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__3.jpg"
+        ],
+        [
+            0.6051835417747498,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__4.jpg"
+        ],
+        [
+            0.4437214136123657,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__5.jpg"
+        ]
+    ],
+    "media_clothing_score_CLIP_large": [
+        [
+            0.5244817137718201,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__0.jpg"
+        ],
+        [
+            0.6322462558746338,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__1.jpg"
+        ],
+        [
+            0.5185840129852295,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__2.jpg"
+        ],
+        [
+            0.681928277015686,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__3.jpg"
+        ],
+        [
+            0.6822256445884705,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__4.jpg"
+        ],
+        [
+            0.7024239897727966,
+            "parsing/instagram_parser/data\\vogue\\media\\DAqzSI2M6F__5.jpg"
+        ]
+    ]
 }
