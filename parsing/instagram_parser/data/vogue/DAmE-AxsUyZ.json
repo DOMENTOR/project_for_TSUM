@@ -17,61 +17,61 @@
     "date": "2024-10-01T20:30:05",
     "media_clothing_score_CLIP_base": [
         [
-            0.5319801568984985,
+            0.5402857661247253,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_0.jpg"
         ],
         [
-            0.5425238609313965,
+            0.6408742666244507,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_1.jpg"
         ],
         [
-            0.5763263702392578,
+            0.7003175020217896,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_2.jpg"
         ],
         [
-            0.5273982882499695,
+            0.6419161558151245,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_3.jpg"
         ],
         [
-            0.573962926864624,
+            0.5569771528244019,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_4.jpg"
         ],
         [
-            0.45851823687553406,
+            0.6023352742195129,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_5.jpg"
         ],
         [
-            0.5202882885932922,
+            0.6386869549751282,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_6.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.773909330368042,
+            0.9135175943374634,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_0.jpg"
         ],
         [
-            0.5912789702415466,
+            0.9814836382865906,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_1.jpg"
         ],
         [
-            0.8211396336555481,
+            0.9721860885620117,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_2.jpg"
         ],
         [
-            0.7305924296379089,
+            0.9710240960121155,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_3.jpg"
         ],
         [
-            0.6275610327720642,
+            0.8820605278015137,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_4.jpg"
         ],
         [
-            0.7710276246070862,
+            0.9594859480857849,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_5.jpg"
         ],
         [
-            0.6845152974128723,
+            0.9908879995346069,
             "parsing/instagram_parser/data\\vogue\\media\\DAmE-AxsUyZ_6.jpg"
         ]
     ]

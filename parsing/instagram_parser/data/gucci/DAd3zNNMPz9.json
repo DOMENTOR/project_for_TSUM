@@ -11,13 +11,13 @@
     "date": "2024-09-28T12:00:00",
     "media_clothing_score_CLIP_base": [
         [
-            0.45754334330558777,
+            0.767713725566864,
             "parsing/instagram_parser/data\\gucci\\media\\DAd3zNNMPz9.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.46102389693260193,
+            0.9485208988189697,
             "parsing/instagram_parser/data\\gucci\\media\\DAd3zNNMPz9.jpg"
         ]
     ]

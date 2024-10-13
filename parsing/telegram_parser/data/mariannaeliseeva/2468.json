@@ -113,53 +113,53 @@
     ],
     "media_clothing_score_CLIP_base": [
         [
-            0.6586538553237915,
+            0.6136748194694519,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2467.jpg"
         ],
         [
-            0.5768236517906189,
+            0.23066309094429016,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2468.jpg"
         ],
         [
-            0.5796295404434204,
+            0.22577449679374695,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2465.jpg"
         ],
         [
-            0.49510490894317627,
+            0.3676382601261139,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2464.jpg"
         ],
         [
-            0.5042122602462769,
+            0.3542022407054901,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2469.jpg"
         ],
         [
-            0.5367464423179626,
+            0.4282221496105194,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2466.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.42877426743507385,
+            0.9612827301025391,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2467.jpg"
         ],
         [
-            0.6869195699691772,
+            0.820412278175354,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2468.jpg"
         ],
         [
-            0.7390238642692566,
+            0.48511919379234314,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2465.jpg"
         ],
         [
-            0.7312163710594177,
+            0.7574782371520996,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2464.jpg"
         ],
         [
-            0.6928407549858093,
+            0.49177122116088867,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2469.jpg"
         ],
         [
-            0.6317922472953796,
+            0.38608238101005554,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2466.jpg"
         ]
     ]

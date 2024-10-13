@@ -13,29 +13,29 @@
     "date": "2024-10-05T15:13:27",
     "media_clothing_score_CLIP_base": [
         [
-            0.5372457504272461,
+            0.25855591893196106,
             "parsing/instagram_parser/data\\vogue\\media\\DAvz_0nMirG_0.jpg"
         ],
         [
-            0.4858255088329315,
+            0.5867791175842285,
             "parsing/instagram_parser/data\\vogue\\media\\DAvz_0nMirG_1.jpg"
         ],
         [
-            0.5260992646217346,
+            0.49997997283935547,
             "parsing/instagram_parser/data\\vogue\\media\\DAvz_0nMirG_2.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.49475905299186707,
+            0.4798659384250641,
             "parsing/instagram_parser/data\\vogue\\media\\DAvz_0nMirG_0.jpg"
         ],
         [
-            0.3547748327255249,
+            0.9186265468597412,
             "parsing/instagram_parser/data\\vogue\\media\\DAvz_0nMirG_1.jpg"
         ],
         [
-            0.4632144570350647,
+            0.8933979272842407,
             "parsing/instagram_parser/data\\vogue\\media\\DAvz_0nMirG_2.jpg"
         ]
     ]

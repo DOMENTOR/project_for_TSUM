@@ -97,69 +97,69 @@
     ],
     "media_clothing_score_CLIP_base": [
         [
-            0.5239346623420715,
+            0.6255448460578918,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2496.jpg"
         ],
         [
-            0.4946606159210205,
+            0.8121088743209839,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2493.jpg"
         ],
         [
-            0.5524072051048279,
+            0.7155603170394897,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2495.jpg"
         ],
         [
-            0.5899604558944702,
+            0.695189356803894,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2494.jpg"
         ],
         [
-            0.5604143142700195,
+            0.7094443440437317,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2498.jpg"
         ],
         [
-            0.492524653673172,
+            0.6375069618225098,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2492.jpg"
         ],
         [
-            0.5422218441963196,
+            0.8319493532180786,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2499.jpg"
         ],
         [
-            0.5178261399269104,
+            0.6340920329093933,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2497.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.6816446185112,
+            0.9165242314338684,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2496.jpg"
         ],
         [
-            0.5228955149650574,
+            0.9723381400108337,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2493.jpg"
         ],
         [
-            0.52633136510849,
+            0.9956676959991455,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2495.jpg"
         ],
         [
-            0.6200690865516663,
+            0.9720121622085571,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2494.jpg"
         ],
         [
-            0.7796362638473511,
+            0.9929654598236084,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2498.jpg"
         ],
         [
-            0.4807882010936737,
+            0.9887195229530334,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2492.jpg"
         ],
         [
-            0.6235895752906799,
+            0.9623488187789917,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2499.jpg"
         ],
         [
-            0.6612353324890137,
+            0.981046736240387,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2497.jpg"
         ]
     ]

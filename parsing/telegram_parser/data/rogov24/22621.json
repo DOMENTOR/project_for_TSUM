@@ -87,61 +87,61 @@
     ],
     "media_clothing_score_CLIP_base": [
         [
-            0.45613014698028564,
+            0.6156991124153137,
             "parsing/telegram_parser/data\\rogov24\\media\\22617.jpg"
         ],
         [
-            0.4505179822444916,
+            0.5073160529136658,
             "parsing/telegram_parser/data\\rogov24\\media\\22619.jpg"
         ],
         [
-            0.4180058240890503,
+            0.700782060623169,
             "parsing/telegram_parser/data\\rogov24\\media\\22616.jpg"
         ],
         [
-            0.48983901739120483,
+            0.7158276438713074,
             "parsing/telegram_parser/data\\rogov24\\media\\22618.jpg"
         ],
         [
-            0.4080924391746521,
+            0.6839635968208313,
             "parsing/telegram_parser/data\\rogov24\\media\\22620.jpg"
         ],
         [
-            0.4180058240890503,
+            0.700782060623169,
             "parsing/telegram_parser/data\\rogov24\\media\\22615.jpg"
         ],
         [
-            0.38520166277885437,
+            0.6425275206565857,
             "parsing/telegram_parser/data\\rogov24\\media\\22621.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.4696953296661377,
+            0.7925025224685669,
             "parsing/telegram_parser/data\\rogov24\\media\\22617.jpg"
         ],
         [
-            0.5676679611206055,
+            0.7694573402404785,
             "parsing/telegram_parser/data\\rogov24\\media\\22619.jpg"
         ],
         [
-            0.8810585737228394,
+            0.9317960739135742,
             "parsing/telegram_parser/data\\rogov24\\media\\22616.jpg"
         ],
         [
-            0.4688493311405182,
+            0.9785751104354858,
             "parsing/telegram_parser/data\\rogov24\\media\\22618.jpg"
         ],
         [
-            0.564803957939148,
+            0.9555261731147766,
             "parsing/telegram_parser/data\\rogov24\\media\\22620.jpg"
         ],
         [
-            0.8810585737228394,
+            0.9317960739135742,
             "parsing/telegram_parser/data\\rogov24\\media\\22615.jpg"
         ],
         [
-            0.4448026418685913,
+            0.9430804252624512,
             "parsing/telegram_parser/data\\rogov24\\media\\22621.jpg"
         ]
     ]

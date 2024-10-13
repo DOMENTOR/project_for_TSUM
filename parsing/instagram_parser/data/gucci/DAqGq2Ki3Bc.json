@@ -21,93 +21,93 @@
     "date": "2024-10-03T10:01:05",
     "media_clothing_score_CLIP_base": [
         [
-            0.5380911231040955,
+            0.7286302447319031,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_0.jpg"
         ],
         [
-            0.49897050857543945,
+            0.8633309006690979,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_1.jpg"
         ],
         [
-            0.4932069182395935,
+            0.6568654775619507,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_2.jpg"
         ],
         [
-            0.5327066779136658,
+            0.637352705001831,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_3.jpg"
         ],
         [
-            0.5802233815193176,
+            0.7795510292053223,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_4.jpg"
         ],
         [
-            0.48036491870880127,
+            0.6843068599700928,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_5.jpg"
         ],
         [
-            0.5908907651901245,
+            0.7787081599235535,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_6.jpg"
         ],
         [
-            0.5015630722045898,
+            0.5988598465919495,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_7.jpg"
         ],
         [
-            0.6191847920417786,
+            0.7519282698631287,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_8.jpg"
         ],
         [
-            0.5784672498703003,
+            0.38251033425331116,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_9.jpg"
         ],
         [
-            0.5055744647979736,
+            0.4494100511074066,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_10.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.8508874177932739,
+            0.9166468977928162,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_0.jpg"
         ],
         [
-            0.7381418347358704,
+            0.8976502418518066,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_1.jpg"
         ],
         [
-            0.47452110052108765,
+            0.8743327260017395,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_2.jpg"
         ],
         [
-            0.6058236360549927,
+            0.7593201994895935,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_3.jpg"
         ],
         [
-            0.7443944215774536,
+            0.9681175351142883,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_4.jpg"
         ],
         [
-            0.8247559666633606,
+            0.9189448952674866,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_5.jpg"
         ],
         [
-            0.681342601776123,
+            0.7226065397262573,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_6.jpg"
         ],
         [
-            0.7084712386131287,
+            0.9124415516853333,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_7.jpg"
         ],
         [
-            0.8274359107017517,
+            0.9324185848236084,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_8.jpg"
         ],
         [
-            0.6677871346473694,
+            0.7134719491004944,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_9.jpg"
         ],
         [
-            0.9098014831542969,
+            0.811457097530365,
             "parsing/instagram_parser/data\\gucci\\media\\DAqGq2Ki3Bc_10.jpg"
         ]
     ]

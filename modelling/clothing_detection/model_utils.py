@@ -11,7 +11,7 @@ clip_base_processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch3
 
 def classify_image_clip_base(image_path):
     image = Image.open(image_path)
-    inputs = clip_base_processor(text=["человек в одежде", "человек без одежды"], images=image, return_tensors="pt", padding=True)
+    inputs = clip_base_processor(text=['Is clothes', 'Is not clothes'], images=image, return_tensors="pt", padding=True)
     outputs = clip_base_model(**inputs)
     logits_per_image = outputs.logits_per_image
     probs = logits_per_image.softmax(dim=1)
@@ -25,7 +25,7 @@ clip_large_processor = CLIPProcessor.from_pretrained("openai/clip-vit-large-patc
 
 def classify_image_clip_large(image_path):
     image = Image.open(image_path)
-    inputs = clip_large_processor(text=["человек в одежде", "человек без одежды"], images=image, return_tensors="pt", padding=True)
+    inputs = clip_large_processor(text=['Is clothes', 'Is not clothes'], images=image, return_tensors="pt", padding=True)
     outputs = clip_large_model(**inputs)
     logits_per_image = outputs.logits_per_image
     probs = logits_per_image.softmax(dim=1)

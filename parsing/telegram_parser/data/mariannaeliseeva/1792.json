@@ -108,13 +108,13 @@
     ],
     "media_clothing_score_CLIP_base": [
         [
-            0.751582682132721,
+            0.2870158851146698,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\1789.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.5668560266494751,
+            0.13110923767089844,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\1789.jpg"
         ]
     ]

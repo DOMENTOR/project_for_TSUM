@@ -63,13 +63,13 @@
     ],
     "media_clothing_score_CLIP_base": [
         [
-            0.4667525589466095,
+            0.5298036336898804,
             "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6567.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.6375724077224731,
+            0.546998143196106,
             "parsing/telegram_parser/data\\OVECHKIN_NIKOLAY\\media\\6567.jpg"
         ]
     ]

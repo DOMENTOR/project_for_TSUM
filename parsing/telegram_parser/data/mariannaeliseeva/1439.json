@@ -99,85 +99,85 @@
     ],
     "media_clothing_score_CLIP_base": [
         [
-            0.5252541899681091,
+            0.4004049301147461,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2094.jpg"
         ],
         [
-            0.3112342357635498,
+            0.5710906982421875,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2212.jpg"
         ],
         [
-            0.6059721112251282,
+            0.7035418748855591,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2238.jpg"
         ],
         [
-            0.26255184412002563,
+            0.3155134916305542,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2125.jpg"
         ],
         [
-            0.6354531645774841,
+            0.46028608083724976,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2329.jpg"
         ],
         [
-            0.6455385088920593,
+            0.530081570148468,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2348.jpg"
         ],
         [
-            0.588625431060791,
+            0.795569121837616,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2490.jpg"
         ],
         [
-            0.6008161306381226,
+            0.650260865688324,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2412.jpg"
         ],
         [
-            0.433076947927475,
+            0.879136860370636,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2282.jpg"
         ],
         [
-            0.6183650493621826,
+            0.8969634175300598,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2095.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.5593939423561096,
+            0.8874361515045166,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2094.jpg"
         ],
         [
-            0.388040155172348,
+            0.7312113642692566,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2212.jpg"
         ],
         [
-            0.40369221568107605,
+            0.7239140868186951,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2238.jpg"
         ],
         [
-            0.7804715633392334,
+            0.5205384492874146,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2125.jpg"
         ],
         [
-            0.597296416759491,
+            0.8384575843811035,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2329.jpg"
         ],
         [
-            0.6404526829719543,
+            0.9071592688560486,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2348.jpg"
         ],
         [
-            0.862448513507843,
+            0.9349403381347656,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2490.jpg"
         ],
         [
-            0.2263718694448471,
+            0.20610052347183228,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2412.jpg"
         ],
         [
-            0.7281118035316467,
+            0.9862400889396667,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2282.jpg"
         ],
         [
-            0.46126842498779297,
+            0.42005541920661926,
             "parsing/telegram_parser/data\\mariannaeliseeva\\media\\2095.jpg"
         ]
     ]

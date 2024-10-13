@@ -11,13 +11,13 @@
     "date": "2024-10-03T13:50:44",
     "media_clothing_score_CLIP_base": [
         [
-            0.3569605052471161,
+            0.5015087127685547,
             "parsing/instagram_parser/data\\vogue\\media\\DAqg1uNuI0D.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.608803927898407,
+            0.9954164028167725,
             "parsing/instagram_parser/data\\vogue\\media\\DAqg1uNuI0D.jpg"
         ]
     ]

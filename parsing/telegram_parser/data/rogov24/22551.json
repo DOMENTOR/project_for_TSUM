@@ -83,29 +83,29 @@
     ],
     "media_clothing_score_CLIP_base": [
         [
-            0.48858317732810974,
+            0.6794167757034302,
             "parsing/telegram_parser/data\\rogov24\\media\\22543.jpg"
         ],
         [
-            0.4770031273365021,
+            0.7298700213432312,
             "parsing/telegram_parser/data\\rogov24\\media\\22547.jpg"
         ],
         [
-            0.46906372904777527,
+            0.8653183579444885,
             "parsing/telegram_parser/data\\rogov24\\media\\22546.jpg"
         ]
     ],
     "media_clothing_score_CLIP_large": [
         [
-            0.19018086791038513,
+            0.7360724210739136,
             "parsing/telegram_parser/data\\rogov24\\media\\22543.jpg"
         ],
         [
-            0.6964707970619202,
+            0.8869245052337646,
             "parsing/telegram_parser/data\\rogov24\\media\\22547.jpg"
         ],
         [
-            0.4489273428916931,
+            0.9632035493850708,
             "parsing/telegram_parser/data\\rogov24\\media\\22546.jpg"
         ]
     ]
