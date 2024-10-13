@@ -1,4 +1,4 @@
-# Список Telegram каналов для парсинга
+# Список Telegram каналов для парсинга (сейчал подтягивается из Excel)
 TELEGRAM_CHANNELS = [
     'rogov24',
     'mariannaeliseeva',
@@ -14,7 +14,7 @@ LOGGING_LEVEL = 'DEBUG'  # Может быть 'DEBUG', 'INFO', 'WARNING', 'ERRO
 LOG_FILE = 'parsing/telegram_parser/parsing.log'
 
 # Опциональные настройки прокси (если необходимо)
-PROXY_URL = None  # Пример: 'http://proxy.example.com:1234'
+PROXY_URL = None  # Пример: 'socks5://qxXsZ9:0aC4qC@45.91.209.142:13362'
 USE_PROXY = False  # По умолчанию не используем прокси
 
 # Интервал обновлений в секундах

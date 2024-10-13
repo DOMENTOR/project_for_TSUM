@@ -9,5 +9,5 @@ LOGGING_LEVEL = "INFO"
 # Принудительный пересчёт всех скоров (если True, пересчитываются все скоры, даже если они уже существуют)
 FORCE_RECALCULATE_SCORES = True # False - default
 
-# Пути к папкам с данными
+# Пути к папкам с данными (JSON, внутри папка media с фотографиями)
 DATA_FOLDERS = ["parsing/telegram_parser/data", "parsing/instagram_parser/data"]

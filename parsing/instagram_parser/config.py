@@ -1,4 +1,4 @@
-# Список Instagram профилей для парсинга
+# Список Instagram профилей для парсинга (сейчал подтягивается из Excel)
 INSTAGRAM_PROFILES = [
     'vogue',
     'gucci',
@@ -14,7 +14,7 @@ LOGGING_LEVEL = 'INFO'  # Может быть 'DEBUG', 'INFO', 'WARNING', 'ERROR
 LOG_FILE = 'parsing/instagram_parser/parsing.log'
 
 # Опциональные настройки прокси (если необходимо)
-PROXY_URL = None  # Пример: 'http://proxy.example.com:1234'
+PROXY_URL = None  # Пример: 'socks5://qxXsZ9:0aC4qC@45.91.209.142:13362'
 USE_PROXY = False  # По умолчанию не используем прокси
 
 # Интервал обновлений в секундах

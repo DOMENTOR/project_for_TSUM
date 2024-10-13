@@ -2,8 +2,6 @@ import os
 import json
 import logging
 from config import LOG_FILE_CLASSIFY, LOGGING_LEVEL, FORCE_RECALCULATE_SCORES, DATA_FOLDERS
-
-# Импорты моделей для классификации
 try:
     from modelling.clothing_detection.model_utils import classify_image_clip_base, classify_image_clip_large
 except ImportError:
@@ -12,7 +10,7 @@ except ImportError:
     except ImportError:
         from model_utils import classify_image_clip_base, classify_image_clip_large
 
-# Настройка логирования
+
 logging.basicConfig(
     filename=LOG_FILE_CLASSIFY,
     level=getattr(logging, LOGGING_LEVEL),
@@ -24,7 +22,7 @@ logger = logging.getLogger(__name__)
 def process_json_files():
     """
     Обрабатывает JSON-файлы в указанных директориях, выполняя классификацию изображений на наличие одежды
-    с использованием двух моделей CLIP: базовой и большой версии.
+    с использованием двух моделей CLIP: базовой и продвинутой версии.
     """
     for folder in DATA_FOLDERS:
         for root, dirs, files in os.walk(folder):
@@ -66,9 +64,8 @@ def process_json_files():
                                 continue
 
                             if os.path.exists(media_path):
-                                # Классифицируем изображение для базовой версии CLIP
+                                # Применяем базовую и продвинутую CLIP
                                 clothing_score_clip_base = classify_image_clip_base(media_path)
-                                # Классифицируем изображение для большой версии CLIP
                                 clothing_score_clip_large = classify_image_clip_large(media_path)
                                 
                                 # Запись скоринга для каждой модели (перезапись при необходимости)

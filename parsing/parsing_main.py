@@ -3,7 +3,7 @@ from tkinter import filedialog, messagebox
 import pandas as pd
 import shutil
 import os
-import threading
+# import threading
 try:
     from parsing.instagram_parser.parser import __main__ as instagram_main
     from parsing.telegram_parser.parser import __main__ as telegram_main

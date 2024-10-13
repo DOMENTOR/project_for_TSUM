@@ -1,7 +1,7 @@
 from transformers import CLIPProcessor, CLIPModel
-from torchvision import models, transforms
+# from torchvision import models, transforms
 from PIL import Image
-import torch
+# import torch
 
 # ============================
 # CLIP Model (Open AI) - Базовая версия
@@ -15,7 +15,7 @@ def classify_image_clip_base(image_path):
     outputs = clip_base_model(**inputs)
     logits_per_image = outputs.logits_per_image
     probs = logits_per_image.softmax(dim=1)
-    return probs[0][0].item()  # Вероятность наличия одежды
+    return probs[0][0].item()  # Вероятность наличия одежды (нулевого класса в списке text)
 
 # ============================
 # CLIP Model (Open AI) - Большая версия
@@ -29,7 +29,7 @@ def classify_image_clip_large(image_path):
     outputs = clip_large_model(**inputs)
     logits_per_image = outputs.logits_per_image
     probs = logits_per_image.softmax(dim=1)
-    return probs[0][0].item()  # Вероятность наличия одежды
+    return probs[0][0].item()  # Вероятность наличия одежды (нулевого класса в списке text)
 
 # # ============================
 # # ResNet50 Model - Pretrained on ImageNet

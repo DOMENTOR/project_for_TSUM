@@ -261,7 +261,7 @@ def __main__():
             logger.info(f'Самый ранний пост: {stats["earliest_post"]}')
             logger.info(f'Самый поздний пост: {stats["latest_post"]}')
 
-            # Вывод в консоль
+            # Вывод в консоль (временно для дебага)
             print(f'Канал: {channel}')
             print(f'Скачано постов: {stats["post_count"]}')
             print(f'Скачано медиафайлов: {stats["media_count"]}')

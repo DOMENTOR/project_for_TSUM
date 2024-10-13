@@ -1225,3 +1225,7 @@
 2024-10-13 07:06:04,488 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
 2024-10-13 07:06:04,491 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
 2024-10-13 07:06:05,205 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-13 12:01:13,573 - telethon.crypto.libssl - INFO - Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2024-10-13 12:01:13,574 - telethon.crypto.aes - INFO - cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2024-10-13 12:01:14,250 - telegram_bot_parser - INFO - Логгер инициализирован.
+2024-10-13 12:01:52,217 - telegram_bot_parser - INFO - Тестовое сообщение для проверки логгера.
